@@ -1,0 +1,204 @@
+#EXTM3U
+
+# BBC UK-ONLY
+
+# BBC NATIONAL RADIO
+
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_one/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO 1
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_one.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_one_anthems/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO 1 ANTHEMS
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_one_anthems.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_one_dance/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO 1 DANCE
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_one_dance.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_1xtra/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO 1XTRA
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_1xtra.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_two/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO 2
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_two.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_three/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO 3
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_three.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_three_unwind/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO 3 UNWIND
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_three_unwind.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_four/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO 4
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_fourfm.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_four_extra/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO 4 EXTRA
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_four_extra.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_five_live/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO 5 LIVE
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_five_live.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_five_live_sports_extra/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO 5 LIVE SPORTS EXTRA
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_five_live_sports_extra.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_five_sports_extra_2/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO 5 SPORTS EXTRA 2
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_five_sports_extra_2.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_five_sports_extra_3/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO 5 SPORTS EXTRA 3
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_five_sports_extra_3.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_6music/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO 6 MUSIC
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_6music.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_asian_network/colour_default.svg" group-title="BBC;ENGLISH",BBC ASIAN NETWORK
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_asian_network.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_world_service/colour_default.svg" group-title="BBC;ENGLISH",BBC WORLD SERVICE ONLINE
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_world_service.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_world_service_news_internet/colour_default.svg" group-title="BBC;ENGLISH",BBC WORLD SERVICE NEWS INTERNET
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_world_service_news_internet.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_sounds_news/colour_default.svg" group-title="BBC;ENGLISH",BBC LIVE NEWS
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_sounds_news.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/cbeebies_radio/colour_default.svg" group-title="BBC;ENGLISH",BBC CBEEBIES RADIO
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/cbeebies_radio.m3u8
+
+# BBC WORLD SERVICE SCHEDULE VARIATIONS
+
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_world_service/colour_default.svg" group-title="BBC;ENGLISH",BBC WORLD SERVICE AMERICAS
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_world_service_americas.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_world_service/colour_default.svg" group-title="BBC;ENGLISH",BBC WORLD SERVICE AUSTRALASIA
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_world_service_australasia.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_world_service/colour_default.svg" group-title="BBC;ENGLISH",BBC WORLD SERVICE EAST AFRICA
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_world_service_east_africa.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_world_service/colour_default.svg" group-title="BBC;ENGLISH",BBC WORLD SERVICE EAST ASIA
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_world_service_east_asia.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_world_service/colour_default.svg" group-title="BBC;ENGLISH",BBC WORLD SERVICE EUROPE
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_world_service_europe.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_world_service/colour_default.svg" group-title="BBC;ENGLISH",BBC WORLD SERVICE SOUTH ASIA
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_world_service_south_asia.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_world_service/colour_default.svg" group-title="BBC;ENGLISH",BBC WORLD SERVICE WEST AFRICA
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_world_service_west_africa.m3u8
+
+# BBC REGIONAL RADIO
+
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_scotland/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO SCOTLAND
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_scotland_fm.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/services/bbc_radio_scotland_mw/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO SCOTLAND EXTRA
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_scotland_mw.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/services/bbc_radio_orkney/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO ORKNEY
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_orkney.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/services/bbc_radio_shetland/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO SHETLAND
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_shetland.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_nan_gaidheal/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO NAN GÀIDHEAL
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_nan_gaidheal.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_ulster/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO ULSTER
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_ulster.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_foyle/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO FOYLE
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_foyle.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_wales/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO WALES
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_wales_fm.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/services/bbc_radio_wales_am/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO WALES EXTRA
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_wales_am.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_cymru/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO CYMRU
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_cymru.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_cymru_2/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO CYMRU 2
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_cymru_2.m3u8
+
+# BBC LOCAL RADIO
+
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_berkshire/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO BERKSHIRE
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_berkshire.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_bristol/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO BRISTOL
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_bristol.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_cambridge/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO CAMBRIDGESHIRE
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_cambridge.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_cornwall/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO CORNWALL
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_cornwall.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_coventry_warwickshire/colour_default.svg" group-title="BBC;ENGLISH",BBC CWR [COVENTRY WARWICKSHIRE]
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_coventry_warwickshire.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_cumbria/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO CUMBRIA
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_cumbria.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_derby/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO DERBY
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_derby.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_devon/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO DEVON
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_devon.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_essex/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO ESSEX
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_essex.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_gloucestershire/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO GLOUCESTERSHIRE
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_gloucestershire.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_guernsey/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO GUERNSEY
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_guernsey.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_hereford_worcester/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO HEREFORD & WORCESTER
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_hereford_worcester.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_humberside/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO HUMBERSIDE
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_humberside.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_jersey/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO JERSEY
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_jersey.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_kent/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO KENT
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_kent.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_lancashire/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO LANCASHIRE
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_lancashire.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_leeds/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO LEEDS
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_leeds.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_leicester/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO LEICESTER
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_leicester.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_lincolnshire/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO LINCOLNSHIRE
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_lincolnshire.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_london/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO LONDON
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_london.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_manchester/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO MANCHESTER
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_manchester.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_merseyside/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO MERSEYSIDE
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_merseyside.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_newcastle/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO NEWCASTLE
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_newcastle.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_norfolk/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO NORFOLK
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_norfolk.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_northampton/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO NORTHAMPTON
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_northampton.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_nottingham/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO NOTTINGHAM
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_nottingham.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_oxford/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO OXFORD
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_oxford.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_sheffield/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO SHEFFIELD
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_sheffield.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_shropshire/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO SHROPSHIRE
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_shropshire.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_solent/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO SOLENT
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_solent.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/services/bbc_radio_solent_west_dorset/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO SOLENT DORSET
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_solent_west_dorset.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_somerset_sound/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO SOMERSET
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_somerset_sound.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_stoke/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO STOKE
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_stoke.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_suffolk/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO SUFFOLK
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_suffolk.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_surrey/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO SURREY
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_surrey.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_sussex/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO SUSSEX
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_sussex.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_tees/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO TEES
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_tees.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_three_counties_radio/colour_default.svg" group-title="BBC;ENGLISH",BBC THREE COUNTIES RADIO
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_three_counties_radio.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_wiltshire/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO WILTSHIRE
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_wiltshire.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_wm/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO WM [WEST MIDLANDS]
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_wm.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_york/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO YORK
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_york.m3u8
+
+# BBC FOREIGN LANGUAGE SERVICES
+
+#EXTINF:-1 radio="true" tvg-logo="https://m.media-amazon.com/images/I/31qJ7MHT3lL.png" group-title="BBC;ENGLISH",BBC AFRIQUE
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_afrique_radio.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://m.media-amazon.com/images/I/31qJ7MHT3lL.png" group-title="BBC;ENGLISH",BBC AMHARIC
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_amharic_radio.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://m.media-amazon.com/images/I/31qJ7MHT3lL.png" group-title="BBC;ENGLISH",BBC ARABIC
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_arabic_radio.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://m.media-amazon.com/images/I/31qJ7MHT3lL.png" group-title="BBC;ENGLISH",BBC BURMESE
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_burmese_radio.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://m.media-amazon.com/images/I/31qJ7MHT3lL.png" group-title="BBC;ENGLISH",BBC DARI
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_dari_radio.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://m.media-amazon.com/images/I/31qJ7MHT3lL.png" group-title="BBC;ENGLISH",BBC GAHUZA
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_gahuza_radio.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://m.media-amazon.com/images/I/31qJ7MHT3lL.png" group-title="BBC;ENGLISH",BBC HAUSA
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_hausa_radio.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://m.media-amazon.com/images/I/31qJ7MHT3lL.png" group-title="BBC;ENGLISH",BBC KOREAN
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_korean_radio.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://m.media-amazon.com/images/I/31qJ7MHT3lL.png" group-title="BBC;ENGLISH",BBC NEPALI
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_nepali_radio.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://m.media-amazon.com/images/I/31qJ7MHT3lL.png" group-title="BBC;ENGLISH",BBC OROMO
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_oromo_radio.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://m.media-amazon.com/images/I/31qJ7MHT3lL.png" group-title="BBC;ENGLISH",BBC PASHTO
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_pashto_radio.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://m.media-amazon.com/images/I/31qJ7MHT3lL.png" group-title="BBC;ENGLISH",BBC SOMALI
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_somali_radio.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://m.media-amazon.com/images/I/31qJ7MHT3lL.png" group-title="BBC;ENGLISH",BBC SWAHILI
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_swahili_radio.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://m.media-amazon.com/images/I/31qJ7MHT3lL.png" group-title="BBC;ENGLISH",BBC TIGRINYA
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_tigrinya_radio.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://m.media-amazon.com/images/I/31qJ7MHT3lL.png" group-title="BBC;ENGLISH",BBC UZBEK
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_uzbek_radio.m3u8

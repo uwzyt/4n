@@ -1,0 +1,782 @@
+#EXTM3U
+
+# RADIO
+
+# RADIO FRANCE
+
+#EXTINF:-1 radio="true" tvg-logo="https://kodi.tv/images/addons/omega/plugin.audio.radiofrance/resources/icon.png" group-title="RADIO FRANCE;FRANÇAIS",FRANCE INTER
+https://stream.radiofrance.fr/franceinter/franceinter.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://kodi.tv/images/addons/omega/plugin.audio.radiofrance/resources/icon.png" group-title="RADIO FRANCE;FRANÇAIS",FRANCE INFO
+https://stream.radiofrance.fr/franceinfo/franceinfo.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://kodi.tv/images/addons/omega/plugin.audio.radiofrance/resources/icon.png" group-title="RADIO FRANCE;FRANÇAIS",ICI PARIS ÎLE-DE-FRANCE
+https://stream.radiofrance.fr/fb1071/fb1071.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://kodi.tv/images/addons/omega/plugin.audio.radiofrance/resources/icon.png" group-title="RADIO FRANCE;FRANÇAIS",FRANCE CULTURE
+https://stream.radiofrance.fr/franceculture/franceculture.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://kodi.tv/images/addons/omega/plugin.audio.radiofrance/resources/icon.png" group-title="RADIO FRANCE;FRANÇAIS",FRANCE MUSIQUE
+https://stream.radiofrance.fr/francemusique/francemusique.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://kodi.tv/images/addons/omega/plugin.audio.radiofrance/resources/icon.png" group-title="RADIO FRANCE;FRANÇAIS",FIP
+https://stream.radiofrance.fr/fip/fip.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://kodi.tv/images/addons/omega/plugin.audio.radiofrance/resources/icon.png" group-title="RADIO FRANCE;FRANÇAIS",MOUV’
+https://stream.radiofrance.fr/mouv/mouv.m3u8
+
+# RTBF
+
+#EXTINF:-1 radio="true" tvg-logo="https://assets.radioplayer.org/056/0561103/11/1523-mig52cxv.jpeg" group-title="RTBF;FRANÇAIS",RTBF LA PREMIÈRE BRUXELLES
+http://radios.rtbf.be/laprem1erebxl-128.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://assets.radioplayer.org/056/05612/11/1523-mih8w2i1.jpeg" group-title="RTBF;FRANÇAIS",RTBF VIVACITÉ BRUXELLES
+https://radio.rtbf.be/viva-bxl/mp3-160
+#EXTINF:-1 radio="true" tvg-logo="https://assets.radioplayer.org/056/05618/11/1523-mihfijdl.jpeg" group-title="RTBF;FRANÇAIS",RTBF MUSIQ3
+https://radio.rtbf.be/musiq3/mp3-320
+#EXTINF:-1 radio="true" tvg-logo="https://assets.radioplayer.org/056/0562/11/1523-micy0fc0.jpeg" group-title="RTBF;FRANÇAIS",RTBF CLASSIC 21
+https://radio.rtbf.be/c21/mp3-160
+#EXTINF:-1 radio="true" tvg-logo="https://assets.radioplayer.org/056/05611/11/1523-mig4ywal.jpeg" group-title="RTBF;FRANÇAIS",RTBF TIP!K
+https://radio.rtbf.be/tipik/mp3-160
+#EXTINF:-1 radio="true" tvg-logo="https://assets.radioplayer.org/056/056210/11/1523-mihg2wqc.jpeg" group-title="RTBF;FRANÇAIS",RTBF TARMAC
+https://radio.rtbf.be/tarmac/mp3-160
+#EXTINF:-1 radio="true" tvg-logo="https://assets.radioplayer.org/056/0561132/11/1523-miizoug8.jpeg" group-title="RTBF;FRANÇAIS",RTBF JAM
+https://radio.rtbf.be/jam/mp3-160
+#EXTINF:-1 radio="true" tvg-logo="https://assets.radioplayer.org/056/0561131/11/1523-mih8q0k0.jpeg" group-title="RTBF;FRANÇAIS",RTBF VIVA +
+https://radio.rtbf.be/vivaplus/mp3-160
+#EXTINF:-1 radio="true" tvg-logo="https://assets.radioplayer.org/056/056216/11/1523-miizzl3u.jpeg" group-title="RTBF;FRANÇAIS",RTBF VIVA SPORT
+https://radio.rtbf.be/viva-sport/mp3-160
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/RTBF_MIX_LOGO_bleu.png/960px-RTBF_MIX_LOGO_bleu.png" group-title="RTBF;FRANÇAIS",RTBF MIX
+http://radio.rtbf.be/mix/mp3-160
+
+# RTS
+
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/RTS_Premi%C3%A8re_logo_2024.svg/960px-RTS_Premi%C3%A8re_logo_2024.svg.png" group-title="SRG SSR;FRANÇAIS",RTS PREMIÈRE
+https://stxt-audiostreaming.akamaized.net/hls/live/2117380/la-1ere/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/RTS_Espace_2_logo_2024.svg/960px-RTS_Espace_2_logo_2024.svg.png" group-title="SRG SSR;FRANÇAIS",RTS ESPACE 2
+https://stxt-audiostreaming.akamaized.net/hls/live/2117380/espace-2/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/RTS_Couleur_3_2024.svg/960px-RTS_Couleur_3_2024.svg.png" group-title="SRG SSR;FRANÇAIS",RTS COULEUR 3
+https://stxt-audiostreaming.akamaized.net/hls/live/2117380/couleur3/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/RTS_Option_Musique_logo_2024.svg/960px-RTS_Option_Musique_logo_2024.svg.png" group-title="SRG SSR;FRANÇAIS",RTS OPTION MUSIQUE
+https://stxt-audiostreaming.akamaized.net/hls/live/2117380/option-musique/master.m3u8
+
+# ICI
+
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c4/ICI_Premiere_logo.svg/960px-ICI_Premiere_logo.svg.png" group-title="ICI;FRANÇAIS",ICI PREMIÈRE [MONTRÉAL]
+https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/da/ICI_Musique.svg/960px-ICI_Musique.svg.png" group-title="ICI;FRANÇAIS",ICI MUSIQUE [MONTRÉAL/TORONTO/WINDSOR]
+https://rcavliveaudio.akamaized.net/hls/live/2006979/M-7QMTL0_MTL/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/da/ICI_Musique.svg/960px-ICI_Musique.svg.png" group-title="ICI;FRANÇAIS",ICI MUSIQUE CLASSIQUE
+https://rcavliveaudio.akamaized.net/hls/live/2007000/MUSE/master.m3u8
+
+# FRANCE MÉDIAS MONDE
+
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/RFI_logo_2013.svg" group-title="FMM;FRANÇAIS",RFI MONDE
+https://rfimonde.ice.infomaniak.ch/rfimonde-96k.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/425/rfi-musique.1ec8c666.png" group-title="FMM;FRANÇAIS",RFI MUSIQUE
+http://rfimusiquemonde.ice.infomaniak.ch/rfimusiquemonde-96k.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/ed/MonteCarloDoualiya_2013.svg" group-title="FMM;ARABIC",MONTE CARLO DOUALIYA
+https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3
+
+# OUTRE-MER LA PREMIÈRE
+
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/France_1_2018.svg" group-title="OUTRE-MER;FRANÇAIS",OUTRE-MER LA PREMIÈRE
+https://outremer.ice.infomaniak.ch/outremer-128.mp3
+
+# VRT
+
+#EXTINF:-1 radio="true" tvg-logo="https://assets.radioplayer.org/056/0565001/600/600/m78ugp4a.png" group-title="VRT;NEDERLANDS",VRT RADIO 1
+http://icecast.vrtcdn.be/radio1-high.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://assets.radioplayer.org/056/0565003/600/600/mbkiv0tw.png" group-title="VRT;NEDERLANDS",VRT RADIO 2 VLAAMS-BRABANT
+http://icecast.vrtcdn.be/ra2vlb-high.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://assets.radioplayer.org/056/0565007/600/600/l45b0mzj.png" group-title="VRT;NEDERLANDS",VRT KLARA
+http://icecast.vrtcdn.be/klara-high.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://assets.radioplayer.org/056/0565009/600/600/lp6uy2ib.jpeg" group-title="VRT;NEDERLANDS",VRT STUDIO BRUSSEL
+http://icecast.vrtcdn.be/stubru-high.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://assets.radioplayer.org/056/0565011/600/600/m0ut833c.png" group-title="VRT;NEDERLANDS",VRT MNM
+http://icecast.vrtcdn.be/mnm-high.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/VRT_NWS_logo_2022.svg/960px-VRT_NWS_logo_2022.svg.png" group-title="VRT;NEDERLANDS",VRT NWS
+https://icecast.vrtcdn.be/vrtnws-high.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://radioplayer.vrt.be/iframe/img/channelDogs/klaracontinuo.png" group-title="VRT;NEDERLANDS",VRT KLARA CONTINUO 
+http://icecast.vrtcdn.be/klaracontinuo-high.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://assets.radioplayer.org/056/0565012/600/600/m0utbvtc.png" group-title="VRT;NEDERLANDS",VRT MNM HITS
+http://icecast.vrtcdn.be/mnm_hits-high.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://assets.radioplayer.org/056/0565019/600/600/lxye4ny7.png" group-title="VRT;NEDERLANDS",VRT RADIO BENE
+http://icecast.vrtcdn.be/radiobene-high.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://assets.radioplayer.org/056/0565010/600/600/m0xz4axu.png" group-title="VRT;NEDERLANDS",VRT DE TIJDLOZE
+http://icecast.vrtcdn.be/stubru_tijdloze-high.mp3
+
+# BRF
+
+#EXTINF:-1 radio="true" tvg-logo="https://1.brf.be/wp-content/themes/pixelpress/dist/assets/images/2/logo.svg" group-title="BRF;DEUTSCH",BRF 1
+https://streaming.brf.be/brf1-high.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://2.brf.be/wp-content/themes/pixelpress/dist/assets/images/3/logo.svg" group-title="BRF;DEUTSCH",BRF 2
+https://streaming.brf.be/brf2-high.mp3
+
+# ΕΡΤ
+
+#EXTINF:-1 radio="true" tvg-logo="https://www.ertecho.gr/wp-content/uploads/2025/09/newsradio-logo.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ;ΡΑΔΙΟΦΩΝΟ",ΕΡΤ NEWS RADIO
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/PROTO/default/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://www.ertecho.gr/wp-content/uploads/2025/07/deytero-logo.svg" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ;ΡΑΔΙΟΦΩΝΟ",ΕΡΤ ΔΕΥΤΕΡΟ ΠΡΟΓΡΑΜΜΑ
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/DEFTERO/default/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://www.ertecho.gr/wp-content/uploads/2025/07/deytero-laika-logo.svg" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ;ΡΑΔΙΟΦΩΝΟ",ΕΡΤ ΔΕΥΤΕΡΟ ΛΑΪΚΑ
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/Deutero_Laika/default/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://www.ertecho.gr/wp-content/uploads/2025/07/deytero-paradosiaka-logo.svg" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ;ΡΑΔΙΟΦΩΝΟ",ΕΡΤ ΔΕΥΤΕΡΟ ΠΑΡΑΔΟΣΙΑΚΑ
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/Deutero_Paradosiaka/default/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://www.ertecho.gr/wp-content/uploads/2025/07/trito-logo.svg" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ;ΡΑΔΙΟΦΩΝΟ",ΕΡΤ ΤΡΙΤΟ ΠΡΟΓΡΑΜΜΑ
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/Trito/default/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://www.ertecho.gr/wp-content/uploads/2025/07/trito-maestro-logo.svg" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ;ΡΑΔΙΟΦΩΝΟ",ΕΡΤ ΤΡΙΤΟ MAESTRO
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/Trito_Maestro/default/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://www.ertecho.gr/wp-content/uploads/2025/07/kosmos-logo-1.svg" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ;ΡΑΔΙΟΦΩΝΟ",ΕΡΤ KOSMOS
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/Kosmos/default/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://www.ertecho.gr/wp-content/uploads/2025/07/kosmos-jazz-logo.svg" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ;ΡΑΔΙΟΦΩΝΟ",ΕΡΤ KOSMOS JAZZ
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/Kosmos_Jazz/default/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://www.ertecho.gr/wp-content/uploads/2025/07/zeppelin-logo.svg" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ;ΡΑΔΙΟΦΩΝΟ",ΕΡΤ ZEPPELIN
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/Zeppelin/default/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://www.ertecho.gr/wp-content/uploads/2025/07/era-spor-logo.svg" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ;ΡΑΔΙΟΦΩΝΟ",ΕΡΑ ΣΠΟΡ
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERA_Spor/default/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://www.ertecho.gr/wp-content/uploads/2025/07/vog-logo.svg" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ;ΡΑΔΙΟΦΩΝΟ",ΕΡΤ Η ΦΩΝΗ ΤΗΣ ΕΛΛΑΔΑΣ
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/Voice_of_Greece/default/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://www.ertecho.gr/wp-content/uploads/2025/12/95-8-180x180-2.svg" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ;ΡΑΔΙΟΦΩΝΟ",ΕΡΤ 958FM
+https://radiostreaming.ert.gr/ert-958fm
+#EXTINF:-1 radio="true" tvg-logo="https://www.ertecho.gr/wp-content/uploads/2025/12/102-180x180-1.svg" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ;ΡΑΔΙΟΦΩΝΟ",ΕΡΤ 102FM
+https://radiostreaming.ert.gr/ert-102fm
+#EXTINF:-1 radio="true" tvg-logo="https://www.ertecho.gr/wp-content/uploads/2025/12/vintage-radio-180x180-new.svg" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ;ΡΑΔΙΟΦΩΝΟ",ΕΡΤ VINTAGE RADIO
+https://radiostreaming.ert.gr/vintage-radio
+#EXTINF:-1 radio="true" tvg-logo="https://www.ertecho.gr/wp-content/uploads/2025/12/logo-80s-180x180small.svg" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ;ΡΑΔΙΟΦΩΝΟ",ΕΡΤ RADIO 80S
+https://radiostreaming.ert.gr/radio-80s
+#EXTINF:-1 radio="true" tvg-logo="https://www.ertecho.gr/wp-content/uploads/2025/12/logo-90s-180x180-small.svg" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ;ΡΑΔΙΟΦΩΝΟ",ΕΡΤ RADIO 90S
+https://radiostreaming.ert.gr/radio-90s
+#EXTINF:-1 radio="true" tvg-logo="https://www.ertecho.gr/wp-content/uploads/2025/12/hits-radio-180x180-1.svg" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ;ΡΑΔΙΟΦΩΝΟ",ΕΡΤ NOW HITS RADIO
+https://radiostreaming.ert.gr/hits-radio
+#EXTINF:-1 radio="true" tvg-logo="https://play-lh.googleusercontent.com/V_yH5Dczl5fytgMcn7yQEN4UXiZgxZ6LZutlmJ5wugATiEYsOQgSQyWDHWC6FOd6XFek" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ;ΡΑΔΙΟΦΩΝΟ",ΕΡΤ SEASONAL
+https://radiostreaming.ert.gr/ert-seasonal
+
+# ΡΙΚ
+
+#EXTINF:-1 radio="true" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/1._rik-radio-1_logo.original.png" group-title="ΡΙΚ;ΕΛΛΗΝΙΚΑ;ΡΑΔΙΟΦΩΝΟ",ΡΙΚ ΠΡΩΤΟ ΠΡΟΓΡΑΜΜΑ
+https://r1.cloudskep.com/cybcr/cybc1/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2._rik-radio-2_logo_2.original.png" group-title="ΡΙΚ;ΕΛΛΗΝΙΚΑ;ΡΑΔΙΟΦΩΝΟ",ΡΙΚ ΔΕΥΤΕΡΟ ΠΡΟΓΡΑΜΜΑ
+https://r1.cloudskep.com/cybcr/cybc2/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/3._rik-radio-3_logo.original.png" group-title="ΡΙΚ;ΕΛΛΗΝΙΚΑ;ΡΑΔΙΟΦΩΝΟ",ΡΙΚ ΤΡΙΤΟ ΠΡΟΓΡΑΜΜΑ
+https://r1.cloudskep.com/cybcr/cybc3/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/4._rik-radio-4_logo_2.original.png" group-title="ΡΙΚ;ΕΛΛΗΝΙΚΑ;ΡΑΔΙΟΦΩΝΟ",ΡΙΚ ΤΕΤΑΡΤΟ ΠΡΟΓΡΑΜΜΑ
+https://r1.cloudskep.com/cybcr/cybc4/playlist.m3u8
+
+# ΕΛΛΗΙΝΙΚΑ ΔΙΑΦΟΡΑ
+
+#EXTINF:-1 radio="true" tvg-logo="https://p-cache.s3.cloudworks.ro/soundis-gr/cache/640/640/1/streams/2024/01/29/rythmos-logo-red-star_a678fca2aee4e0439592c1be8bf9e5a9.png" group-title="ΕΛΛΗΝΙΚΑ;ΡΑΔΙΟΦΩΝΟ",ΡΥΘΜΟΣ 94.9
+https://stream.rcs.revma.com/0btynq5r4a0uv
+#EXTINF:-1 radio="true" tvg-logo="https://p-cache.s3.cloudworks.ro/soundis-gr/cache/120/120/1/streams/2023/10/05/station-default-epg-image_277d332b4c808d54b3a1e1e711b48180.png" group-title="ΕΛΛΗΝΙΚΑ;ΡΑΔΙΟΦΩΝΟ",ANT1 RADIO
+https://stream.rcs.revma.com/f4xvg13btc9uv
+#EXTINF:-1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s291260/images/logod.jpg" group-title="ΕΛΛΗΝΙΚΑ;ΡΑΔΙΟΦΩΝΟ",EASY 97.2
+https://n21a-eu.rcs.revma.com/4vr91u5r4a0uv
+#EXTINF:-1 radio="true" tvg-logo="https://www.skairadio.gr/themes/s1003/assets/images/logo-1904.png" group-title="ΕΛΛΗΝΙΚΑ;ΡΑΔΙΟΦΩΝΟ",ΣΚΑΪ 100.3
+http://netradio.live24.gr/skai1003
+#EXTINF:-1 radio="true" tvg-logo="https://alpharadio989.gr/_nuxt/img/alpha-logo.7df3ca4.png" group-title="ΕΛΛΗΝΙΚΑ;ΡΑΔΙΟΦΩΝΟ",ALPHA RADIO 98.9
+http://stream.radiojar.com/xcdg6yggzfeuv.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://resources.live24.gr/resources/images/stations/fa7d015e-5251-40aa-ae43-c82aae49b6e5.png" group-title="ΕΛΛΗΝΙΚΑ;ΡΑΔΙΟΦΩΝΟ",PALMOS 96.5
+https://cast1.asurahosting.com/proxy/palmos965/stream
+#EXTINF:-1 radio="true" tvg-logo="https://onradio.gr/wp-content/uploads/2020/04/fly104.png" group-title="ΕΛΛΗΝΙΚΑ;ΡΑΔΙΟΦΩΝΟ",FLY 104
+https://imagine2.radioca.st/;listen.pls
+#EXTINF:-1 radio="true" tvg-logo="https://www.kiss929.gr/sites/all/themes/kiss/images/logo-kiss-2023.jpg" group-title="ΕΛΛΗΝΙΚΑ;ΡΑΔΙΟΦΩΝΟ",KISS 92.9
+http://kissfm.live24.gr/kissfmathens
+#EXTINF:-1 radio="true" tvg-logo="https://www.atticaradios.gr/Content/ImagesDatabase/p/crop/both/4f/4fad192c1e40443e9cc9d09532425b69.svg" group-title="ΕΛΛΗΝΙΚΑ;ΡΑΔΙΟΦΩΝΟ",ΛΑΜΨΗ 92.3
+https://az11.yesstreaming.net:8140/radio.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.loveradio.gr/images/love_logos.png" group-title="ΕΛΛΗΝΙΚΑ;ΡΑΔΙΟΦΩΝΟ",LOVE RADIO 97.5
+http://loveradio.live24.gr/loveradio-1000
+#EXTINF:-1 radio="true" tvg-logo="https://mm.aiircdn.com/632/5e185a3184ae6.png" group-title="ΕΛΛΗΝΙΚΑ;ΡΑΔΙΟΦΩΝΟ",ΜΕΛΩΔΙΑ 99.2
+https://stream.rcs.revma.com/8tdwa6ez1duvv
+#EXTINF:-1 radio="true" tvg-logo="https://athina984.gr/wp-content/uploads/2025/01/athina984logo-600x159.jpg" group-title="ΕΛΛΗΝΙΚΑ;ΡΑΔΙΟΦΩΝΟ",ΑΘΗΝΑ 9.84
+http://athina984.live24.gr/athina984
+#EXTINF:-1 radio="true" tvg-logo="https://diesi.gr/wp-content/uploads/2024/03/diesi-programma.jpg" group-title="ΕΛΛΗΝΙΚΑ;ΡΑΔΙΟΦΩΝΟ",ΔΙΕΣΗ 101.3 FM
+https://n17a-eu.rcs.revma.com/gkfwrhqxbfhvv
+#EXTINF:-1 radio="true" tvg-logo="https://sfera.gr/wp-content/uploads/2024/12/cropped-logo-1.png" group-title="ΕΛΛΗΝΙΚΑ;ΡΑΔΙΟΦΩΝΟ",SFERA 102.2
+http://sfera.live24.gr/sfera4132
+#EXTINF:-1 radio="true" tvg-logo="https://www.dromosfm.gr/wp-content/uploads/2017/03/dromosfmlogo3d-retina.png" group-title="ΕΛΛΗΝΙΚΑ;ΡΑΔΙΟΦΩΝΟ",ΔΡΟΜΟΣ 89.8 FM
+https://n09a-eu.rcs.revma.com/10q3enqxbfhvv
+#EXTINF:-1 radio="true" tvg-logo="https://derti.gr/wp-content/uploads/2023/12/DERTI.png" group-title="ΕΛΛΗΝΙΚΑ;ΡΑΔΙΟΦΩΝΟ",DERTI RADIO
+http://derti.live24.gr/derty1000
+#EXTINF:-1 radio="true" tvg-logo="https://www.eroticos.gr/wp-content/uploads/2021/07/logo-erotikos.svg" group-title="ΕΛΛΗΝΙΚΑ;ΡΑΔΙΟΦΩΝΟ",ΕΡΩΤΙΚΟΣ 9.48
+http://eu9.fastcast4u.com:5282/;
+#EXTINF:-1 radio="true" tvg-logo="https://player.real.gr/wp-content/uploads/2024/09/realfm.png" group-title="ΕΛΛΗΝΙΚΑ;ΡΑΔΙΟΦΩΝΟ",REAL FM 97.8
+http://realfm.live24.gr/realfm
+#EXTINF:-1 radio="true" tvg-logo="https://menta88.gr/wp-content/uploads/2023/05/logo_m.png" group-title="ΕΛΛΗΝΙΚΑ;ΡΑΔΙΟΦΩΝΟ",ΜΕΝΤΑ 88 FM
+http://stream.radiojar.com/menta.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.drs953.gr/uploads/2023/12/DRS-953-Logo.png" group-title="ΕΛΛΗΝΙΚΑ;ΡΑΔΙΟΦΩΝΟ",DRS 95.3
+http://drs953.live24.gr/drs953
+#EXTINF:-1 radio="true" tvg-logo="https://onradio.gr/wp-content/uploads/2020/04/stagon876.png" group-title="ΕΛΛΗΝΙΚΑ;ΡΑΔΙΟΦΩΝΟ",ΡΑΔΙΟ ΣΤΑΓΩΝ 87.6
+http://s1.onweb.gr:8830/;
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/radiosiatistas.png" group-title="ΕΛΛΗΝΙΚΑ;ΡΑΔΙΟΦΩΝΟ",RADIO SIATISTA 95.7
+https://eco.onestreaming.com/proxy/radiosiatistas/stream
+#EXTINF:-1 radio="true" tvg-logo="https://topradio.me/assets/image/radio/180/laikos-fm.png" group-title="ΕΛΛΗΝΙΚΑ;ΡΑΔΙΟΦΩΝΟ",ΛΑÏΚΟΣ 87.6
+http://netradio.live24.gr/laikos876
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/46580.v2.png" group-title="ΕΛΛΗΝΙΚΑ;ΡΑΔΙΟΦΩΝΟ",ΔΙΑΥΛΟΣ 91.1
+https://s6.e-resellers.gr/8062/stream
+#EXTINF:-1 radio="true" tvg-logo="https://skylos90fm.gr/wp-content/uploads/2019/12/cropped-mad-designer-768x623.png" group-title="ΕΛΛΗΝΙΚΑ;ΡΑΔΙΟΦΩΝΟ",ΣΚΥΛΟΣ 90 FM
+https://stream.radiojar.com/819r8wupdrruv
+#EXTINF:-1 radio="true" tvg-logo="https://www.tv100.gr/fm100.png" group-title="ΕΛΛΗΝΙΚΑ;ΡΑΔΙΟΦΩΝΟ",FM 100 ΘΕΣΣΑΛΟΝΙΚΗ
+https://panel.gwebstream.com:2020/stream/fm100skg
+#EXTINF:-1 radio="true" tvg-logo="https://www.tv100.gr/fm1006.png" group-title="ΕΛΛΗΝΙΚΑ;ΡΑΔΙΟΦΩΝΟ",FM 100.6 ΘΕΣΣΑΛΟΝΙΚΗ
+https://panel.gwebstream.com:2020/stream/fm1006skg
+
+# BBC NATIONAL RADIO
+
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_one/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO 1
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_one.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_one_anthems/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO 1 ANTHEMS
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_one_anthems.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_one_dance/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO 1 DANCE
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_one_dance.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_1xtra/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO 1XTRA
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_1xtra.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_two/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO 2
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_two.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_three/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO 3
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_three.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_three_unwind/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO 3 UNWIND
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_three_unwind.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_four/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO 4
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_fourfm.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_four_extra/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO 4 EXTRA
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_four_extra.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_five_live/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO 5 LIVE NON-UK
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_radio_five_live.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_five_live/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO 5 LIVE UK [GEOBLOCKED]
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_five_live.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_five_live_sports_extra/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO 5 LIVE SPORTS EXTRA [GEOBLOCKED]
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_five_live_sports_extra.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_five_sports_extra_2/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO 5 SPORTS EXTRA 2 [GEOBLOCKED]
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_five_sports_extra_2.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_five_sports_extra_3/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO 5 SPORTS EXTRA 3 [GEOBLOCKED]
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/bbc_radio_five_sports_extra_3.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_6music/colour_default.svg" group-title="BBC;ENGLISH",BBC RADIO 6 MUSIC
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_6music.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_asian_network/colour_default.svg" group-title="BBC;ENGLISH",BBC ASIAN NETWORK
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_asian_network.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_world_service/colour_default.svg" group-title="BBC;ENGLISH",BBC WORLD SERVICE ONLINE
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_world_service.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_world_service_news_internet/colour_default.svg" group-title="BBC;ENGLISH",BBC WORLD SERVICE NEWS INTERNET
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_world_service_news_internet.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_sounds_news/colour_default.svg" group-title="BBC;ENGLISH",BBC LIVE NEWS
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_sounds_news.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/cbeebies_radio/colour_default.svg" group-title="BBC;ENGLISH",BBC CBEEBIES RADIO [GEOBLOCKED]
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/aks/cbeebies_radio.m3u8
+
+# RTÉ
+
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/RTÉ_Radio_1.svg/960px-RT%C3%89_Radio_1.svg.png" group-title="RTÉ;ENGLISH",RTÉ RADIO 1
+https://www.rte.ie/manifests/radio1.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/RTE_2fm_2016.svg/960px-RTE_2fm_2016.svg.png" group-title="RTÉ;ENGLISH",RTÉ 2FM
+https://www.rte.ie/manifests/2fm.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/RTÉ_RnaG_2010.svg/960px-RTÉ_RnaG_2010.svg.png" group-title="RTÉ;ENGLISH",RTÉ LYRIC FM
+https://www.rte.ie/manifests/lyric.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/RTÉ_lyric_fm_2010.svg/960px-RTÉ_lyric_fm_2010.svg.png" group-title="RTÉ;IRISH",RTÉ RAIDIÓ NA GAELTACHTA
+https://www.rte.ie/manifests/rnag.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/RTÉ_Gold_2010.svg/960px-RTÉ_Gold_2010.svg.png" group-title="RTÉ;ENGLISH",RTÉ GOLD
+https://www.rte.ie/manifests/gold.m3u8
+
+# CBC
+
+#EXTINF:-1 radio="true" tvg-logo="" group-title="CBC;ENGLISH",CBC RADIO ONE [ONTARIO (OTTAWA)]
+https://cbcradiolive.akamaized.net/hls/live/2041037/ES_R1ETT/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="" group-title="CBC;ENGLISH",CBC MUSIC [ATLANTIC]
+https://cbcradiolive.akamaized.net/hls/live/2041055/ES_R2AHF/master.m3u8
+
+# RNE
+
+#EXTINF:-1 radio="true" tvg-logo="https://img.rtve.es/i/?i=01734426387256.jpg" group-title="RTVE;ESPAÑOL",RNE RADIO NACIONAL MADRID
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r1_main.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://img.rtve.es/i/?i=01734426387256.jpg" group-title="RTVE;ESPAÑOL",RNE RADIO CLÁSICA
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r2_main.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://img.rtve.es/i/?i=01734426387256.jpg" group-title="RTVE;ESPAÑOL",RNE RADIO 3
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r3_main.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://img.rtve.es/i/?i=01734426387256.jpg" group-title="RTVE;ESPAÑOL",RNE RÀDIO 4
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r4_main.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://img.rtve.es/i/?i=01734426387256.jpg" group-title="RTVE;ESPAÑOL",RNE RADIO 5 MADRID
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r5_madrid_main.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://img.rtve.es/i/?i=01734426387256.jpg" group-title="RTVE;ESPAÑOL",RNE RADIO EXTERIOR
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_re_main.m3u8
+
+# RTVA
+
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_Ràdio_Nacional_d'Andorra_(2013).jpg" group-title="RTVA;CATALÀ",RÀDIO NACIONAL D’ANDORRA (RNA)
+https://livesg.rtva.hiway.media/restreamer/rtva_client/gpu-f-c0-7/restreamer/outgest/578e48f3-c654-4638-948a-be990c90807b/manifest.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://radioq.com/img/radio/4014/andorra-musica_2775.jpg" group-title="RTVA;CATALÀ",ANDORRA MÚSICA (AM)
+https://livesg.rtva.hiway.media/restreamer/rtva_client/gpu-g-c0-3/restreamer/outgest/0aeb53b3-9ec2-4f62-8b4d-e0d27ec8ec6e/manifest.m3u8
+
+# RTP
+
+#EXTINF:-1 radio="true" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/91-253119141305.png" group-title="RTP;PORTUGÊS",RTP ANTENA 1
+https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/92-403019141305.png" group-title="RTP;PORTUGÊS",RTP ANTENA 2
+https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/1-143718101410.png" group-title="RTP;PORTUGÊS",RTP ANTENA 3
+https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/95-594018101410.png" group-title="RTP;PORTUGÊS",RDP INTERNACIONAL
+https://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/94-063419141305.png" group-title="RTP;PORTUGÊS",RDP ÁFRICA
+https://streaming-live.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/98-590619141305.png" group-title="RTP;PORTUGÊS",RTP ANTENA 1 MADEIRA
+https://streaming-live.rtp.pt/liveradio/antena1madeira80a/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/97-400719141305.png" group-title="RTP;PORTUGÊS",RTP ANTENA 1 AÇORES
+https://streaming-live.rtp.pt/liveradio/antena1acores80a/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/promos/radiozigzag2020.jpg" group-title="RTP;PORTUGÊS",RTP RÁDIO ZIG ZAG
+https://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/100-222719141305.png" group-title="RTP;PORTUGÊS",RTP RÁDIO LUSITÂNIA
+https://streaming-live.rtp.pt/liveradio/lusitania80a/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/101-262619141305.png" group-title="RTP;PORTUGÊS",RTP ANTENA 2 JAZZIN’
+https://streaming-live.rtp.pt/liveradio/antena2jazzin80a/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/1022-000919141305.png" group-title="RTP;PORTUGÊS",RTP ANTENA 1 FADO
+https://streaming-live.rtp.pt/liveradio/antena1fado80a/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/99-030619141305.png" group-title="RTP;PORTUGÊS",RTP ANTENA 3 MADEIRA
+https://streaming-live.rtp.pt/liveradio/antena3madeira80a/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/1023-270819141305.png" group-title="RTP;PORTUGÊS",RTP ANTENA 2 OPERA
+https://streaming-live.rtp.pt/liveradio/antena2opera80a/playlist.m3u8
+
+# NPO
+
+#EXTINF:-1 radio="true" tvg-logo="https://www.nporadio1.nl/svg/npo_radio1_logo.svg" group-title="NPO;NEDERLANDS",NPO RADIO 1
+https://icecast.omroep.nl/radio1-bb-mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.nporadio2.nl/svg/npo_radio2_logo.svg" group-title="NPO;NEDERLANDS",NPO RADIO 2
+https://icecast.omroep.nl/radio2-bb-mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.npo3fm.nl/svg/npo_3fm_logo.svg" group-title="NPO;NEDERLANDS",NPO 3FM
+https://icecast.omroep.nl/3fm-bb-mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.npoklassiek.nl/svg/npo-klassiek-logo.svg" group-title="NPO;NEDERLANDS",NPO KLASSIEK
+https://icecast.omroep.nl/radio4-bb-mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.nporadio5.nl/svg/npo_radio5_logo.svg" group-title="NPO;NEDERLANDS",NPO RADIO 5
+https://icecast.omroep.nl/radio5-bb-mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.nporadio2.nl/soulenjazz/svg/npo_radio2_soul_en_jazz_logo.svg" group-title="NPO;NEDERLANDS",NPO SOUL & JAZZ
+https://icecast.omroep.nl/radio6-bb-mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.funx.nl/svg/funx_logo.svg" group-title="NPO;NEDERLANDS",NPO FUNX NL
+http://icecast.omroep.nl/funx-bb-mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.nporadio5.nl/sterrennl/svg/npo_sterrennl_logo.svg" group-title="NPO;NEDERLANDS",NPO STERREN NL
+https://icecast.omroep.nl/radio2-sterrennl-mp3
+#EXTINF:-1 radio="true" tvg-logo="https://radioimages.npox.nl/BLND/image/204c02b2-f7be-495b-aeb7-3f64d7950f81/NPO_BLEND_primair%20logo_colour_RGB.jpg" group-title="NPO;NEDERLANDS",NPO BLEND
+https://icecast.omroep.nl/npoblend-bb-mp3
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.npoplayer.nl/posters/npo-campus.jpg" group-title="NPO;NEDERLANDS",NPO CAMPUS
+https://icecast.omroep.nl/3fm-serioustalent-mp3
+
+# RAI
+
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Rai_Radio_1_-_Logo_2017.svg/960px-Rai_Radio_1_-_Logo_2017.svg.png" group-title="RAI;ITALIANO",RAI RADIO 1 [ITALIA]
+https://radiounoita-live.akamaized.net/hls/live/2032820/radiounoita/radiounoita/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Rai_Radio_1_-_Logo_2017.svg/960px-Rai_Radio_1_-_Logo_2017.svg.png" group-title="RAI;ITALIANO",RAI RADIO 1 [ESTERO]
+https://radiounoest-live.akamaized.net/hls/live/2032586/radiounoest/radiounoest/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Rai_Radio_2_-_Logo_2017.svg/960px-Rai_Radio_2_-_Logo_2017.svg.png" group-title="RAI;ITALIANO",RAI RADIO 2
+https://radiodue-live.akamaized.net/hls/live/2032592/radiodue/radiodue/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Rai_Radio_3_-_Logo_2017.svg/960px-Rai_Radio_3_-_Logo_2017.svg.png" group-title="RAI;ITALIANO",RAI RADIO 3 [ITALIA]
+https://radiotre-live.akamaized.net/hls/live/2032594/radiotre/radiotre/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Rai_Radio_3_-_Logo_2017.svg/960px-Rai_Radio_3_-_Logo_2017.svg.png" group-title="RAI;ITALIANO",RAI RADIO 3 [ESTERO]
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/radiotreest1/hls/playlist_mo.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Rai_Isoradio_-_Logo_2017.svg/960px-Rai_Isoradio_-_Logo_2017.svg.png" group-title="RAI;ITALIANO",RAI ISORADIO [ITALIA]
+https://isoradioita-live.akamaized.net/hls/live/2032601/isoradioita/isoradioita/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Rai_Isoradio_-_Logo_2017.svg/960px-Rai_Isoradio_-_Logo_2017.svg.png" group-title="RAI;ITALIANO",RAI ISORADIO [ESTERO]
+https://isoradioest-live.akamaized.net/hls/live/2032602/isoradioest/isoradioest/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/No_Name_Radio.svg/960px-No_Name_Radio.svg.png" group-title="RAI;ITALIANO",RAI NO NAME RADIO
+https://radiodueindie-live.akamaized.net/hls/live/2032593/radiodueindie/radiodueindie/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Rai_Radio_1_Sport_-_Logo_2018.svg/960px-Rai_Radio_1_Sport_-_Logo_2018.svg.png" group-title="RAI;ITALIANO",RAI RADIO 1 SPORT [ITALIA]
+https://radiounosportita-live.akamaized.net/hls/live/2032590/radiounosportita/radiounosportita/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Rai_Radio_1_Sport_-_Logo_2018.svg/960px-Rai_Radio_1_Sport_-_Logo_2018.svg.png" group-title="RAI;ITALIANO",RAI RADIO 1 SPORT [ESTERO]
+https://radiounosportest-live.akamaized.net/hls/live/2032591/radiounosportest/radiounosportest/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Rai_Radio_3_Classica_logo.svg/960px-Rai_Radio_3_Classica_logo.svg.png" group-title="RAI;ITALIANO",RAI RADIO 3 CLASSICA
+https://radiotreclassica-live.akamaized.net/hls/live/2032595/radiotreclassica/radiotreclassica/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rai_Gr_Parlamento_-_Logo_2017.svg/960px-Rai_Gr_Parlamento_-_Logo_2017.svg.png" group-title="RAI;ITALIANO",RAI RADIO GR PARLAMENTO
+https://radioparlamento-live.akamaized.net/hls/live/2032597/radioparlamento/radioparlamento/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rai_Radio_Techete%27_logo.svg/960px-Rai_Radio_Techete%27_logo.svg.png" group-title="RAI;ITALIANO",RAI RADIO TECHETÈ
+https://radiotechete-live.akamaized.net/hls/live/2032598/radiotechete/radiotechete/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Rai_Radio_Kids_logo.svg/960px-Rai_Radio_Kids_logo.svg.png" group-title="RAI;ITALIANO",RAI RADIO KIDS
+https://radiokids-live.akamaized.net/hls/live/2032600/radiokids/radiokids/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/07/Rai_Radio_Live_Napoli.svg/960px-Rai_Radio_Live_Napoli.svg.png" group-title="RAI;ITALIANO",RAI RADIO LIVE NAPOLI
+https://radiolive-live.akamaized.net/hls/live/2032599/radiolive/radiolive/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Rai_Radio_Tutta_Italiana_logo.svg/960px-Rai_Radio_Tutta_Italiana_logo.svg.png" group-title="RAI;ITALIANO",RAI RADIO TUTA ITALIANA
+https://radiotuttaitaliana-live.akamaized.net/hls/live/2032596/radiotuttaitaliana/radiotuttaitaliana/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Rai_Radio_Trst_A_-_Logo_2017.svg/960px-Rai_Radio_Trst_A_-_Logo_2017.svg.png" group-title="RAI;ITALIANO",RAI RADIO TRST A
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/friuliaudio1/hls/playlist_mo.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Rai_Südtirol_-_Logo_2019.svg/960px-Rai_Südtirol_-_Logo_2019.svg.png" group-title="RAI;ITALIANO",RAI RADIO SÜDTIROL
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/radiosudtirol1/hls/playlist_mo.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://www.sanmarinortv.sm/assets/frontend/img/footer-logo-radio-bn.png" group-title="RAI;ITALIANO",RADIO SAN MARINO [RAI STREAM]
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/radiosanmarino1/hls/playlist_mo.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://www.sanmarinortv.sm/assets/frontend/img/footer-logo-radio-bn.png" group-title="SMRTV;ITALIANO",RADIO SAN MARINO [RTV STREAM]
+https://d18ufyp3q60j7u.cloudfront.net/radio-ch01/radio-ch01/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://www.sanmarinortv.sm/assets/frontend/img/footer-logo-radio-classic-bn.png" group-title="SMRTV;ITALIANO",RADIO SAN MARINO CLASSIC
+https://d18ufyp3q60j7u.cloudfront.net/radio-ch01/radio-ch02/playlist.m3u8
+
+# DEUTSCHLANDRADIO
+
+#EXTINF:-1 radio="true" tvg-logo="https://api.ardmediathek.de/image-service/images/urn:ard:image:4f598a4027c2a3d8" group-title="DEUTSCHLANDRADIO;DEUTSCH",DEUTSCHLANDFUNK
+https://dist.deutschlandfunk.de/dlf/hls-ard/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://api.ardmediathek.de/image-service/images/urn:ard:image:6ef3c578c7660de2" group-title="DEUTSCHLANDRADIO;DEUTSCH",DEUTSCHLANDFUNK KULTUR
+https://dist.deutschlandfunk.de/dlfkultur/hls-ard/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://api.ardmediathek.de/image-service/images/urn:ard:image:80e714692e23d302" group-title="DEUTSCHLANDRADIO;DEUTSCH",DEUTSCHLANDFUNK NOVA
+https://dist.deutschlandfunk.de/dlfnova/hls-ard/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://assets.radioplayer.org/276/2761424/600/600/kyaghnu2.png" group-title="DEUTSCHLANDRADIO;DEUTSCH",DEUTSCHLANDFUNK DOKUMENTE UND DEBATTEN
+https://st04.sslstream.dlf.de/dlf/04/128/mp3/stream.mp3
+
+# DEUTSCHE WELLE (DW)
+
+#EXTINF:-1 radio="true" tvg-logo="https://m.media-amazon.com/images/I/41AKbUADc1L.png" group-title="DW;DEUTSCH",DEUTSCHE WELLE DW01 [SPANISH]
+https://dw.audiostream.io/dw/1021/mp3/64/dw01
+#EXTINF:-1 radio="true" tvg-logo="https://m.media-amazon.com/images/I/41AKbUADc1L.png" group-title="DW;DEUTSCH",DEUTSCHE WELLE DW05 [ARABIC]
+https://dw.audiostream.io/dw/1025/mp3/64/dw05
+#EXTINF:-1 radio="true" tvg-logo="https://m.media-amazon.com/images/I/41AKbUADc1L.png" group-title="DW;DEUTSCH",DEUTSCHE WELLE DW08 [AMHARIC/FRENCH/HAUSA/PORTUGUESE/SWAHILI]
+https://dw.audiostream.io/dw/1027/mp3/64/dw08
+#EXTINF:-1 radio="true" tvg-logo="https://m.media-amazon.com/images/I/41AKbUADc1L.png" group-title="DW;DEUTSCH",DEUTSCHE WELLE DW09 [ARABIC/GREEK/ENGLISH]
+https://dw.audiostream.io/dw/1028/mp3/64/dw09
+#EXTINF:-1 radio="true" tvg-logo="https://m.media-amazon.com/images/I/41AKbUADc1L.png" group-title="DW;DEUTSCH",DEUTSCHE WELLE FM02 [HAUSA]
+https://dw.audiostream.io/dw/1022/mp3/64/dw-fm02
+#EXTINF:-1 radio="true" tvg-logo="https://m.media-amazon.com/images/I/41AKbUADc1L.png" group-title="DW;DEUTSCH",DEUTSCHE WELLE FM03 [SWAHILI]
+https://dw.audiostream.io/dw/1023/mp3/64/dw-fm03
+#EXTINF:-1 radio="true" tvg-logo="https://m.media-amazon.com/images/I/41AKbUADc1L.png" group-title="DW;DEUTSCH",DEUTSCHE WELLE FM04 [FRENCH]
+https://dw.audiostream.io/dw/1024/mp3/64/dw-fm04
+#EXTINF:-1 radio="true" tvg-logo="https://m.media-amazon.com/images/I/41AKbUADc1L.png" group-title="DW;DEUTSCH",DEUTSCHE WELLE FM05 [PORTUGUESE]
+https://dw.audiostream.io/dw/1026/mp3/64/dw-fm05
+
+# SRG SSR
+
+#EXTINF:-1 radio="true" tvg-logo="https://www.srf.ch/build/assets/radio-srf-1-square-BRF5hy-0.svg" group-title="SRG SSR;DEUTSCH",SRF 1
+https://stxt-audiostreaming.akamaized.net/hls/live/2117380/srf1/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://www.srf.ch/build/assets/radio-srf-2-square-BnG0DiSc.svg" group-title="SRG SSR;DEUTSCH",SRF 2 KULTUR
+https://stxt-audiostreaming.akamaized.net/hls/live/2117380/srf2/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://www.srf.ch/build/assets/radio-srf-3-square-Ds8liY9N.svg" group-title="SRG SSR;DEUTSCH",SRF 3
+https://stxt-audiostreaming.akamaized.net/hls/live/2117380/srf3/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://www.srf.ch/build/assets/radio-srf-4-square-CPpwSzVl.svg" group-title="SRG SSR;DEUTSCH",SRF 4 NEWS
+https://stxt-audiostreaming.akamaized.net/hls/live/2117380/srf4news/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://www.srf.ch/build/assets/radio-srf-musikwelle-square-BoII6AQN.svg" group-title="SRG SSR;DEUTSCH",SRF MUSIKWELLE
+https://stxt-audiostreaming.akamaized.net/hls/live/2117380/srfmw/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://www.srf.ch/build/assets/radio-srf-virus-square-DOEcWpsO.svg" group-title="SRG SSR;DEUTSCH",SRF VIRUS
+https://stxt-audiostreaming.akamaized.net/hls/live/2117380/srfvirus/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://www.rsi.ch/images/placeholders/streaming_reteuno.jpg" group-title="SRG SSR;ITALIANO",RSI RETE UNO
+https://stxt-audiostreaming.akamaized.net/hls/live/2117380/reteuno/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://www.rsi.ch/images/placeholders/streaming_retedue.jpg" group-title="SRG SSR;ITALIANO",RSI RETE DUE
+https://stxt-audiostreaming.akamaized.net/hls/live/2117380/retedue/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://www.rsi.ch/images/placeholders/streaming_retetre.jpg" group-title="SRG SSR;ITALIANO",RSI RETE TRE
+https://stxt-audiostreaming.akamaized.net/hls/live/2117380/retetre/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://www.rtr.ch/build/assets/radio-rtr-square-TW2fPxXc.svg" group-title="SRG SSR;RUMANTSCH",RTR
+https://stxt-audiostreaming.akamaized.net/hls/live/2117380/rr/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://www.radioswissclassic.ch/_nuxt/img/rsc-logo-claim-desktop.520c5d8.png" group-title="SRG SSR;MUSIC",RADIO SWISS CLASSIC [FR]
+http://stream.srg-ssr.ch/m/rsc_fr/mp3_128
+#EXTINF:-1 radio="true" tvg-logo="https://www.radioswissclassic.ch/_nuxt/img/rsc-logo-claim-desktop.520c5d8.png" group-title="SRG SSR;MUSIC",RADIO SWISS CLASSIC [DE]
+http://stream.srg-ssr.ch/m/rsc_de/mp3_128
+#EXTINF:-1 radio="true" tvg-logo="https://www.radioswissclassic.ch/_nuxt/img/rsc-logo-claim-desktop.520c5d8.png" group-title="SRG SSR;MUSIC",RADIO SWISS CLASSIC [IT]
+http://stream.srg-ssr.ch/m/rsc_it/mp3_128
+#EXTINF:-1 radio="true" tvg-logo="https://www.radioswissjazz.ch/_nuxt/img/rsj-logo-claim-desktop.beb322c.png" group-title="SRG SSR;MUSIC",RADIO SWISS JAZZ
+https://stream.srg-ssr.ch/m/rsj/mp3_128
+#EXTINF:-1 radio="true" tvg-logo="https://www.radioswisspop.ch/_nuxt/img/rsp-logo-claim-desktop.548faab.png" group-title="SRG SSR;MUSIC",RADIO SWISS CLASSIC POP
+https://stream.srg-ssr.ch/m/rsp/mp3_128
+
+# ORF
+
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/%C3%96sterreich_1_2017_logo.svg/960px-%C3%96sterreich_1_2017_logo.svg.png" group-title="ORF;DEUTSCH",ORF Ö1
+https://orf-live.ors-shoutcast.at/oe1-q2a
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Radio_Wien_2024.svg/960px-Radio_Wien_2024.svg.png" group-title="ORF;DEUTSCH",ORF Ö2 RADIO WIEN
+https://orf-live.ors-shoutcast.at/wie-q2a
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hitradio_%C3%963.svg/960px-Hitradio_%C3%963.svg.png" group-title="ORF;DEUTSCH",ORF HITRADIO Ö3
+https://orf-live.ors-shoutcast.at/oe3-q2a
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/FM4.svg/960px-FM4.svg.png" group-title="ORF;DEUTSCH",ORF FM4
+https://orf-live.ors-shoutcast.at/fm4-q2a
+
+# HRT
+
+#EXTINF:-1 radio="true" tvg-logo="https://aviion-frontcdn.aviion.tv/29474fda0b3c4990b6c5a082ad0c1bce.png" group-title="HRT;BCMS",HR 1
+https://25703.live.streamtheworld.com/PROGRAM1AAC.aac
+#EXTINF:-1 radio="true" tvg-logo="https://aviion-frontcdn.aviion.tv/c7248bbacc924bffa80773c1bfb79770.png" group-title="HRT;BCMS",HR 2
+https://23613.live.streamtheworld.com/PROGRAM2AAC.aac
+#EXTINF:-1 radio="true" tvg-logo="https://aviion-frontcdn.aviion.tv/c564baf73a5d4e17a2db2ec00a8b1adf.png" group-title="HRT;BCMS",HR 3
+https://25643.live.streamtheworld.com/PROGRAM3AAC.aac
+#EXTINF:-1 radio="true" tvg-logo="https://aviion-frontcdn.aviion.tv/6f3432d4a9f84e22a674a8d5c9a430dc.png" group-title="HRT;BCMS",HR GLAS HRVATSKE
+https://25703.live.streamtheworld.com/VOICEOFCROATIAAAC.aac
+
+# TRT
+
+#EXTINF:-1 radio="true" tvg-logo="https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/ded6c190-5f9e-4de3-a5e5-868f789df1a5.jpg" group-title="TRT;TÜRKIYE",TRT RADYO 1
+https://rd-trtradyo1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/e27e1421-5735-40c1-affb-4101dc73a305.jpg" group-title="TRT;TÜRKIYE",TRT FM
+https://rd-trtfm.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/79633047-a080-4fed-8ed8-5c33c1348563.jpg" group-title="TRT;TÜRKIYE",TRT RADYO 3
+https://rd-trtradyo3.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/9d472dd1-a769-4335-91bf-245c5f037c26.jpg" group-title="TRT;TÜRKIYE",TRT NAĞME
+https://rd-trtnagme.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/be1b7390-cd1d-43cd-9f0b-86f50a4db873.jpg" group-title="TRT;TÜRKIYE",TRT TÜRKÜ
+https://rd-trtturku.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/03a0eb4a-3df8-4bb1-b076-6bb1459a470e.jpg" group-title="TRT;TÜRKIYE",TRT RADYO HABER
+https://rd-trtradyohaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/25b139d5-5acc-4a44-9842-eeeb9af7fb17.png" group-title="TRT;TÜRKIYE",TRT ANTALYA RADYOSU
+https://radio-trtantalya.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/748d235d-66e8-4bc8-ac2c-2a5825801648.png" group-title="TRT;TÜRKIYE",TRT ÇUKUROVA RADYOSU
+https://radio-trtcukurova.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/c379b2ac-878a-4a67-8ee7-8946ea716d17.png" group-title="TRT;TÜRKIYE",TRT GAP DİYARBAKIR
+https://radio-trtgap.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/756218af-8e16-4f08-a2d0-a0c84736f091.png" group-title="TRT;TÜRKIYE",TRT ERZURUM RADYOSU
+https://radio-trterzurum.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/d8b4e8d9-610f-423c-8209-e0683f07b0ff.png" group-title="TRT;TÜRKIYE",TRT TRABZON RADYOSU
+https://radio-trttrabzon.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/10087691-9885-4fe3-bb81-b377dd4f7675.png" group-title="TRT;TÜRKIYE",TRT MEMLEKETİM FM
+https://radio-trtmemleketimfm.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/97b4cc85-0765-4010-8ba4-117e49b2b087.png" group-title="TRT;TÜRKIYE",TRT TSR
+https://radio-trttsr.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://cdn-i.pr.trt.com.tr/trtdinle/12467484.jpeg" group-title="TRT;TÜRKIYE",TRT RADYO KURDÎ
+https://radio-trtradyo6.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://cdn-i.pr.trt.com.tr/trtdinle/12467523.jpeg" group-title="TRT;TÜRKIYE",TRT VOT EAST
+https://radio-trtvoteast.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://cdn-i.pr.trt.com.tr/trtdinle/12467515.jpeg" group-title="TRT;TÜRKIYE",TRT VOT WEST
+https://radio-trtvotwest.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://cdn-i.pr.trt.com.tr/trtdinle/12474258_347-158-2684-2161.jpeg" group-title="TRT;TÜRKIYE",TRT VOT WORLD
+https://radio-trtvotworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://cdn-i.pr.trt.com.tr/trtdinle/12467532.jpeg" group-title="TRT;TÜRKIYE",TRT WORLD [TV]
+https://radio-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://cdn-i.pr.trt.com.tr/trtdinle/12467526.jpeg" group-title="TRT;TÜRKIYE",TRT ARABİ [TV]
+https://radio-trtarabi.medya.trt.com.tr/master.m3u8
+
+# DR
+
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/DR_P1_logo_2020.svg/500px-DR_P1_logo_2020.svg.png" group-title="DR;DANSK",DR P1
+https://drliveradio1.akamaized.net/hls/live/2097651/p1/masterab.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/DR_P2_logo_2020.svg/500px-DR_P2_logo_2020.svg.png" group-title="DR;DANSK",DR P2
+https://drliveradio1.akamaized.net/hls/live/2097651/p2/masterab.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/DR_P3_logo_2020.svg/500px-DR_P3_logo_2020.svg.png" group-title="DR;DANSK",DR P3
+https://drliveradio1.akamaized.net/hls/live/2097651/p3/masterab.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/DR_P4_logo_2020.svg/500px-DR_P4_logo_2020.svg.png" group-title="DR;DANSK",DR P4 [KØBENHAVN]
+https://drliveradio1.akamaized.net/hls/live/2097651/p4kobenhavn/masterab.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/63/DR_P5_logo_2020.svg/500px-DR_P5_logo_2020.svg.png" group-title="DR;DANSK",DR P5 [KØBENHAVN]
+https://drliveradio1.akamaized.net/hls/live/2097651/p5kobenhavn/masterab.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/DR_P6_Beat_logo_2020.svg/500px-DR_P6_Beat_logo_2020.svg.png" group-title="DR;DANSK",DR P6 BEAT
+https://drliveradio1.akamaized.net/hls/live/2097651/p6beat/masterab.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/DR_P8_Jazz_logo_2020.svg/500px-DR_P8_Jazz_logo_2020.svg.png" group-title="DR;DANSK",DR P8 JAZZ
+https://drliveradio1.akamaized.net/hls/live/2097651/p8jazz/masterab.m3u8
+
+# SVERIGES RADIO
+
+#EXTINF:-1 radio="true" tvg-logo="" group-title="SVERIGES RADIO;SVENSKA",SR P1
+https://ljud1-cdn.sr.se/lc/p1.m3u8
+#EXTINF:-1 radio="true" tvg-logo="" group-title="SVERIGES RADIO;SVENSKA",SR P2
+https://ljud1-cdn.sr.se/lc/p2.m3u8
+#EXTINF:-1 radio="true" tvg-logo="" group-title="SVERIGES RADIO;SVENSKA",SR P3
+https://ljud1-cdn.sr.se/lc/p3.m3u8
+#EXTINF:-1 radio="true" tvg-logo="" group-title="SVERIGES RADIO;SVENSKA",SR P4 [STOCKHOLM]
+https://ljud1-cdn.sr.se/lc/p4sth.m3u8
+#EXTINF:-1 radio="true" tvg-logo="" group-title="SVERIGES RADIO;SVENSKA",SR P4 PLUS
+https://ljud1-cdn.sr.se/lc/p4plus.m3u8
+#EXTINF:-1 radio="true" tvg-logo="" group-title="SVERIGES RADIO;SVENSKA",SR P3 DIN GATA
+https://ljud1-cdn.sr.se/lc/dingata.m3u8
+#EXTINF:-1 radio="true" tvg-logo="" group-title="SVERIGES RADIO;SVENSKA",SR FINSKA
+https://ljud1-cdn.sr.se/lc/finska.m3u8
+#EXTINF:-1 radio="true" tvg-logo="" group-title="SVERIGES RADIO;SVENSKA",SR SAMERADION
+https://ljud1-cdn.sr.se/lc/sameradion.m3u8
+#EXTINF:-1 radio="true" tvg-logo="" group-title="SVERIGES RADIO;SVENSKA",SR P6
+https://ljud1-cdn.sr.se/lc/p6.m3u8
+#EXTINF:-1 radio="true" tvg-logo="" group-title="SVERIGES RADIO;SVENSKA",SR P2 SPRÅK OCH MUSIK
+https://ljud2-cdn.sr.se/lc/p2sm.m3u8
+#EXTINF:-1 radio="true" tvg-logo="" group-title="SVERIGES RADIO;SVENSKA",SR BARNRADION
+https://ljud1-cdn.sr.se/lc/knattekanalen.m3u8
+#EXTINF:-1 radio="true" tvg-logo="" group-title="SVERIGES RADIO;SVENSKA",SR EKOT
+https://ljud1-cdn.sr.se/lc/ekotdirekt.m3u8
+#EXTINF:-1 radio="true" tvg-logo="" group-title="SVERIGES RADIO;SVENSKA",SR EXTRA
+https://ljud1-cdn.sr.se/lc/extra01.m3u8
+
+# NRK
+
+#EXTINF:-1 radio="true" tvg-logo="https://static.nrk.no/radio/dist/images/channel-logos/nrk-logo-nrk-p1--color-light.svg" group-title="NRK;NORGE",NRK P1 [STOR-OSLO]
+https://nrk-live-radio-world.akamaized.net/p1/muxed.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://static.nrk.no/radio/dist/images/channel-logos/nrk-logo-nrk-p1+--color-light.svg" group-title="NRK;NORGE",NRK P1+
+https://nrk-live-radio-world.akamaized.net/p1pluss/muxed.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://static.nrk.no/radio/dist/images/channel-logos/nrk-logo-nrk-p2--color-light.svg" group-title="NRK;NORGE",NRK P2
+https://nrk-live-radio-world.akamaized.net/p2/muxed.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://static.nrk.no/radio/dist/images/channel-logos/nrk-logo-nrk-p3--color-light.svg" group-title="NRK;NORGE",NRK P3
+https://nrk-live-radio-world.akamaized.net/p3/muxed.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://static.nrk.no/radio/dist/images/channel-logos/nrk-logo-nrk-p3-musikk--color-light.svg" group-title="NRK;NORGE",NRK P3 MUSIKK
+https://nrk-live-radio-world.akamaized.net/p3musikk/muxed.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://static.nrk.no/radio/dist/images/channel-logos/nrk-logo-nrk-mp3--color-light.svg" group-title="NRK;NORGE",NRK MP3
+https://nrk-live-radio-world.akamaized.net/mp3/muxed.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://static.nrk.no/radio/dist/images/channel-logos/nrk-logo-nrk-nyheter--color-light.svg" group-title="NRK;NORGE",NRK NYHETER
+https://nrk-live-radio-world.akamaized.net/nyheter/muxed.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://static.nrk.no/radio/dist/images/channel-logos/nrk-logo-nrk-super--color-light.svg" group-title="NRK;NORGE",NRK RADIO SUPER
+https://nrk-live-radio-world.akamaized.net/radio_super/muxed.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://static.nrk.no/radio/dist/images/channel-logos/nrk-logo-nrk-klassisk--color-light.svg" group-title="NRK;NORGE",NRK KLASSISK
+https://nrk-live-radio-world.akamaized.net/klassisk/muxed.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://static.nrk.no/radio/dist/images/channel-logos/nrk-logo-nrk-sami-radio--color-light.svg" group-title="NRK;NORGE",NRK SÁMI RADIO
+https://nrk-live-radio-world.akamaized.net/sapmi/muxed.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://static.nrk.no/radio/dist/images/channel-logos/nrk-logo-nrk-jazz--color-light.svg" group-title="NRK;NORGE",NRK JAZZ
+https://nrk-live-radio-world.akamaized.net/jazz/muxed.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://static.nrk.no/radio/dist/images/channel-logos/nrk-logo-nrk-folkemusikk--color-light.svg" group-title="NRK;NORGE",NRK FOLKEMUSIKK
+https://nrk-live-radio-world.akamaized.net/folkemusikk/muxed.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://static.nrk.no/radio/dist/images/channel-logos/nrk-logo-nrk-sport--color-light.svg" group-title="NRK;NORGE",NRK SPORT
+https://nrk-live-radio-world.akamaized.net/sport/muxed.m3u8
+
+# YLE
+
+#EXTINF:-1 radio="true" tvg-logo="https://images.cdn.yle.fi/image/upload/v1750676272/yle-radio-1_channel" group-title="YLE;SUOMI",YLE RADIO 1
+https://yleradiolive.akamaized.net/hls/live/2027672/in-YleRadio1/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://images.cdn.yle.fi/image/upload/v1750676272/ylex_channel" group-title="YLE;SUOMI",YLE YLEX
+https://yleradiolive.akamaized.net/hls/live/2027674/in-YleX/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://images.cdn.yle.fi/image/upload/v1750676272/yle-radio-suomi_channel" group-title="YLE;SUOMI",YLE RADIO SUOMI [HELSINKI]
+https://yleradiolive.akamaized.net/hls/live/2027675/in-YleRS/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://images.cdn.yle.fi/image/upload/v1750676272/yle-radio-vega_channel" group-title="YLE;SUOMI",YLE VEGA [HUVUDSTADSREGIONEN]
+https://yleradiolive.akamaized.net/hls/live/2027679/in-YleVega/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://images.cdn.yle.fi/image/upload/v1750676272/yle-x3m_channel" group-title="YLE;SUOMI",YLE X3M
+https://yleradiolive.akamaized.net/hls/live/2027678/in-YleX3M/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://images.cdn.yle.fi/image/upload/v1750676272/yle-klassinen_channel" group-title="YLE;SUOMI",YLE KLASSINEN
+https://yleradiolive.akamaized.net/hls/live/2027676/in-YleKlassinen/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://images.cdn.yle.fi/image/upload/v1750676272/yle-sami-radio_channel" group-title="YLE;SUOMI",YLE SÁMI RADIO
+https://yleradiolive.akamaized.net/hls/live/2027680/in-YleSami/master.m3u8
+
+# RÚV
+
+#EXTINF:-1 radio="true" tvg-logo="https://images.nyr.ruv.is/media/public/documents/Ras1_RGB.png" group-title="RÚV;ÍSLAND",RÁS 1
+https://ruv-radio-live.akamaized.net/streymi/ras1/ras1/ras1.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://images.nyr.ruv.is/media/public/documents/Ras2_RGB.png" group-title="RÚV;ÍSLAND",RÁS 2
+https://ruv-radio-live.akamaized.net/streymi/ras2/ras2/ras2.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://d38kdhuogyllre.cloudfront.net/hd_posters/logo_Rondo.png" group-title="RÚV;ÍSLAND",RONDÓ
+https://ruv-radio-live.akamaized.net/streymi/rondo/rondo/rondo.m3u8
+
+# KVF
+
+#EXTINF:-1 radio="true" tvg-logo="https://jutel.fi/wp-content/uploads/2024/12/KVF_logo_2019.svg.png" group-title="KVF;FØROYAR",KRINGVARP FØROYA
+https://w-live-edge2.kringvarp.fo/radio/_definst_/radio.stream/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://jutel.fi/wp-content/uploads/2024/12/KVF_logo_2019.svg.png" group-title="KVF;FØROYAR",KVF 2
+https://w-live-edge2.kringvarp.fo/radio2/_definst_/smil:radio2.smil/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://jutel.fi/wp-content/uploads/2024/12/KVF_logo_2019.svg.png" group-title="KVF;FØROYAR",KVF TINGRADIO
+https://w-live-edge2.kringvarp.fo/tingradio/_definst_/smil:tingradio.smil/playlist.m3u8
+
+# DAB_BXL
+
+#EXTINF:-1 radio="true" tvg-logo="https://www.csa.be/wp-content/uploads/2009/07/radio-panik.png" group-title="DAB_BXL;FRANÇAIS",RADIO PANIK
+https://streaming.domainepublic.net/radiopanik.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.csa.be/wp-content/uploads/2009/07/Radio_alma.png" group-title="DAB_BXL;FRANÇAIS",RADIO ALMA
+http://shoutcast2.wirelessbelgie.be:8310/;stream.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.csa.be/wp-content/uploads/2009/07/Radio_campus_bxl.png" group-title="DAB_BXL;FRANÇAIS",RADIO CAMPUS BRUXELLES
+https://www.radiocampus.be/stream/stream.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.csa.be/wp-content/uploads/2009/07/Radio_Air_libre.png" group-title="DAB_BXL;FRANÇAIS",RADIO AIR LIBRE
+http://streaming.domainepublic.net/radioairlibre.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://assets.radioplayer.org/056/0561140/600/600/l8irik9x.png" group-title="DAB_BXL;FRANÇAIS",BX1 RADIO
+https://bx1radio.ice.infomaniak.ch/bx1radio.mp3
+#EXTINF:-1 radio="true" tvg-logo="" group-title="DAB_BXL;FRANÇAIS",ANTIPODE
+https://streaming.antipode.be/antipode.mp3
+#EXTINF:-1 radio="true" tvg-logo="" group-title="DAB_BXL;FRANÇAIS",SUD RADIO BELGIQUE
+https://stream.ceit.be/sudradio-belgique
+#EXTINF:-1 radio="true" tvg-logo="" group-title="DAB_BXL;FRANÇAIS",ARABEL
+https://stream.arabel.fm/AraBel-AAC64
+#EXTINF:-1 radio="true" tvg-logo="" group-title="DAB_BXL;FRANÇAIS",BXFM
+https://bxfmradio.ice.infomaniak.ch/bxfmradio-192.mp3
+#EXTINF:-1 radio="true" tvg-logo="" group-title="DAB_BXL;FRANÇAIS",BELGAHAY RADIO
+https://streamer.radio.co/sa1357f891/listen
+#EXTINF:-1 radio="true" tvg-logo="" group-title="DAB_BXL;FRANÇAIS",RADIO FUEGO
+https://stream.rcs.revma.com/myzzee8kwccwv
+#EXTINF:-1 radio="true" tvg-logo="" group-title="DAB_BXL;FRANÇAIS",EURADIO
+https://euradio.fr/stream
+#EXTINF:-1 radio="true" tvg-logo="" group-title="DAB_BXL;FRANÇAIS",GOLD FM
+https://onair.goldfm.be:8000/stream
+#EXTINF:-1 radio="true" tvg-logo="" group-title="DAB_BXL;FRANÇAIS",K.I.F.
+https://broadcast.sksgroup.com/kif_mp3
+#EXTINF:-1 radio="true" tvg-logo="" group-title="DAB_BXL;FRANÇAIS",MARA FM
+https://ec5.yesstreaming.net:1350/stream
+#EXTINF:-1 radio="true" tvg-logo="" group-title="DAB_BXL;FRANÇAIS",RADIO ONDA
+https://stream.rcast.net/71352
+#EXTINF:-1 radio="true" tvg-logo="" group-title="DAB_BXL;FRANÇAIS",VIBRATION
+https://vibrationbelgique.ice.infomaniak.ch/vibrationbelgique-high.mp3
+#EXTINF:-1 radio="true" tvg-logo="" group-title="DAB_BXL;FRANÇAIS",FUN RADIO
+https://funradiobe.ice.infomaniak.ch/funradiobe-high.mp3
+#EXTINF:-1 radio="true" tvg-logo="" group-title="DAB_BXL;FRANÇAIS",LN RADIO
+https://stream.rcs.revma.com/yp6mhdt3pzzuv
+#EXTINF:-1 radio="true" tvg-logo="" group-title="DAB_BXL;FRANÇAIS",NRJ
+https://n17a-eu.rcs.revma.com/xh00fwuptg0uv
+#EXTINF:-1 radio="true" tvg-logo="" group-title="DAB_BXL;FRANÇAIS",NRJ+
+https://n15a-eu.rcs.revma.com/1a6hdnzbebuvv
+#EXTINF:-1 radio="true" tvg-logo="https://assets.radioplayer.org/056/0566005/600/600/l458yr3d.png" group-title="DAB_BXL;NEDERLANDS",BRUZZ RADIO
+https://rrr.sz.xlcdn.com/?account=fmbrussel&file=fmb988.mp3&type=live&service=icecast&protocol=https&port=8000&output=pls
+#EXTINF:-1 radio="true" tvg-logo="https://assets.radioplayer.org/056/0566066/600/600/l45a8i4b.png" group-title="DAB_BXL;NEDERLANDS",BRUZZ ICE
+https://takeoff.jetstre.am/?account=fmbrussel&file=BruzzIceAAC&type=live&service=icecast&protocol=https&port=8000&output=pls
+#EXTINF:-1 radio="true" tvg-logo="" group-title="DAB_BXL;NEDERLANDS",NRJ NL
+https://25323.live.streamtheworld.com/NRJBELGIEAAC.aac
+#EXTINF:-1 radio="true" tvg-logo="" group-title="DAB_BXL;NEDERLANDS",STADSRADIO VLAANDEREN
+https://shoutcast2.wirelessantwerpen.be/stadsradio
+
+# RTL FRANCE
+
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/RTL_logo.svg/960px-RTL_logo.svg.png" group-title="RTL.FR;FRANÇAIS",RTL
+http://streaming.radio.rtl.fr/rtl-1-44-128
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/51/RTL2.png" group-title="RTL.FR;FRANÇAIS",RTL 2
+http://streaming.radio.rtl2.fr/rtl2-1-44-128
+
+# RTL BELGIUM
+
+#EXTINF:-1 radio="true" tvg-logo="https://assets.radioplayer.org/056/0566/600/600/lfqrtga3.jpeg" group-title="RTL BELGIUM;FRANÇAIS",BEL RTL
+https://belrtl.ice.infomaniak.ch/belrtl-mp3-192.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://assets.radioplayer.org/056/0561/600/600/lspv0e7o.jpeg" group-title="RTL BELGIUM;FRANÇAIS",RADIO CONTACT
+https://radiocontact.ice.infomaniak.ch/radiocontact-mp3-192.mp3
+
+# RTL DEUTSCHLAND
+
+#EXTINF:-1 radio="true" tvg-logo="https://static.rtlradio.de/img/2731/1049550/111000/o/480/480/240215_rtl_radio_1600x1600_live.png" group-title="RTL.DE;DEUTSCH",RTL RADIO ~ DEUTSCHLANDS HIT-RADIO
+https://rtlberlin.streamabc.net/rtlb-rtldenational-mp3-128-2770113
+#EXTINF:-1 radio="true" tvg-logo="https://static.rtlradio.de/img/6653/920232/335000/o/480/480/230627_rtl_layout_1600x1600_groesstehitsallerzeiten.png" group-title="RTL.DE;DEUTSCH",RTL RADIO ~ DIE BESTEN HITS ALLER ZEITEN
+https://rtlberlin.streamabc.net/rtlb-rtldebestehits-mp3-192-2026538
+#EXTINF:-1 radio="true" tvg-logo="https://static.rtlradio.de/img/9722/920231/256000/o/480/480/230627_rtl_layout_1600x1600_ukw.png" group-title="RTL.DE;DEUTSCH",RTL RADIO ~ UKW 93.3 UND 97.0
+https://rtlberlin.streamabc.net/rtlb-rtldeukw-mp3-192-6593468
+#EXTINF:-1 radio="true" tvg-logo="https://static.104.6rtl.com/img/5729/921493/218000/o/480/480/230629_rtl_livestream_1600x1600.png" group-title="RTL.DE;DEUTSCH",104.6 RTL ~ BERLINS HITRADIO
+https://rtlberlin.streamabc.net/rtlb-1046rtllive-mp3-192-4947175
+#EXTINF:-1 radio="true" tvg-logo="https://nl.radio.net/300/890rtl.png" group-title="RTL.DE;DEUTSCH",89.0 RTL ~ DIE BESTEN HITS VON HEUTE!
+https://fhhalle.streamabc.net/fhhal-rtllive-mp3-256-6495671
+
+# RTL.LU
+
+#EXTINF:-1 radio="true" tvg-logo="https://company.rtl.com/.galleries/images/rtl-luxembourg/RTL-Radio-Luxembourg.jpg" group-title="RTL.LU;LËTZEBUERG",RTL RADIO LËTZEBUERG
+https://stream.rtl.lu/data/live/radio/rtl/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://company.rtl.com/.galleries/images/rtl-luxembourg/luxembourg-rtl-today.jpg" group-title="RTL.LU;LËTZEBUERG",RTL TODAY RADIO
+https://stream.rtl.lu/data/live/radio/rtltoday/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://company.rtl.com/.galleries/images/rtl-luxembourg/RTL-LX-Luxembourg.jpg" group-title="RTL.LU;LËTZEBUERG",RTL LX
+https://stream.rtl.lu/data/live/radio/rtllx/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://company.rtl.com/.galleries/images/rtl-deutschland/logos/logo-rtl-gold.jpg" group-title="RTL.LU;LËTZEBUERG",RTL GOLD
+https://stream.rtl.lu/data/live/radio/rtlgold/playlist.m3u8
+
+# NOSTALGIE
+
+#EXTINF:-1 radio="true" tvg-logo="https://img.nrj.fr/TK1ctNFhUSgVEgAALzgB6TuHnt4=/360x360/smart/https%3A%2F%2Fplayers.nrjaudio.fm%2Flive-metadata%2Fplayer%2Fimg%2Fplayer-files%2Fnosta%2Flogos%2F640x640%2FP_Nostalgie_Premium_Logo_2023.png" group-title="NOSTALGIE FR;FRANÇAIS",NOSTALGIE FRANCE
+https://streaming.nrjaudio.fm/ouwgwqsk6j4d
+#EXTINF:-1 radio="true" tvg-logo="https://assets.radioplayer.org/056/0569/600/600/kymqv8om.png" group-title="NOSTALGIE BE_FR;FRANÇAIS",NOSTALGIE BELGIQUE
+https://stream.rcs.revma.com/5gd04cwptg0uv
+#EXTINF:-1 radio="true" tvg-logo="https://assets.radioplayer.org/056/05649/600/600/kyeph30x.png" group-title="NOSTALGIE BE_FR;FRANÇAIS",NOSTALGIE+ [BE_FR]
+https://stream.rcs.revma.com/s9mkgtsqtg0uv
+#EXTINF:-1 radio="true" tvg-logo="https://assets.radioplayer.org/056/0565100/11/2623-memmk3ca.png" group-title="NOSTALGIE BE_NL;NEDERLANDS",NOSTALGIE BELGIË
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWHATAFEELING.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://assets.radioplayer.org/056/0565104/11/2623-mev8u6wl.png" group-title="NOSTALGIE BE_NL;NEDERLANDS",NOSTALGIE PLUS [BE_NL]
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEPLUS.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://api.nrjnet.de/assets/images/cache/img_filter__200x200/webradio/nrj-nostalgie-de/images/Channel_Logo_Nostalgie__200px.png" group-title="NOSTALGIE DE;DEUTSCH",NOSTALGIE DEUTSCHLAND
+https://frontend.streamonkey.net/nostalgie-live
+
+# MUSIC
+
+#EXTINF:-1 radio="true" tvg-logo="https://www.escradio.com/wp-content/uploads/2019/04/esc-radio-app-logo-w-121.png" group-title="EUROPOP;MUSIC",ESC RADIO
+https://icepool.silvacast.com/ESCRADIO.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.efr12.com/radio/wp-content/uploads/2018/06/cropped-logo_efr12_home-4.png" group-title="EUROPOP;MUSIC",EFR12 RADIO
+https://listen.radioking.com/radio/151768/stream/192217
+#EXTINF:-1 radio="true" tvg-logo="https://assets.planetradio.co.uk/img/ConfigStraplineImageUrl/456.svg" group-title="EUROPOP;MUSIC",SVENSK POP
+https://live-bauerse-fm.sharp-stream.com/svenskpop_se_mp3
+#EXTINF:-1 radio="true" tvg-logo="https://cdn-radio.dpgmedia.net/c/16/a5/32/31/JOE-4-WEBSITE-220x220.png" group-title="VTM;MUSIC",JOE
+https://icecast-qmusicbe-cdp.triple-it.nl/joe.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://cdn-radio.dpgmedia.net/0/93/f6/5e/59/site_logo.svg" group-title="VTM;MUSIC",Q MUSIC
+https://icecast-qmusicbe-cdp.triple-it.nl/qmusic.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://api.topradio.be/images/7247.c437972.3-2.480.90.png" group-title="VTM;MUSIC",TOP
+https://29053.live.streamtheworld.com/TOP_RADIO.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://cdn-radio.dpgmedia.net/2/83/80/23/51/WillyLogoAppWhite.png" group-title="VTM;MUSIC",WILLY
+https://icecast-qmusicbe-cdp.triple-it.nl/willy.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://assets.radioplayer.org/056/056199/600/600/lvmfjezt.jpeg" group-title="MENT;NEDERLANDS",MENT 55 RADIO
+https://stream.rcs.revma.com/84srhsh3axcwv
+#EXTINF:-1 radio="true" tvg-logo="https://assets.radioplayer.org/056/0566069/600/600/lvmfklg7.jpeg" group-title="MENT;NEDERLANDS",MENTPOP RADIO
+https://stream.rcs.revma.com/uus43hh3axcwv
+#EXTINF:-1 radio="true" tvg-logo="https://player.melody.tv/radios/melody-radio/assets/presentation.jpg" group-title="MELODY;MUSIC",MELODY RADIO VINTAGE
+https://stream.rcs.revma.com/5a05fstup42vv
+#EXTINF:-1 radio="true" tvg-logo="https://styles.redditmedia.com/t5_f7gsza/styles/communityIcon_nx5440hnpdmf1.jpg" group-title="1.FM;MUSIC",1.FM RADIO ~ DISCO BALL
+https://strm112.1.fm/disco_mobile_mp3
+#EXTINF:-1 radio="true" tvg-logo="https://styles.redditmedia.com/t5_f7gsza/styles/communityIcon_nx5440hnpdmf1.jpg" group-title="1.FM;MUSIC",1.FM RADIO ~ 70s
+https://strm112.1.fm/70s_mobile_mp3
+#EXTINF:-1 radio="true" tvg-logo="https://styles.redditmedia.com/t5_f7gsza/styles/communityIcon_nx5440hnpdmf1.jpg" group-title="1.FM;MUSIC",1.FM RADIO ~ MAGIC 80s
+https://strm112.1.fm/magic80_mobile_mp3
+#EXTINF:-1 radio="true" tvg-logo="https://styles.redditmedia.com/t5_f7gsza/styles/communityIcon_nx5440hnpdmf1.jpg" group-title="1.FM;MUSIC",1.FM RADIO ~ A-LIST 80s
+https://strm112.1.fm/back280s_mobile_mp3
+#EXTINF:-1 radio="true" tvg-logo="https://styles.redditmedia.com/t5_f7gsza/styles/communityIcon_nx5440hnpdmf1.jpg" group-title="1.FM;MUSIC",1.FM RADIO ~ ALL EURO 80s
+https://strm112.1.fm/80s_90s_mobile_mp3
+#EXTINF:-1 radio="true" tvg-logo="https://styles.redditmedia.com/t5_f7gsza/styles/communityIcon_nx5440hnpdmf1.jpg" group-title="1.FM;MUSIC",1.FM RADIO ~ OLDIES
+https://strm112.1.fm/60s_70s_mobile_mp3
+
+# DANCE
+
+#EXTINF:-1 radio="true" tvg-logo="https://www.hardcoreradio.nl/wp-content/themes/hardcore-radio/static/images/hr-logo.svg" group-title="MUSIC;NEDERLANDS",HARDCORE RADIO NL
+https://stream.hardcoreradio.nl:9000/hcr.ogg
+#EXTINF:-1 radio="true" tvg-logo="https://partyflock.nl/images/stream/188_360x360_712360/Hardcore-Power-Radio.png" group-title="MUSIC;NEDERLANDS",HARDCOREPOWER RADIO
+https://hardcorepower.beheerstream.nl/8012/stream
+#EXTINF:-1 radio="true" tvg-logo="https://pureradio.eu/wp-content/uploads/2023/02/Logo-Pure-Radio-Hardcore-Channel.jpg" group-title="MUSIC;NEDERLANDS",PURE RADIO HOLLAND ~ HARDCORE CHANNEL
+https://streamserver.pure-isp.eu/listen/pure_radio_holland_-_hardcore_channel/ultra

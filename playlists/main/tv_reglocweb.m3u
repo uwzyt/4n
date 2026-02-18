@@ -1,0 +1,567 @@
+#EXTM3U x-tvg-url="https://xmltvfr.fr/xmltv/xmltv.xml.gz, https://ext.greektv.app/epg/epg.xml.gz"
+
+# REGIONAL_VARIATIONS
+
+# FRANCE.TV
+
+#EXTINF:-1 tvg-id="France3Alpes.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3alpes.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 ALPES [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.ffmpeg
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-alpes.m3u8
+#EXTINF:-1 tvg-id="France3Alsace.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3alsace.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 ALSACE [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.ffmpeg
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-alsace.m3u8
+#EXTINF:-1 tvg-id="France3Aquitaine.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3aquitaine.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 AQUITAINE [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.ffmpeg
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-aquitaine.m3u8
+#EXTINF:-1 tvg-id="France3Auvergne.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3auvergne.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 AUVERGNE [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.ffmpeg
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-auvergne.m3u8
+#EXTINF:-1 tvg-id="France3BasseNormandie.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3normandie.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 BASSE-NORMANDIE [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.ffmpeg
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-basse-normandie.m3u8
+#EXTINF:-1 tvg-id="France3Bourgogne.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3bourgogne.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 BOURGOGNE [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.ffmpeg
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-bourgogne.m3u8
+#EXTINF:-1 tvg-id="France3Bretagne.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3bretagne.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 BRETAGNE [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.ffmpeg
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-bretagne.m3u8
+#EXTINF:-1 tvg-id="France3Centre.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3centrevaldeloire.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 CENTRE-VAL DE LOIRE [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.ffmpeg
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-centre-val-de-loire.m3u8
+#EXTINF:-1 tvg-id="France3ChampagneArdenne.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3champagneardenne.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 CHAMPAGNE-ARDENNE [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.ffmpeg
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-champagne-ardenne.m3u8
+#EXTINF:-1 tvg-id="France3CorseViaStella.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3corse.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 CORSE VIA STELLA [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.ffmpeg
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-corse-via-stella.m3u8
+#EXTINF:-1 tvg-id="France3CotedAzur.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3cotedazur.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 CÔTE D’AZUR [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.ffmpeg
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-cote-d-azur.m3u8
+#EXTINF:-1 tvg-id="France3FrancheComte.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3franchecomte.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 FRANCHE-COMTÉ [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.ffmpeg
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-franche-comte.m3u8
+#EXTINF:-1 tvg-id="France3HauteNormandie.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3normandie.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 HAUTE-NORMANDIE [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.ffmpeg
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-haute-normandie.m3u8
+#EXTINF:-1 tvg-id="France3Languedoc.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3languedocroussillon.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 LANGUEDOC-ROUSSILLON [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.ffmpeg
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-languedoc-roussillon.m3u8
+#EXTINF:-1 tvg-id="France3Limousin.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3limousin.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 LIMOUSIN [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.ffmpeg
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-limousin.m3u8
+#EXTINF:-1 tvg-id="France3Lorraine.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3lorraine.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 LORRAINE [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.ffmpeg
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-lorraine.m3u8
+#EXTINF:-1 tvg-id="France3MidiPyrenees.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3midipyrenees.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 MIDI-PYRÉNÉES [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.ffmpeg
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-midi-pyrenees.m3u8
+#EXTINF:-1 tvg-id="France3NouvelleAquitaine.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3noa.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 NOA [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.ffmpeg
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-noa.m3u8
+#EXTINF:-1 tvg-id="France3NordPasDeCalais.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3nordpasdecalais.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 NORD PAS-DE-CALAIS [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.ffmpeg
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-nord-pas-de-calais.m3u8
+#EXTINF:-1 tvg-id="France3ParisIdF.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3parisiledefrance.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 PARIS ÎLE-DE-FRANCE [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.ffmpeg
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-paris-ile-de-france.m3u8
+#EXTINF:-1 tvg-id="France3PaysDeLaLoire.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3paysdelaloire.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 PAYS DE LA LOIRE [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.ffmpeg
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-pays-de-la-loire.m3u8
+#EXTINF:-1 tvg-id="France3Picardie.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3picardie.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 PICARDIE [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.ffmpeg
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-picardie.m3u8
+#EXTINF:-1 tvg-id="France3PoitouCharentes.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3poitoucharentes.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 POITOU-CHARENTES [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.ffmpeg
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-poitou-charentes.m3u8
+#EXTINF:-1 tvg-id="France3ProvenceAlpes.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3provencealpes.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 PROVENCE ALPES [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.ffmpeg
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-provence-alpes.m3u8
+#EXTINF:-1 tvg-id="France3RhoneAlpes.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3rhonealpes.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 RHÔNE-ALPES [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.ffmpeg
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-rhone-alpes.m3u8
+#EXTINF:-1 tvg-id="Guadeloupe1.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/ftv1gua.png" group-title="FRANCE.TV;FRANÇAIS",|FR| GUADELOUPE LA PREMIÈRE [NOT 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/guadeloupe-1ere.m3u8
+#EXTINF:-1 tvg-id="Guyane1.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/ftv1guy.png" group-title="FRANCE.TV;FRANÇAIS",|FR| GUYANE LA PREMIÈRE [NOT 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/guyane-1ere.m3u8
+#EXTINF:-1 tvg-id="Martinique1.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/ftv1mar.png" group-title="FRANCE.TV;FRANÇAIS",|FR| MARTINIQUE LA PREMIÈRE [NOT 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/martinique-1ere.m3u8
+#EXTINF:-1 tvg-id="Mayotte1.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/ftv1may.png" group-title="FRANCE.TV;FRANÇAIS",|FR| MAYOTTE LA PREMIÈRE [NOT 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/mayotte-1ere.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/ftv1nc.png" group-title="FRANCE.TV;FRANÇAIS",|FR| NOUVELLE-CALÉDONIE LA PREMIÈRE [NOT 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/nouvelle-calédonie-1ere.m3u8
+#EXTINF:-1 tvg-id="Polynesie1.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/ftv1p.png" group-title="FRANCE.TV;FRANÇAIS",|FR| POLYNÉSIE LA PREMIÈRE [NOT 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/polynesie-1ere.m3u8
+#EXTINF:-1 tvg-id="Reunion1.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/ftv1r.png" group-title="FRANCE.TV;FRANÇAIS",|FR| RÉUNION LA PREMIÈRE [NOT 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/reunion-1ere.m3u8
+#EXTINF:-1 tvg-id="StPierreEtMiquelon1.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/ftv1spm.png" group-title="FRANCE.TV;FRANÇAIS",|FR| SAINT-PIERRE ET MIQUELON LA PREMIÈRE [NOT 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/saint-pierre-et-miquelon-1ere.m3u8
+#EXTINF:-1 tvg-id="WallisEtFutuna1.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/ftv1wf.png" group-title="FRANCE.TV;FRANÇAIS",|FR| WALLIS ET FUTUNA LA PREMIÈRE [NOT 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/wallis-et-futuna-1ere.m3u8
+
+# ICI
+
+#EXTINF:-1 tvg-id="CBAFT.ca" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/icitele.png" group-title="ICI;FRANÇAIS",|CA_FR| ICI TÉLÉ [ACADIE] (CBAFT-DT) [GEOBLOCKED]
+https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8
+#EXTINF:-1 tvg-id="CBXFT.ca" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/icitele.png" group-title="ICI;FRANÇAIS",|CA_FR| ICI TÉLÉ [ALBERTA] (CBXFT-DT) [GEOBLOCKED]
+https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8
+#EXTINF:-1 tvg-id="CBUFT.ca" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/icitele.png" group-title="ICI;FRANÇAIS",|CA_FR| ICI TÉLÉ [COLOMBIE BRITANIQUE] (CBUFT-DT) [GEOBLOCKED]
+https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8
+#EXTINF:-1 tvg-id="CJBR.ca" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/icitele.png" group-title="ICI;FRANÇAIS",|CA_FR| ICI TÉLÉ [EST DU QUÉBEC] (CJBR-DT) [GEOBLOCKED]
+https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8
+#EXTINF:-1 tvg-id="CKSH.ca" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/icitele.png" group-title="ICI;FRANÇAIS",|CA_FR| ICI TÉLÉ [ESTRIE] (CKSH-DT) [GEOBLOCKED]
+https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8
+#EXTINF:-1 tvg-id="CBWFT.ca" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/icitele.png" group-title="ICI;FRANÇAIS",|CA_FR| ICI TÉLÉ [MANITOBA] (CBWFT-DT) [GEOBLOCKED]
+https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master.m3u8
+#EXTINF:-1 tvg-id="CKTM.ca" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/icitele.png" group-title="ICI;FRANÇAIS",|CA_FR| ICI TÉLÉ [MAURICIE–CENTRE-DU-QUÉBEC] (CKTM-DT) [GEOBLOCKED]
+https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8
+#EXTINF:-1 tvg-id="CBLFT.ca" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/icitele.png" group-title="ICI;FRANÇAIS",|CA_FR| ICI TÉLÉ [ONTARIO] (CBLFT-DT) [GEOBLOCKED]
+https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8
+#EXTINF:-1 tvg-id="CBOFT.ca" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/icitele.png" group-title="ICI;FRANÇAIS",|CA_FR| ICI TÉLÉ [OTTAWA–GATINEAU] (CBOFT-DT) [GEOBLOCKED]
+https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8
+#EXTINF:-1 tvg-id="CBVT.ca" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/icitele.png" group-title="ICI;FRANÇAIS",|CA_FR| ICI TÉLÉ [QUÉBEC] (CBVT-DT) [GEOBLOCKED]
+https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8
+#EXTINF:-1 tvg-id="CKTV.ca" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/icitele.png" group-title="ICI;FRANÇAIS",|CA_FR| ICI TÉLÉ [SAGUENAY–LAC-ST-JEAN] (CKTV-DT) [GEOBLOCKED]
+https://rcavlive.akamaized.net/hls/live/704023/cancktv/master.m3u8
+#EXTINF:-1 tvg-id="CBKFT.ca" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/icitele.png" group-title="ICI;FRANÇAIS",|CA_FR| ICI TÉLÉ [SASKATCHEWAN] (CBKFT-DT) [GEOBLOCKED]
+https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8
+
+# WARNER BROS. DISCOVERY
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/DEFAULT/t_0032_000.png" group-title="WARNER;ENGLISH;NEWS",|US| CNN US
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/960px-TNT_%28TV_Channel%29.svg.png" group-title="WARNER;ENGLISH",|US| TNT WEST [GEOBLOCKED]
+https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/960px-TBS_2020.svg.png" group-title="WARNER;ENGLISH",|US| TBS WEST [GEOBLOCKED]
+https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/500px-TruTV_2014.svg.png" group-title="WARNER;ENGLISH",|US| TRUTV WEST [GEOBLOCKED]
+https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
+
+# RTVE VARIACIONES REGIONALES
+
+#EXTINF:-1 tvg-id="La.1.es" tvg-logo="https://jungle-team.com/wp-content/uploads/2024/02/Logo_La_1_UHD_2024-original.png" group-title="RTVE;ESPAÑOL",|ES| RTVE LA 1 UHD
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+http://176.65.146.237:8401/play/a09u/index.m3u8
+#EXTINF:-1 tvg-id="La.1.Catalunya.es" tvg-logo="https://css2.rtve.es/css/rtve.directos/logos_cadenas/tv-la1.png" group-title="RTVE;ESPAÑOL",|ES| RTVE LA 1 CAT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/cat/la1_cat_main_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://css2.rtve.es/css/rtve.directos/logos_cadenas/tv-la2_cat.png" group-title="RTVE;ESPAÑOL",|ES| RTVE LA 2 CAT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/cat/la2_cat_main_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://css.rtve.es/css/rtve.directos/logos_cadenas/tv-24-horas_nac.png" group-title="RTVE;ESPAÑOL;NEWS",|ES| RTVE 24 HORAS CAT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/cat/24h_cat_main.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://css2.rtve.es/css/rtve.directos/logos_cadenas/tv-la1.png" group-title="RTVE;ESPAÑOL",|ES| RTVE LA 1 CANARIAS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/can/la1_can_main.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://css2.rtve.es/css/rtve.directos/logos_cadenas/tv-la2.png" group-title="RTVE;ESPAÑOL",|ES| RTVE LA 2 CANARIAS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/can/la2_can_main.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://css.rtve.es/css/rtve.directos/logos_cadenas/tv-24-horas_nac.png" group-title="RTVE;ESPAÑOL;NEWS",|ES| RTVE 24 HORAS CANARIAS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/can/24h_can_main.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/DEFAULT/t_0034_000.png" group-title="RTVE;ESPAÑOL",|ES| RTVE TVE INTERNACIONAL AMÉRICA [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
+#EXTINF:-1 tvg-id="TVE.Internacional.Asia.es" tvg-logo="https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/DEFAULT/t_0034_000.png" group-title="RTVE;ESPAÑOL",|ES| RTVE TVE INTERNACIONAL ASIA [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://css2.rtve.es/css/rtve.directos/logos_cadenas/tv-clan.png" group-title="RTVE;ESPAÑOL",|ES| RTVE CLAN INTERNACIONAL [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
+
+# RTVE CANALES TEMÁTICOS Y OCASIONALES
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://css.rtve.es/css/rtveplay.2021/i/compartir_rtve_play.jpg" group-title="RTVE;ESPAÑOL",|ES| RTVE PLAY CANAL TEMÁTICO 1 [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://rtvelivestream-rtveplayplus.rtve.es/eventual/gofast/playm1_main_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://css.rtve.es/css/rtveplay.2021/i/compartir_rtve_play.jpg" group-title="RTVE;ESPAÑOL",|ES| RTVE PLAY CANAL TEMÁTICO 2 [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://rtvelivestream-rtveplayplus.rtve.es/eventual/gofast/playm2_main_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://css.rtve.es/css/rtveplay.2021/i/compartir_rtve_play.jpg" group-title="RTVE;ESPAÑOL",|ES| RTVE PLAY CANAL TEMÁTICO 3 [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://rtvelivestream-rtveplayplus.rtve.es/eventual/gofast/playm3_main_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://css.rtve.es/css/rtveplay.2021/i/compartir_rtve_play.jpg" group-title="RTVE;ESPAÑOL",|ES| RTVE PLAY CANAL TEMÁTICO 4 [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://rtvelivestream-rtveplayplus.rtve.es/eventual/gofast/playm4_main_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://css.rtve.es/css/rtveplay.2021/i/compartir_rtve_play.jpg" group-title="RTVE;ESPAÑOL",|ES| RTVE PLAY CANAL TEMÁTICO 5 [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://rtvelivestream-rtveplayplus.rtve.es/eventual/gofast/playm5_main_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://css.rtve.es/css/rtveplay.2021/i/compartir_rtve_play.jpg" group-title="RTVE;ESPAÑOL",|ES| RTVE PLAY CANAL TEMÁTICO 6 [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://rtvelivestream-rtveplayplus.rtve.es/eventual/gofast/playm6_main_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://css.rtve.es/css/rtveplay.2021/i/compartir_rtve_play.jpg" group-title="RTVE;ESPAÑOL",|ES| RTVE PLAY CANAL TEMÁTICO 7 [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://rtvelivestream-rtveplayplus.rtve.es/eventual/gofast/playm7_main_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://css.rtve.es/css/rtveplay.2021/i/compartir_rtve_play.jpg" group-title="RTVE;ESPAÑOL",|ES| RTVE PLAY CANAL TEMÁTICO 8 [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://rtvelivestream-rtveplayplus.rtve.es/eventual/gofast/playm8_main_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://css.rtve.es/css/rtveplay.2021/i/compartir_rtve_play.jpg" group-title="RTVE;ESPAÑOL",|ES| RTVE PLAY CANAL TEMÁTICO 9 [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://rtvelivestream-rtveplayplus.rtve.es/eventual/gofast/playm9_main_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://css.rtve.es/css/rtveplay.2021/i/compartir_rtve_play.jpg" group-title="RTVE;ESPAÑOL",|ES| RTVE PLAY CANAL TEMÁTICO 10 [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://rtvelivestream-rtveplayplus.rtve.es/eventual/gofast/playm10_main_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://css.rtve.es/css/rtveplay.2021/i/compartir_rtve_play.jpg" group-title="RTVE;ESPAÑOL",|ES| RTVE PLAY CANAL TEMÁTICO 11 [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://rtvelivestream-rtveplayplus.rtve.es/eventual/gofast/playm11_main_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://css.rtve.es/css/rtveplay.2021/i/compartir_rtve_play.jpg" group-title="RTVE;ESPAÑOL",|ES| RTVE PLAY CANAL TEMÁTICO 12 [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://rtvelivestream-rtveplayplus.rtve.es/eventual/gofast/playm12_main_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://css.rtve.es/css/rtveplay.2021/i/compartir_rtve_play.jpg" group-title="RTVE;ESPAÑOL",|ES| RTVE PLAY CANAL TEMÁTICO 13 [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://rtvelivestream-rtveplayplus.rtve.es/eventual/gofast/playm13_main_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://css.rtve.es/css/rtveplay.2021/i/compartir_rtve_play.jpg" group-title="RTVE;ESPAÑOL",|ES| RTVE PLAY CANAL TEMÁTICO 14 [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://rtvelivestream-rtveplayplus.rtve.es/eventual/gofast/playm14_main_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://css.rtve.es/css/rtveplay.2021/i/compartir_rtve_play.jpg" group-title="RTVE;ESPAÑOL",|ES| RTVE PLAY CANAL TEMÁTICO 15 [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://rtvelivestream-rtveplayplus.rtve.es/eventual/gofast/playm15_main_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://css.rtve.es/css/rtveplay.2021/i/compartir_rtve_play.jpg" group-title="RTVE;ESPAÑOL",|ES| RTVE PLAY CANAL TEMÁTICO 16 [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://rtvelivestream-rtveplayplus.rtve.es/eventual/gofast/playm16_main_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://css.rtve.es/css/rtveplay.2021/i/compartir_rtve_play.jpg" group-title="RTVE;ESPAÑOL",|ES| RTVE PLAY CANAL TEMÁTICO 17 [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://rtvelivestream-rtveplayplus.rtve.es/eventual/gofast/playm17_main_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://css.rtve.es/css/rtveplay.2021/i/compartir_rtve_play.jpg" group-title="RTVE;ESPAÑOL",|ES| RTVE PLAY CANAL TEMÁTICO 18 [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://rtvelivestream-rtveplayplus.rtve.es/eventual/gofast/playm18_main_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://css.rtve.es/css/rtveplay.2021/i/compartir_rtve_play.jpg" group-title="RTVE;ESPAÑOL",|ES| RTVE PLAY CANAL TEMÁTICO 19 [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://rtvelivestream-rtveplayplus.rtve.es/eventual/gofast/playm19_main_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://css.rtve.es/css/rtveplay.2021/i/compartir_rtve_play.jpg" group-title="RTVE;ESPAÑOL",|ES| RTVE PLAY CANAL TEMÁTICO 20 [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://rtvelivestream-rtveplayplus.rtve.es/eventual/gofast/playm20_main_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://css.rtve.es/css/rtveplay.2021/i/compartir_rtve_play.jpg" group-title="RTVE;ESPAÑOL",|ES| RTVE PLAY CANAL TEMÁTICO 21 [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://rtvelivestream-rtveplayplus.rtve.es/eventual/gofast/playm21_main_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://css.rtve.es/css/rtveplay.2021/i/compartir_rtve_play.jpg" group-title="RTVE;ESPAÑOL",|ES| RTVE PLAY CANAL TEMÁTICO 22 [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://rtvelivestream-rtveplayplus.rtve.es/eventual/gofast/playm22_main_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://css.rtve.es/css/rtveplay.2021/i/compartir_rtve_play.jpg" group-title="RTVE;ESPAÑOL",|ES| RTVE PLAY CANAL TEMÁTICO 23 [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://rtvelivestream-rtveplayplus.rtve.es/eventual/gofast/playm23_main_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://css.rtve.es/css/rtveplay.2021/i/compartir_rtve_play.jpg" group-title="RTVE;ESPAÑOL",|ES| RTVE PLAY CANAL TEMÁTICO 24 [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://rtvelivestream-rtveplayplus.rtve.es/eventual/gofast/playm24_main_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://css.rtve.es/css/rtveplay.2021/i/compartir_rtve_play.jpg" group-title="RTVE;ESPAÑOL",|ES| RTVE PLAY CANAL TEMÁTICO 25 [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://rtvelivestream-rtveplayplus.rtve.es/eventual/gofast/playm25_main_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://css.rtve.es/css/rtveplay.2021/i/compartir_rtve_play.jpg" group-title="RTVE;ESPAÑOL",|ES| RTVE PLAY CANAL OCASIONAL 23 [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://rtvelivestream-rtveplayplus.rtve.es/eventual/oca/irtve23_main.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://css.rtve.es/css/rtveplay.2021/i/compartir_rtve_play.jpg" group-title="RTVE;ESPAÑOL",|ES| RTVE PLAY CANAL OCASIONAL 24 [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://rtvelivestream-rtveplayplus.rtve.es/eventual/oca/irtve24_main.m3u8
+
+# ESPAÑA_REGIONAL
+
+#EXTINF:-1 tvg-id="TV3.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/960px-TV3.svg.png" group-title="LOCAL_ES;ESPAÑOL",|ES_CA| TV3 [CATALUÑA] [GEOBLOCKED]
+https://directes3-tv-cat.3catdirectes.cat/live-content/tv3-hls/master.m3u8
+#EXTINF:-1 tvg-id="TV3.CAT.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/960px-TV3CAT.svg.png" group-title="LOCAL_ES;CATALÀ",|ES_CA| TV3 CAT [CATALUÑA] [GEOBLOCKED]
+https://directes3-tv-es.3catdirectes.cat/live-content/tvc-hls/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/3CatInfo_logo.svg/960px-3CatInfo_logo.svg.png" group-title="LOCAL_ES;ESPAÑOL",|ES_CA| 3CATINFO [CATALUÑA] [GEOBLOCKED]
+https://directes-tv-cat.3catdirectes.cat/live-content/canal324-hls/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Logotip_de_3Cat.svg/960px-Logotip_de_3Cat.svg.png" group-title="LOCAL_ES;CATALÀ",|ES_CA| 3CAT EXCLUSIU 1 [GEOBLOCKED]
+https://directes-tv-cat.3catdirectes.cat/live-content/oca1-hls/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Logotip_de_3Cat.svg/960px-Logotip_de_3Cat.svg.png" group-title="LOCAL_ES;CATALÀ",|ES_CA| 3CAT EXCLUSIU 2 [GEOBLOCKED]
+https://directes-tv-cat.3catdirectes.cat/live-content/oca2-hls/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Logotip_de_3Cat.svg/960px-Logotip_de_3Cat.svg.png" group-title="LOCAL_ES;CATALÀ",|ES_CA| 3CAT EXCLUSIU 3 [GEOBLOCKED]
+https://directes-tv-cat.3catdirectes.cat/live-content/oca3-hls/master.m3u8
+#EXTINF:-1 tvg-id="Bon.Dia.TV.es" tvg-logo="https://www.bondiatv.org/img/og/bondiatv.png" group-title="LOCAL_ES;ESPAÑOL",|ES_CA| BON DIA TV [PAÍSES CATALANES] [GEOBLOCKED]
+https://directes-tv-cat.3catdirectes.cat/live-content/bondia-hls/master.m3u8
+#EXTINF:-1 tvg-id="Telemadrid.es" tvg-logo="https://www.telemadrid.es/2025/10/20/emisiones-en-directo/_2826937288_50831311_400x225.jpg" group-title="LOCAL_ES;ESPAÑOL",|ES| TELEMADRID INT [COMUNIDAD DE MADRID]
+https://live.telemadrid.cross-media.es/6380725747112/eu-central-1/6416060453001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiajI5YjgyLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNjA2MDQ1MzAwMSIsImVobiI6ImxpdmUudGVsZW1hZHJpZC5jcm9zcy1tZWRpYS5lcyIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiNjQxNjA2MDQ1MzAwMSJdLCJqdGkiOiI2MzgwNzI1NzQ3MTEyIn0.rI_y3mt_IbyyP0AaoTZF6F6i1eDJ52RVfs0pC6_vwkM/playlist-hls.m3u8
+#EXTINF:-1 tvg-id="TelevisiónCanaria.es" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/tvcan.png" group-title="LOCAL_ES;ESPAÑOL",|ES| TELEVISIÓN CANARIA NET [ISLAS CANARIAS]
+https://d2q93scm3qt8zp.cloudfront.net/index-events.m3u8
+#EXTINF:-1 tvg-id="Aragón.TV.es" tvg-logo="https://cdn.sincroguia.tv/uploads/images/a/r/a/xaragon-internacional.jpg.pagespeed.ic.z9aeLSyEl9.jpg" group-title="LOCAL_ES;ESPAÑOL",|ES| ARAGÓN TV INT [ARAGÓN]
+https://cartv-streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+
+# ARD-ZDF
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://picserve.netplus.ch/channels/brhdsud.png" group-title="ARD-ZDF;DEUTSCH",|DE| BR NORD
+https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://picserve.netplus.ch/channels/ndr.png" group-title="ARD-ZDF;DEUTSCH",|DE| NDR HAMBURG
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://picserve.netplus.ch/channels/ndr.png" group-title="ARD-ZDF;DEUTSCH",|DE| NDR MECKLENBURG-VORPOMMERN
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://picserve.netplus.ch/channels/ndr.png" group-title="ARD-ZDF;DEUTSCH",|DE| NDR SCHLESWIG-HOLSTEIN
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://picserve.netplus.ch/channels/wdrhd.png" group-title="ARD-ZDF;DEUTSCH",|DE| WDR AACHEN
+https://wdr-live.ard-mcdn.de/wdr/aachen/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://picserve.netplus.ch/channels/wdrhd.png" group-title="ARD-ZDF;DEUTSCH",|DE| WDR BIELEFELD
+https://wdr-live.ard-mcdn.de/wdr/bielefeld/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://picserve.netplus.ch/channels/wdrhd.png" group-title="ARD-ZDF;DEUTSCH",|DE| WDR BONN
+https://wdr-live.ard-mcdn.de/wdr/bonn/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://picserve.netplus.ch/channels/wdrhd.png" group-title="ARD-ZDF;DEUTSCH",|DE| WDR DORTMUND
+https://wdr-live.ard-mcdn.de/wdr/dortmund/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://picserve.netplus.ch/channels/wdrhd.png" group-title="ARD-ZDF;DEUTSCH",|DE| WDR DÜSSELDORF
+https://wdr-live.ard-mcdn.de/wdr/duesseldorf/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://picserve.netplus.ch/channels/wdrhd.png" group-title="ARD-ZDF;DEUTSCH",|DE| WDR DUISBURG
+https://wdrlokalzeit.akamaized.net/hls/live/2018024/wdrlz_duisburg/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://picserve.netplus.ch/channels/wdrhd.png" group-title="ARD-ZDF;DEUTSCH",|DE| WDR ESSEN
+https://wdrlokalzeit.akamaized.net/hls/live/2018027/wdrlz_essen/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://picserve.netplus.ch/channels/wdrhd.png" group-title="ARD-ZDF;DEUTSCH",|DE| WDR MÜNSTER
+https://wdrlokalzeit.akamaized.net/hls/live/2018025/wdrlz_muensterland/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://picserve.netplus.ch/channels/wdrhd.png" group-title="ARD-ZDF;DEUTSCH",|DE| WDR SIEGEN
+https://wdrlokalzeit.akamaized.net/hls/live/2018020/wdrlz_siegen/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://picserve.netplus.ch/channels/wdrhd.png" group-title="ARD-ZDF;DEUTSCH",|DE| WDR WUPPERTAL
+https://wdrlokalzeit.akamaized.net/hls/live/2018028/wdrlz_wuppertal/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://picserve.netplus.ch/channels/mdr.png" group-title="ARD-ZDF;DEUTSCH",|DE| MDR SACHSEN [GEOBLOCKED]
+https://mdr-live.ard-mcdn.de/mdr/live/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://picserve.netplus.ch/channels/mdr.png" group-title="ARD-ZDF;DEUTSCH",|DE| MDR SACHSEN-ANHALT [GEOBLOCKED]
+https://mdr-live.ard-mcdn.de/mdr/sa/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://picserve.netplus.ch/channels/mdr.png" group-title="ARD-ZDF;DEUTSCH",|DE| MDR THÜRINGEN [GEOBLOCKED]
+https://mdr-live.ard-mcdn.de/mdr/th/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.rbb-online.de/content/dam/rbb/rbb/unternehmen/presse/presseinformationen/Logos/RBB_2017_logo_RGB.jpg.jpg" group-title="ARD-ZDF;DEUTSCH",|DE| RBB FERNSEHEN BERLIN [GEOBLOCKED]
+https://rbb-live.ard-mcdn.de/rbb/berlin/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.rbb-online.de/content/dam/rbb/rbb/unternehmen/presse/presseinformationen/Logos/RBB_2017_logo_RGB.jpg.jpg" group-title="ARD-ZDF;DEUTSCH",|DE| RBB FERNSEHEN BRANDENBURG [GEOBLOCKED]
+https://rbb-live.ard-mcdn.de/rbb/brandenburg/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://picserve.netplus.ch/channels/swrbw.png" group-title="ARD-ZDF;DEUTSCH",|DE| SWR RHEINLAND-PFALZ [GEOBLOCKED]
+https://mcdn.swr.de/swr/swrrpd/master.m3u8
+
+# ORF
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/960px-ORF2_logo_n.svg.png" group-title="ORF;DEUTSCH",|AT| ORF 2 BURGENLAND
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|1586ade25ebf57d8a99a3a132ef3f0bc:9a2079703de6d883ef9dbcfc96305077,05434939b0fe4aa39dd77c168bb68c25:d0f5c599dea2ca74cf54845a64c14eb6,f07526aad7a240ffb99a07028af12d61:5147af9bb7759d2b629627f30d2d3cc4
+https://orf2b-247.mdn.ors.at/orf/orf2b/drmqxa-247/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/960px-ORF2_logo_n.svg.png" group-title="ORF;DEUTSCH",|AT| ORF 2 KÄRNTEN
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|ef2141a0147159afb736655e6f482477:3e8b8d9b1156a7a3e7380ceaaecb2b53,ced35fe640574aadade575e211635126:3ab3995cf0a7dd2641a016805f3307c8,b8dd33c5d2544d47a17bd73251561c5d:0d73ba242501b5b67feb610e1b4c3d34
+https://orf2k-247.mdn.ors.at/orf/orf2k/drmqxa-247/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/960px-ORF2_logo_n.svg.png" group-title="ORF;DEUTSCH",|AT| ORF 2 NIEDERÖSTERREICH
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|fe241c2682d856e28f91a9b9dcabe3e4:10520ecfff72d0e95cc5deb802f2a75a,5529524aeb6d4240b88ad27fcb72e74b:b5b81f42a7fb13f5d2d6982f325da238,a8dcb529ab0446ab8442f1cc0c4d2da4:6803fbadbc542c4180308898f9f9bc13
+https://orf2n-247.mdn.ors.at/orf/orf2n/drmqxa-247/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/960px-ORF2_logo_n.svg.png" group-title="ORF;DEUTSCH",|AT| ORF 2 OBERÖSTERREICH
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|63f50729d4b45206adb8667c4c1895b7:eef2024d4bc47fa24eabbfbe616ba927,3ac1909d617c4e089172a13c0d68f12b:e05494f23cdb3b6d40483fba1e272917,fd3bd2951ccd4581be49bd2f2ddc7e91:0482756ebf660f48f48d610137fd000d
+https://orf2ooe-247.mdn.ors.at/orf/orf2ooe/drmqxa-247/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/960px-ORF2_logo_n.svg.png" group-title="ORF;DEUTSCH",|AT| ORF 2 SALZBURG
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|d261a50c288f5ec0af0601a0646a7091:b6b93dc124dfb6f9917f138f94e97acc,d84a8b71db7240c3b666cdd60c5f2a86:a636c479070c307d1fdda58c598665ef,ed46bfa8bd074db8a8362544553841d6:7eb167bf3a128a72da1cffc80183be1f
+https://orf2s-247.mdn.ors.at/orf/orf2s/drmqxa-247/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/960px-ORF2_logo_n.svg.png" group-title="ORF;DEUTSCH",|AT| ORF 2 STEIERMARK
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|064372c3f1195ba39be3b60509120659:159443f1b1dc723f3c86d4c40c0c93a3,84e0237c13184e45aa778bc1270fd4a2:92362bc6ce9a20fa03f95278576c900c,54ecd25e03ef4eef8313b51063c6dbce:e7cd6dec3df6e02db95a51172245f912
+https://orf2stmk-247.mdn.ors.at/orf/orf2stmk/drmqxa-247/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/960px-ORF2_logo_n.svg.png" group-title="ORF;DEUTSCH",|AT| ORF 2 TIROL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|435e754b0d1c53a8bdbd36dc95ad8c0a:b0ce3b93bfdd9a7ce366c1ddcd0db44b,354b0a752f694b7093f57b5757d9f2f7:18d7e40719947b222f9abb5ebc2f04b4,a9d6b6c6bff748cfb7c133f2ac5b4beb:4f192c5620d1c1c239ac7ac25e4f8499
+https://orf2t-247.mdn.ors.at/orf/orf2t/drmqxa-247/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/960px-ORF2_logo_n.svg.png" group-title="ORF;DEUTSCH",|AT| ORF 2 VORARLBERG
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|55f16ef908fd5d6386b56aa6e0d537e7:bd7b3634e63edfd67128abeccfe32740,5dc76f9ab4d44dd28fd7c806e148ca9c:82e6b98270ba0fe610f6ab174678d52f,ab905a3af87b489baa0943148beaeaca:630319782d10c7a7bd706cd6187dfb66
+https://orf2v-247.mdn.ors.at/orf/orf2v/drmqxa-247/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/960px-ORF2_logo_n.svg.png" group-title="ORF;DEUTSCH",|AT| ORF 2 WIEN
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|da9ba02f083d5e879da824206e4627f3:d340e1367056892dd9f6b7fe3649f7ec,a8dd74aa9f434042ac3601446fca2232:f5b4e5621773724a708a46273639034e,6444db7b991c413592a94d08eae88da1:c6de6963bf4954aca2a2a89d4a29694c
+https://orf2w-247.mdn.ors.at/orf/orf2w/drmqxa-247/manifest.mpd
+
+# LËTZEBUERG
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/RTL_Luxembourg_2023.svg/960px-RTL_Luxembourg_2023.svg.png" group-title="RTL.LU;LËTZEBUERG",|LU| RTL PLAY LIVE ARENA 1
+https://stream.rtl.lu/data/live/tele/media1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/RTL_Luxembourg_2023.svg/960px-RTL_Luxembourg_2023.svg.png" group-title="RTL.LU;LËTZEBUERG",|LU| RTL PLAY LIVE ARENA 2
+https://stream.rtl.lu/data/live/tele/media2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/RTL_Luxembourg_2023.svg/960px-RTL_Luxembourg_2023.svg.png" group-title="RTL.LU;LËTZEBUERG",|LU| RTL PLAY LIVE ARENA 3
+https://stream.rtl.lu/data/live/tele/media3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/RTL_Luxembourg_2023.svg/960px-RTL_Luxembourg_2023.svg.png" group-title="RTL.LU;LËTZEBUERG",|LU| RTL PLAY LIVE ARENA 4
+https://stream.rtl.lu/data/live/tele/media4/index.m3u8
+
+# TV5MONDE
+
+#EXTINF:-1 tvg-id="TV5Monde.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/tv5mondefbsm.png" group-title="TV5MONDE;FRANÇAIS",|FR| TV5MONDE FBSM [GEOBLOCKED]
+https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/tv5mondeeurope.png" group-title="TV5MONDE;FRANÇAIS",|FR| TV5MONDE EUROPE [GEOBLOCKED]
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+#EXTINF:-1 tvg-id="TV5MondeMaghrebOrient.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/tv5mondemaor.png" group-title="TV5MONDE;FRANÇAIS",|FR| TV5MONDE MAGHREB-ORIENT [GEOBLOCKED]
+https://ott.tv5monde.com/Content/HLS/Live/channel(orient)/variant.m3u8
+#EXTINF:-1 tvg-id="TV5MondeAfrique.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/tv5mondeafrique.png" group-title="TV5MONDE;FRANÇAIS",|FR| TV5MONDE AFRIQUE [GEOBLOCKED]
+https://ott.tv5monde.com/Content/HLS/Live/channel(afrique)/variant.m3u8
+#EXTINF:-1 tvg-id="TV5MondeAsie.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/tv5mondeasie.png" group-title="TV5MONDE;FRANÇAIS",|FR| TV5MONDE ASIE [GEOBLOCKED]
+https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
+#EXTINF:-1 tvg-id="TV5MondePacifique.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/tv5mondepacifique.png" group-title="TV5MONDE;FRANÇAIS",|FR| TV5MONDE PACIFIQUE [GEOBLOCKED]
+https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
+#EXTINF:-1 tvg-id="TV5Style.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/tv5mondestyle.png" group-title="TV5MONDE;FRANÇAIS",|FR| TV5MONDE STYLE #1 [GEOBLOCKED]
+https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
+#EXTINF:-1 tvg-id="TV5Style.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/tv5mondestyle.png" group-title="TV5MONDE;FRANÇAIS",|FR| TV5MONDE STYLE #2 [GEOBLOCKED]
+https://ott.tv5monde.com/Content/HLS/Live/channel(style2)/variant.m3u8
+#EXTINF:-1 tvg-id="Tivi5.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/tivi5monde.png" group-title="TV5MONDE;FRANÇAIS",|FR| TiVi5MONDE [GEOBLOCKED]
+https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/tv5mondeinfo.png" group-title="TV5MONDE;FRANÇAIS;NEWS",|FR| TV5MONDE INFO [FAST]
+https://d161b1o6wfc5a3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u7sgewc3l8ri/tvfm.m3u8
+
+# CBC
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbc.png" group-title="CBC;ENGLISH",|CA_EN| CBC CALGARY (CBRT-DT) [GEOBLOCKED]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbc.png" group-title="CBC;ENGLISH",|CA_EN| CBC EDMONTON (CBXT-DT) [GEOBLOCKED]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbc.png" group-title="CBC;ENGLISH",|CA_EN| CBC MANITOBA (CBWT-DT) [GEOBLOCKED]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042767/CBCRCLINEAR_TOR_13/master5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbc.png" group-title="CBC;ENGLISH",|CA_EN| CBC MONTRÉAL (CBMT-DT) [GEOBLOCKED]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbc.png" group-title="CBC;ENGLISH",|CA_EN| CBC NEW BRUNSWICK (CBAT-DT) [GEOBLOCKED]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbc.png" group-title="CBC;ENGLISH",|CA_EN| CBC NEWFOUNDLAND AND LABRADOR (CBNT-DT) [GEOBLOCKED]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbc.png" group-title="CBC;ENGLISH",|CA_EN| CBC NORTH (CFYK-DT) [GEOBLOCKED]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042766/CBCRCLINEAR_TOR_12/master5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbc.png" group-title="CBC;ENGLISH",|CA_EN| CBC NOVA SCOTIA (CBHT-DT) [GEOBLOCKED]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbc.png" group-title="CBC;ENGLISH",|CA_EN| CBC PRINCE EDWARD ISLAND (CBCT-DT) [GEOBLOCKED]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbc.png" group-title="CBC;ENGLISH",|CA_EN| CBC SASKATCHEWAN (CBKT-DT) [GEOBLOCKED]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbc.png" group-title="CBC;ENGLISH",|CA_EN| CBC TORONTO (CBLT-DT) [GEOBLOCKED]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbc.png" group-title="CBC;ENGLISH",|CA_EN| CBC VANCOUVER (CBUT-DT) [GEOBLOCKED]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbc.png" group-title="CBC;ENGLISH",|CA_EN| CBC WINDSOR (CBET-DT) [GEOBLOCKED]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbcnews.png" group-title="CBC;ENGLISH;NEWS",|CA_EN| CBC NEWS BRITISH COLUMBIA [FAST] [GEOBLOCKED]
+https://amagi-streams.akamaized.net/hls/live/2110960/cbcnewsbc/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbcnews.png" group-title="CBC;ENGLISH;NEWS",|CA_EN| CBC NEWS CALGARY [FAST] [GEOBLOCKED]
+https://amagi-streams.akamaized.net/hls/live/2113388/cbccalgary/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbcnews.png" group-title="CBC;ENGLISH;NEWS",|CA_EN| CBC NEWS EDMONTON [FAST] [GEOBLOCKED]
+https://amagi-streams.akamaized.net/hls/live/2113387/cbcedmonton/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbcnews.png" group-title="CBC;ENGLISH;NEWS",|CA_EN| CBC NEWS MANITOBA [FAST] [GEOBLOCKED]
+https://amagi-streams.akamaized.net/hls/live/2113385/cbcmanitoba/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbcnews.png" group-title="CBC;ENGLISH;NEWS",|CA_EN| CBC NEWS NEW BRUNSWICK [FAST] [GEOBLOCKED]
+https://amagi-streams.akamaized.net/hls/live/2113379/cbcnb/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbcnews.png" group-title="CBC;ENGLISH;NEWS",|CA_EN| CBC NEWS NEWFOUNDLAND AND LABRADOR [FAST] [GEOBLOCKED]
+https://amagi-streams.akamaized.net/hls/live/2113381/cbcnl/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbcnews.png" group-title="CBC;ENGLISH;NEWS",|CA_EN| CBC NEWS NORTH [FAST] [GEOBLOCKED]
+https://amagi-streams.akamaized.net/hls/live/2113389/cbcnorth/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbcnews.png" group-title="CBC;ENGLISH;NEWS",|CA_EN| CBC NEWS NOVA SCOTIA [FAST] [GEOBLOCKED]
+https://amagi-streams.akamaized.net/hls/live/2113378/cbcnovascotia/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbcnews.png" group-title="CBC;ENGLISH;NEWS",|CA_EN| CBC NEWS OTTAWA [FAST] [GEOBLOCKED]
+https://amagi-streams.akamaized.net/hls/live/2113383/cbcottawa/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbcnews.png" group-title="CBC;ENGLISH;NEWS",|CA_EN| CBC NEWS PRINCE EDWARD ISLAND [FAST] [GEOBLOCKED]
+https://amagi-streams.akamaized.net/hls/live/2113380/cbcpei/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbcnews.png" group-title="CBC;ENGLISH;NEWS",|CA_EN| CBC NEWS QUEBEC [FAST] [GEOBLOCKED]
+https://amagi-streams.akamaized.net/hls/live/2113382/cbcquebec/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbcnews.png" group-title="CBC;ENGLISH;NEWS",|CA_EN| CBC NEWS SASKATCHEWAN [FAST] [GEOBLOCKED]
+https://amagi-streams.akamaized.net/hls/live/2113386/cbcsask/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbcnews.png" group-title="CBC;ENGLISH;NEWS",|CA_EN| CBC NEWS TORONTO [FAST] [GEOBLOCKED]
+https://amagi-streams.akamaized.net/hls/live/2110961/cbctoronto/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbcnews.png" group-title="CBC;ENGLISH;NEWS",|CA_EN| CBC NEWS WINDSOR [FAST] [GEOBLOCKED]
+https://amagi-streams.akamaized.net/hls/live/2113384/cbcwindsor/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CBC;ENGLISH",|CA_EN| CBC COMEDY [FAST] [GEOBLOCKED]
+https://amagi-streams.akamaized.net/hls/live/2110963/cbccomedy/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CBC;ENGLISH",|CA_EN| CBC KIDS [FAST] [GEOBLOCKED]
+https://amagi-streams.akamaized.net/hls/live/2120483/cbckids/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CBC;ENGLISH",|CA_EN| CBC HEARTLAND [FAST] [GEOBLOCKED]
+https://amagi-streams.akamaized.net/hls/live/2113391/cbcheartland/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CBC;ENGLISH",|CA_EN| CBC MURDOCH MYSTERIES [FAST] [GEOBLOCKED]
+https://amagi-streams.akamaized.net/hls/live/2113390/cbcmurdoch/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CBC;ENGLISH",|CA_EN| CBC SCHITT’S CREEK [FAST] [GEOBLOCKED]
+https://amagi-streams.akamaized.net/hls/live/2120484/schittscreek/master.m3u8
+
+# BBC_MAIN
+
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-logo="https://m.media-amazon.com/images/I/41e198uxXxL.png" group-title="BBC;ENGLISH",|GB| BBC TWO ENGLAND [GEOBLOCKED]
+https://matchmaker.live.bidi.net.uk/vs-hls-push-uk/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://m.media-amazon.com/images/I/41e198uxXxL.png" group-title="BBC;ENGLISH",|GB| BBC NEWS UK [GEOBLOCKED]
+https://matchmaker.live.bidi.net.uk/vs-hls-push-uk/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/41e198uxXxL.png" group-title="BBC;ENGLISH",|GB| BBC THREE [GEOBLOCKED]
+https://matchmaker.live.bidi.net.uk/vs-hls-pushb-uk/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.m3u8
+#EXTINF:-1 tvg-id="BBC4.uk" tvg-logo="https://m.media-amazon.com/images/I/41e198uxXxL.png" group-title="BBC;ENGLISH",|GB| BBC FOUR [GEOBLOCKED]
+https://matchmaker.live.bidi.net.uk/vs-hls-pushb-uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/41e198uxXxL.png" group-title="BBC;ENGLISH",|GB| CBBC [GEOBLOCKED]
+https://matchmaker.live.bidi.net.uk/vs-hls-pushb-uk/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/41e198uxXxL.png" group-title="BBC;ENGLISH",|GB| CBEEBIES [GEOBLOCKED]
+https://matchmaker.live.bidi.net.uk/vs-hls-pushb-uk/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.m3u8
+
+# BBC_REGIONS
+
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-logo="https://m.media-amazon.com/images/I/41e198uxXxL.png" group-title="BBC;ENGLISH",|GB| BBC ONE NORTHERN IRELAND [GEOBLOCKED]
+https://matchmaker.live.bidi.net.uk/vs-hls-pushb-uk/x=4/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/iptv_hd_abr_v1.m3u8
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-logo="https://m.media-amazon.com/images/I/41e198uxXxL.png" group-title="BBC;ENGLISH",|GB| BBC ONE SCOTLAND [GEOBLOCKED]
+https://matchmaker.live.bidi.net.uk/vs-hls-pushb-uk/x=4/i=urn:bbc:pips:service:bbc_one_scotland_hd/iptv_hd_abr_v1.m3u8
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-logo="https://m.media-amazon.com/images/I/41e198uxXxL.png" group-title="BBC;ENGLISH",|GB| BBC ONE WALES [GEOBLOCKED]
+https://matchmaker.live.bidi.net.uk/vs-hls-pushb-uk/x=4/i=urn:bbc:pips:service:bbc_one_wales_hd/iptv_hd_abr_v1.m3u8
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-logo="https://m.media-amazon.com/images/I/41e198uxXxL.png" group-title="BBC;ENGLISH",|GB| BBC ONE CHANNEL ISLANDS [GEOBLOCKED]
+https://matchmaker.live.bidi.net.uk/vs-hls-pushb-uk/x=4/i=urn:bbc:pips:service:bbc_one_channel_islands/iptv_hd_abr_v1.m3u8
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-logo="https://m.media-amazon.com/images/I/41e198uxXxL.png" group-title="BBC;ENGLISH",|GB| BBC ONE EAST [GEOBLOCKED]
+https://matchmaker.live.bidi.net.uk/vs-hls-pushb-uk/x=4/i=urn:bbc:pips:service:bbc_one_east/iptv_hd_abr_v1.m3u8
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-logo="https://m.media-amazon.com/images/I/41e198uxXxL.png" group-title="BBC;ENGLISH",|GB| BBC ONE EAST MIDLANDS [GEOBLOCKED]
+https://matchmaker.live.bidi.net.uk/vs-hls-pushb-uk/x=4/i=urn:bbc:pips:service:bbc_one_east_midlands/iptv_hd_abr_v1.m3u8
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-logo="https://m.media-amazon.com/images/I/41e198uxXxL.png" group-title="BBC;ENGLISH",|GB| BBC ONE EAST YORKSHIRE AND LINCOLNSHIRE [GEOBLOCKED]
+https://matchmaker.live.bidi.net.uk/vs-hls-pushb-uk/x=4/i=urn:bbc:pips:service:bbc_one_east_yorkshire/iptv_hd_abr_v1.m3u8
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-logo="https://m.media-amazon.com/images/I/41e198uxXxL.png" group-title="BBC;ENGLISH",|GB| BBC ONE NORTH EAST AND CUMBRIA [GEOBLOCKED]
+https://matchmaker.live.bidi.net.uk/vs-hls-pushb-uk/x=4/i=urn:bbc:pips:service:bbc_one_north_east/iptv_hd_abr_v1.m3u8
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-logo="https://m.media-amazon.com/images/I/41e198uxXxL.png" group-title="BBC;ENGLISH",|GB| BBC ONE NORTH WEST [GEOBLOCKED]
+https://matchmaker.live.bidi.net.uk/vs-hls-pushb-uk/x=4/i=urn:bbc:pips:service:bbc_one_north_west/iptv_hd_abr_v1.m3u8
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-logo="https://m.media-amazon.com/images/I/41e198uxXxL.png" group-title="BBC;ENGLISH",|GB| BBC ONE SOUTH [GEOBLOCKED]
+https://matchmaker.live.bidi.net.uk/vs-hls-pushb-uk/x=4/i=urn:bbc:pips:service:bbc_one_south/iptv_hd_abr_v1.m3u8
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-logo="https://m.media-amazon.com/images/I/41e198uxXxL.png" group-title="BBC;ENGLISH",|GB| BBC ONE SOUTH EAST [GEOBLOCKED]
+https://matchmaker.live.bidi.net.uk/vs-hls-pushb-uk/x=4/i=urn:bbc:pips:service:bbc_one_south_east/iptv_hd_abr_v1.m3u8
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-logo="https://m.media-amazon.com/images/I/41e198uxXxL.png" group-title="BBC;ENGLISH",|GB| BBC ONE SOUTH WEST [GEOBLOCKED]
+https://matchmaker.live.bidi.net.uk/vs-hls-pushb-uk/x=4/i=urn:bbc:pips:service:bbc_one_south_west/iptv_hd_abr_v1.m3u8
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-logo="https://m.media-amazon.com/images/I/41e198uxXxL.png" group-title="BBC;ENGLISH",|GB| BBC ONE WEST [GEOBLOCKED]
+https://matchmaker.live.bidi.net.uk/vs-hls-pushb-uk/x=4/i=urn:bbc:pips:service:bbc_one_west/iptv_hd_abr_v1.m3u8
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-logo="https://m.media-amazon.com/images/I/41e198uxXxL.png" group-title="BBC;ENGLISH",|GB| BBC ONE WEST MIDLANDS [GEOBLOCKED]
+https://matchmaker.live.bidi.net.uk/vs-hls-pushb-uk/x=4/i=urn:bbc:pips:service:bbc_one_west_midlands/iptv_hd_abr_v1.m3u8
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-logo="https://m.media-amazon.com/images/I/41e198uxXxL.png" group-title="BBC;ENGLISH",|GB| BBC ONE YORKSHIRE [GEOBLOCKED]
+https://matchmaker.live.bidi.net.uk/vs-hls-pushb-uk/x=4/i=urn:bbc:pips:service:bbc_one_yorks/iptv_hd_abr_v1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/41e198uxXxL.png" group-title="BBC;ENGLISH",|GB| BBC TWO NORTHERN IRELAND [GEOBLOCKED]
+https://matchmaker.live.bidi.net.uk/vs-hls-pushb-uk/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/iptv_hd_abr_v1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/41e198uxXxL.png" group-title="BBC;ENGLISH",|GB| BBC TWO WALES [GEOBLOCKED]
+https://matchmaker.live.bidi.net.uk/vs-hls-pushb-uk/x=4/i=urn:bbc:pips:service:bbc_two_wales_digital/iptv_hd_abr_v1.m3u8
+
+# NRK 1 REGIONAL
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/NRK1_Logo_2024.svg/960px-NRK1_Logo_2024.svg.png" group-title="NRK;NORGE",|NO| NRK 1 [AGDER] [GEOBLOCKED]
+https://nrk-live-no.akamaized.net/nrk1_dk8/muxed.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/NRK1_Logo_2024.svg/960px-NRK1_Logo_2024.svg.png" group-title="NRK;NORGE",|NO| NRK 1 [INNLANDET] [GEOBLOCKED]
+https://nrk-live-no.akamaized.net/nrk1_dk10/muxed.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/NRK1_Logo_2024.svg/960px-NRK1_Logo_2024.svg.png" group-title="NRK;NORGE",|NO| NRK 1 [MIDTNYTT] [GEOBLOCKED]
+https://nrk-live-no.akamaized.net/nrk1_dk4/muxed.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/NRK1_Logo_2024.svg/960px-NRK1_Logo_2024.svg.png" group-title="NRK;NORGE",|NO| NRK 1 [MØRE OG ROMSDAL] [GEOBLOCKED]
+https://nrk-live-no.akamaized.net/nrk1_dk5/muxed.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/NRK1_Logo_2024.svg/960px-NRK1_Logo_2024.svg.png" group-title="NRK;NORGE",|NO| NRK 1 [NORDLAND] [GEOBLOCKED]
+https://nrk-live-no.akamaized.net/nrk1_dk3/muxed.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/NRK1_Logo_2024.svg/960px-NRK1_Logo_2024.svg.png" group-title="NRK;NORGE",|NO| NRK 1 [NORDNYTT] [GEOBLOCKED]
+https://nrk-live-no.akamaized.net/nrk1_dk2/muxed.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/NRK1_Logo_2024.svg/960px-NRK1_Logo_2024.svg.png" group-title="NRK;NORGE",|NO| NRK 1 [ROGALAND] [GEOBLOCKED]
+https://nrk-live-no.akamaized.net/nrk1_dk7/muxed.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/NRK1_Logo_2024.svg/960px-NRK1_Logo_2024.svg.png" group-title="NRK;NORGE",|NO| NRK 1 [VESTFOLD OG TELEMARK] [GEOBLOCKED]
+https://nrk-live-no.akamaized.net/nrk1_dk9/muxed.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/NRK1_Logo_2024.svg/960px-NRK1_Logo_2024.svg.png" group-title="NRK;NORGE",|NO| NRK 1 [VESTLANDSREVYEN] [GEOBLOCKED]
+https://nrk-live-no.akamaized.net/nrk1_dk6/muxed.m3u8
