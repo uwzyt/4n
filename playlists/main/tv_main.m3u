@@ -808,11 +808,11 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 https://live.tvup.edge2befaster.io/antena3hd/antena3hd.mpd
 #EXTINF:-1 tvg-id="laSexta.es" tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/LaSexta.png" group-title="ATRESMEDIA;ESPAÑOL",|ES| LASEXTA
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|8a56a25be1ed5c6a946edc8493d42d1d:0332ad7b0a05c7ff5854cfb0cf8737fe,1179fa165d8354a58a02377eb9e9ad52:05d8d60b479a1bbf2b9b21765dfe63e6,key 3a192ebf13e05c528459dc66031e2da2:8179c86be8e1f3ad9053aa8ccd977408
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|8a56a25be1ed5c6a946edc8493d42d1d:0332ad7b0a05c7ff5854cfb0cf8737fe,1179fa165d8354a58a02377eb9e9ad52:05d8d60b479a1bbf2b9b21765dfe63e6,3a192ebf13e05c528459dc66031e2da2:8179c86be8e1f3ad9053aa8ccd977408
 https://live.tvup.edge2befaster.io/lasexta/lasexta.mpd
 #EXTINF:-1 tvg-id="Neox.es" tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/Neox.png" group-title="ATRESMEDIA;ESPAÑOL",|ES| NEOX
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|798d3815a60a509d89495eef009b126e:17b8ada6c772a46cc1f1616e6d0c7c4c,18294916daec56feb674a8334acd293b:2fe6916666d48de1e0a02650004d3baf,key 197322327da85f35843d6401ac974cb9:4ae12f869b559d94c3dd570ae5b49e30
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|798d3815a60a509d89495eef009b126e:17b8ada6c772a46cc1f1616e6d0c7c4c,18294916daec56feb674a8334acd293b:2fe6916666d48de1e0a02650004d3baf,197322327da85f35843d6401ac974cb9:4ae12f869b559d94c3dd570ae5b49e30
 https://live.tvup.edge2befaster.io/neox6/neox6.mpd
 #EXTINF:-1 tvg-id="Nova.es" tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/Nova.png" group-title="ATRESMEDIA;ESPAÑOL",|ES| NOVA
 #KODIPROP:inputstream=inputstream.adaptive
