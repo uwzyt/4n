@@ -19,84 +19,84 @@ https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-HLS8/rtpi.m3u8
 
 # ERTFLIX
 
-#EXTINF:-1 tvg-id="ert1" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/ert1.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ",|GR| ΕΡΤ 1 [GEOBLOCKED]
+#EXTINF:-1 tvg-id="ert1" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/ert1.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ",|GR| ΕΡΤ 1 [GEOBLOCKED]
 https://ertflix.ascdn.broadpeak.io/ertlive/ert1/clrdef24723b/master_mpegts.m3u8
-#EXTINF:-1 tvg-id="ert2" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/ert2spor.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ",|GR| ΕΡΤ 2 ΣΠΟΡ
+#EXTINF:-1 tvg-id="ert2" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/ert2spor.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ",|GR| ΕΡΤ 2 ΣΠΟΡ
 https://ertflix-greece-gc.siliconweb.com/mpegts/618618_2341557/master_mpegts.m3u8
-#EXTINF:-1 tvg-id="ert3" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/ert3.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ",|GR| ΕΡΤ 3
+#EXTINF:-1 tvg-id="ert3" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/ert3.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ",|GR| ΕΡΤ 3
 https://ertflix-greece-gc.siliconweb.com/mpegts/618618_2341560/master_mpegts.m3u8
-#EXTINF:-1 tvg-id="ertworld" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/ertworld.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ",|GR| ERT WORLD
+#EXTINF:-1 tvg-id="ertworld" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/ertworld.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ",|GR| ERT WORLD
 https://ertflix-ertworld.siliconweb.com/mpegts/618618_3479286/master_mpegts.m3u8
-#EXTINF:-1 tvg-id="ertnews" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/ertnews.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ;NEWS",|GR| ΕΡΤ NEWS
+#EXTINF:-1 tvg-id="ertnews" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/ertnews.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ;NEWS",|GR| ΕΡΤ NEWS
 https://ertflix.ascdn.broadpeak.io/ertlive/ertnews/default/master_mpegts.m3u8
-#EXTINF:-1 tvg-id="vouli" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/voulitvworld.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ",|GR| ΒΟΥΛΗ TV WORLD
+#EXTINF:-1 tvg-id="vouli" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/voulitvworld.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ",|GR| ΒΟΥΛΗ TV WORLD
 https://ertflix.ascdn.broadpeak.io/ertlive/vouliexp/default/master_mpegts.m3u8
-#EXTINF:-1 tvg-id="ert2" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/ert2spor.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ",|GR| ΕΡΤ 2 ΣΠΟΡ [GEOBLOCKED]
+#EXTINF:-1 tvg-id="ert2" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/ert2spor.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ",|GR| ΕΡΤ 2 ΣΠΟΡ [GEOBLOCKED]
 https://ertflix-greece.siliconweb.com/mpegts/618618_2341557/master_mpegts.m3u8
-#EXTINF:-1 tvg-id="ert3" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/ert3.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ",|GR| ΕΡΤ 3 [GEOBLOCKED]
+#EXTINF:-1 tvg-id="ert3" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/ert3.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ",|GR| ΕΡΤ 3 [GEOBLOCKED]
 https://ertflix-greece.siliconweb.com/mpegts/618618_2341560/master_mpegts.m3u8
 #EXTINF:-1 tvg-id="riksat" tvg-logo="https://files2.app.ertflix.gr/files/channels/rik-logo-1170x330.png" group-title="ΡΙΚ;ΕΛΛΗΝΙΚΑ",|CY| RIK SAT
 https://ertflix.ascdn.broadpeak.io/ertlive/rik/default/master_mpegts.m3u8
-#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/tv5mondeeurope.png" group-title="TV5MONDE;FRANÇAIS",|FR| TV5MONDE EUROPE [GEOBLOCKED]
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/tv5mondeeurope.png" group-title="TV5MONDE;FRANÇAIS",|FR| TV5MONDE EUROPE [GEOBLOCKED]
 https://ertflix.ascdn.broadpeak.io/ertlive/tv5/default/master_mpegts.m3u8
 #EXTINF:-1 tvg-id="DW.de" tvg-logo="https://files2.app.ertflix.gr/files/channels/dw-800x300.png" group-title="DW;ENGLISH;NEWS",|DE_EN| DW-TV EN [GEOBLOCKED]
 https://ertflix.ascdn.broadpeak.io/ertlive/dw/default/master_mpegts.m3u8
-#EXTINF:-1 tvg-id="ertsports" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/ertsports1.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ;SPORTS",|GR| ΕΡΤ SPORTS 1
+#EXTINF:-1 tvg-id="ertsports" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/ertsports1.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ;SPORTS",|GR| ΕΡΤ SPORTS 1
 https://ertflix-ertsports1.siliconweb.com/mpegts/618618_3479292/master_mpegts.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/ertsports3.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ;SPORTS",|GR| ΕΡΤ SPORTS 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/ertsports3.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ;SPORTS",|GR| ΕΡΤ SPORTS 3
 https://ertflix-ertsports3.siliconweb.com/mpegts/618618_3479298/master_mpegts.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/ertnewsnoimatiki.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ;NEWS",|GR| ΕΡΤ NEWS ΝΟΗΜΑΤΙΚΗ
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/ertnewsnoimatiki.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ;NEWS",|GR| ΕΡΤ NEWS ΝΟΗΜΑΤΙΚΗ
 https://ertflix.siliconweb.com/mpegts/618618_3479301/master_mpegts.m3u8
-#EXTINF:-1 tvg-id="ertworld" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/ertworldcyprus.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ",|GR| ERT WORLD CYPRUS [GEOBLOCKED]
+#EXTINF:-1 tvg-id="ertworld" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/ertworldcyprus.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ",|GR| ERT WORLD CYPRUS [GEOBLOCKED]
 https://ertflix-cyprus.siliconweb.com/mpegts/618618_3479289/master_mpegts.m3u8
-#EXTINF:-1 tvg-id="vouli" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/voulitvgr.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ",|GR| ΒΟΥΛΗ TV [ΕΛΛΑΔΑ] [GEOBLOCKED]
+#EXTINF:-1 tvg-id="vouli" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/voulitvgr.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ",|GR| ΒΟΥΛΗ TV [ΕΛΛΑΔΑ] [GEOBLOCKED]
 https://ertflix.ascdn.broadpeak.io/ertlive/vouli/default/master_mpegts.m3u8
 
 # ERTFLIX (NEW LINKS)
 
 #EXTINF:-1 tvg-id="riksat" tvg-logo="https://files2.app.ertflix.gr/files/channels/rik-logo-1170x330.png" group-title="ΡΙΚ;ΕΛΛΗΝΙΚΑ",|CY| RIK SAT
 https://ert-live.ascdn.broadpeak.io/bpk-tv/RIK/default/hls/master_mpegts.m3u8
-#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/tv5mondeeurope.png" group-title="TV5MONDE;FRANÇAIS",|FR| TV5MONDE EUROPE
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/tv5mondeeurope.png" group-title="TV5MONDE;FRANÇAIS",|FR| TV5MONDE EUROPE
 https://ert-live.ascdn.broadpeak.io/bpk-tv/TV5/default/hls/master_mpegts.m3u8
 #EXTINF:-1 tvg-id="DW.de" tvg-logo="https://files2.app.ertflix.gr/files/channels/dw-800x300.png" group-title="DW;ENGLISH;NEWS",|DE_EN| DW-TV EN
 https://ert-live.ascdn.broadpeak.io/bpk-tv/DW/default/hls/master_mpegts.m3u8
-#EXTINF:-1 tvg-id="ert1" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/ert1.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ",|GR| ΕΡΤ 1
+#EXTINF:-1 tvg-id="ert1" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/ert1.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ",|GR| ΕΡΤ 1
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT1/default/hls/master_mpegts.m3u8
-#EXTINF:-1 tvg-id="ert2" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/ert2spor.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ",|GR| ΕΡΤ 2 ΣΠΟΡ
+#EXTINF:-1 tvg-id="ert2" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/ert2spor.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ",|GR| ΕΡΤ 2 ΣΠΟΡ
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT2/default/hls/master_mpegts.m3u8
-#EXTINF:-1 tvg-id="ert3" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/ert3.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ",|GR| ΕΡΤ 3
+#EXTINF:-1 tvg-id="ert3" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/ert3.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ",|GR| ΕΡΤ 3
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT3/default/hls/master_mpegts.m3u8
-#EXTINF:-1 tvg-id="ertworld" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/ertworld.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ",|GR| ERT WORLD
+#EXTINF:-1 tvg-id="ertworld" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/ertworld.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ",|GR| ERT WORLD
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTWorld/default/hls/hls/master_mpegts.m3u8
-#EXTINF:-1 tvg-id="ertnews" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/ertnews.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ;NEWS",|GR| ΕΡΤ NEWS
+#EXTINF:-1 tvg-id="ertnews" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/ertnews.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ;NEWS",|GR| ΕΡΤ NEWS
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/hls/master_mpegts.m3u8
-#EXTINF:-1 tvg-id="ertkids" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/ertkids.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ",|GR| ΕΡΤ KIDS
+#EXTINF:-1 tvg-id="ertkids" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/ertkids.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ",|GR| ΕΡΤ KIDS
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTKids/default/hls/master_mpegts.m3u8
-#EXTINF:-1 tvg-id="vouli" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/voulitvgr.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ",|GR| ΒΟΥΛΗ TV [ΕΛΛΑΔΑ]
+#EXTINF:-1 tvg-id="vouli" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/voulitvgr.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ",|GR| ΒΟΥΛΗ TV [ΕΛΛΑΔΑ]
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/hls/master_mpegts.m3u8
 #EXTINF:-1 tvg-id="riksat" tvg-logo="https://files2.app.ertflix.gr/files/channels/rik-logo-1170x330.png" group-title="ΡΙΚ;ΕΛΛΗΝΙΚΑ",|CY| RIK SAT
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/RIK/default/hls/master_mpegts.m3u8
-#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/tv5mondeeurope.png" group-title="TV5MONDE;FRANÇAIS",|FR| TV5MONDE EUROPE
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/tv5mondeeurope.png" group-title="TV5MONDE;FRANÇAIS",|FR| TV5MONDE EUROPE
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/TV5/default/hls/master_mpegts.m3u8
 #EXTINF:-1 tvg-id="DW.de" tvg-logo="https://files2.app.ertflix.gr/files/channels/dw-800x300.png" group-title="DW;ENGLISH;NEWS",|DE_EN| DW-TV EN
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/DW/default/hls/master_mpegts.m3u8
-#EXTINF:-1 tvg-id="vouli" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/voulitvworld.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ",|GR| ΒΟΥΛΗ TV WORLD
+#EXTINF:-1 tvg-id="vouli" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/voulitvworld.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ",|GR| ΒΟΥΛΗ TV WORLD
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/Vouli_World/default/hls/master_mpegts.m3u8
-#EXTINF:-1 tvg-id="ertsports" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/ertsports1.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ;SPORTS",|GR| ΕΡΤ SPORTS 1
+#EXTINF:-1 tvg-id="ertsports" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/ertsports1.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ;SPORTS",|GR| ΕΡΤ SPORTS 1
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports1/default/hls/master_mpegts.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/ertsports2.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ;SPORTS",|GR| ΕΡΤ SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/ertsports2.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ;SPORTS",|GR| ΕΡΤ SPORTS 2
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports2/default/hls/master_mpegts.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/ertsports3.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ;SPORTS",|GR| ΕΡΤ SPORTS 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/ertsports3.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ;SPORTS",|GR| ΕΡΤ SPORTS 3
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports3/default/hls/master_mpegts.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/ertsports4.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ;SPORTS",|GR| ΕΡΤ SPORTS 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/ertsports4.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ;SPORTS",|GR| ΕΡΤ SPORTS 4
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports4/default/hls/master_mpegts.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/ertsports5.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ;SPORTS",|GR| ΕΡΤ SPORTS 5
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/ertsports5.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ;SPORTS",|GR| ΕΡΤ SPORTS 5
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports5/default/hls/master_mpegts.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/ertsports6.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ;SPORTS",|GR| ΕΡΤ SPORTS 6
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/ertsports6.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ;SPORTS",|GR| ΕΡΤ SPORTS 6
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports6/default/hls/master_mpegts.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/ertnewsnoimatiki.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ;NEWS",|GR| ΕΡΤ NEWS ΝΟΗΜΑΤΙΚΗ
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/ertnewsnoimatiki.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ;NEWS",|GR| ΕΡΤ NEWS ΝΟΗΜΑΤΙΚΗ
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews_Sign/default/hls/master_mpegts.m3u8
-#EXTINF:-1 tvg-id="ertworld" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/ertworldcyprus.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ",|GR| ERT WORLD CYPRUS
+#EXTINF:-1 tvg-id="ertworld" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/ertworldcyprus.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ",|GR| ERT WORLD CYPRUS
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTWorld_Cyprus/default/hls/master_mpegts.m3u8
 
 # ERT ECHO
@@ -166,12 +166,12 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-fr/25081/index.m3u8
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8
 #EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/img300BFMBusinessmono.png" group-title="RMC BFM;FRANÇAIS",|FR| BFM BUSINESS
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8
-#EXTINF:-1 tvg-id="8MontBlanc.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/8montblanc.png" group-title="LOCAL_FR;FRANÇAIS",|FR| 8 MONT BLANC [AUVERGNE-RHÔNE-ALPES]
-https://gitlab.com/uwzyt/4n/-/raw/main/streams/dm-8montblanc.m3u8
+#EXTINF:-1 tvg-id="8MontBlanc.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/8montblanc.png" group-title="LOCAL_FR;FRANÇAIS",|FR| 8 MONT BLANC [AUVERGNE-RHÔNE-ALPES]
+https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/streams/dm-8montblanc.m3u8
 #EXTINF:-1 tvg-id="LaChaineParlementaire.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/publicsenat-100x100.png" group-title="FRANCE.TV;FRANÇAIS",|FR| PUBLIC SÉNAT
-https://gitlab.com/uwzyt/4n/-/raw/main/streams/dm-publicsenat.m3u8
-#EXTINF:-1 tvg-id="T18.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/t18.png" group-title="PRIVATE;FRANÇAIS",|FR| T18
-https://gitlab.com/uwzyt/4n/-/raw/main/streams/dm-t18.m3u8
+https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/streams/dm-publicsenat.m3u8
+#EXTINF:-1 tvg-id="T18.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/t18.png" group-title="PRIVATE;FRANÇAIS",|FR| T18
+https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/streams/dm-t18.m3u8
 
 # ESPAÑA
 
@@ -279,7 +279,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.ffmpeg
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/lcp-public-senat.m3u8
-#EXTINF:-1 tvg-id="TV5Monde.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/tv5mondefbsm.png" group-title="TV5MONDE;FRANÇAIS",|FR| TV5MONDE FBSM
+#EXTINF:-1 tvg-id="TV5Monde.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/tv5mondefbsm.png" group-title="TV5MONDE;FRANÇAIS",|FR| TV5MONDE FBSM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/tv5-monde.m3u8
 #EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://i.imgur.com/EbEL7U8.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 2 [SSAI] [GEOBLOCKED]
@@ -291,7 +291,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franc
 #EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://i.imgur.com/h0TcqHE.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 5 [SSAI] [GEOBLOCKED]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-5.m3u8
-#EXTINF:-1 tvg-id="TV5Monde.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/tv5mondefbsm.png" group-title="TV5MONDE;FRANÇAIS",|FR| TV5MONDE FBSM [GEOBLOCKED]
+#EXTINF:-1 tvg-id="TV5Monde.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/tv5mondefbsm.png" group-title="TV5MONDE;FRANÇAIS",|FR| TV5MONDE FBSM [GEOBLOCKED]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.ffmpeg
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/tv5-monde.m3u8
@@ -395,44 +395,44 @@ https://st03.sslstream.dlf.de/dlf/03/128/mp3/stream.mp3
 
 # YOUTUBE
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/tvcan.png" group-title="LOCAL_ES;ESPAÑOL;DYNAMIC",|ES| TELEVISIÓN CANARIA NET [ISLAS CANARIAS]
-https://gitlab.com/uwzyt/4n/-/raw/main/streams/yt-televisioncanarianet.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/la7murcia.png" group-title="LOCAL_ES;ESPAÑOL;DYNAMIC",|ES| LA 7 [REGIÓN DE MURCIA]
-https://gitlab.com/uwzyt/4n/-/raw/main/streams/yt-la7murcia.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france24.png" group-title="FRANCE 24;FRANÇAIS;NEWS;DYNAMIC",|FR| FRANCE 24 FR
-https://gitlab.com/uwzyt/4n/-/raw/main/streams/yt-france24fr.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france24.png" group-title="FRANCE 24;ENGLISH;NEWS;DYNAMIC",|FR_EN| FRANCE 24 EN
-https://gitlab.com/uwzyt/4n/-/raw/main/streams/yt-france24en.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france24.png" group-title="FRANCE 24;ESPAÑOL;NEWS;DYNAMIC",|FR_ES| FRANCE 24 ES
-https://gitlab.com/uwzyt/4n/-/raw/main/streams/yt-france24es.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france24.png" group-title="FRANCE 24;ARABIC;NEWS;DYNAMIC",|FR_AR| FRANCE 24 AR
-https://gitlab.com/uwzyt/4n/-/raw/main/streams/yt-france24ar.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/euronews.png" group-title="EURONEWS;FRANÇAIS;NEWS;DYNAMIC",|FR| EURONEWS FR
-https://gitlab.com/uwzyt/4n/-/raw/main/streams/yt-euronewsfr.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/euronews.png" group-title="EURONEWS;ENGLISH;NEWS;DYNAMIC",|FR_EN| EURONEWS EN
-https://gitlab.com/uwzyt/4n/-/raw/main/streams/yt-euronewsen.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/euronews.png" group-title="EURONEWS;DEUTSCH;NEWS;DYNAMIC",|FR_DE| EURONEWS DE
-https://gitlab.com/uwzyt/4n/-/raw/main/streams/yt-euronewsde.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/euronews.png" group-title="EURONEWS;ESPAÑOL;NEWS;DYNAMIC",|FR_ES| EURONEWS ES
-https://gitlab.com/uwzyt/4n/-/raw/main/streams/yt-euronewses.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/euronews.png" group-title="EURONEWS;ITALIANO;NEWS;DYNAMIC",|FR_IT| EURONEWS IT
-https://gitlab.com/uwzyt/4n/-/raw/main/streams/yt-euronewsit.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/euronews.png" group-title="EURONEWS;PORTUGÊS;NEWS;DYNAMIC",|FR_PT| EURONEWS PT
-https://gitlab.com/uwzyt/4n/-/raw/main/streams/yt-euronewspt.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/euronews.png" group-title="EURONEWS;INTERNATIONAL;NEWS;DYNAMIC",|FR_PT| EURONEWS PL
-https://gitlab.com/uwzyt/4n/-/raw/main/streams/yt-euronewspl.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/africanews.png" group-title="EURONEWS;FRANÇAIS;NEWS;DYNAMIC",|FR| AFRICANEWS FR
-https://gitlab.com/uwzyt/4n/-/raw/main/streams/yt-africanewsfr.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/africanews.png" group-title="EURONEWS;ENGLISH;NEWS;DYNAMIC",|FR_EN| AFRICANEWS EN
-https://gitlab.com/uwzyt/4n/-/raw/main/streams/yt-africanewsen.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/dwtv.png" group-title="DW;ENGLISH;NEWS;DYNAMIC",|DE_EN| DW-TV EN
-https://gitlab.com/uwzyt/4n/-/raw/main/streams/yt-dwtven.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/dwtv.png" group-title="DW;ESPAÑOL;NEWS;DYNAMIC",|DE_ES| DW-TV ES
-https://gitlab.com/uwzyt/4n/-/raw/main/streams/yt-dwtves.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/dwtv.png" group-title="DW;INTERNATIONAL;NEWS;DYNAMIC",|DE_RU| DW-TV RU
-https://gitlab.com/uwzyt/4n/-/raw/main/streams/yt-dwtvru.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/skynews.png" group-title="PRIVATE;ENGLISH;NEWS;DYNAMIC",|GB| SKY NEWS
-https://gitlab.com/uwzyt/4n/-/raw/main/streams/yt-skynews.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/tvcan.png" group-title="LOCAL_ES;ESPAÑOL;DYNAMIC",|ES| TELEVISIÓN CANARIA NET [ISLAS CANARIAS]
+https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/streams/yt-televisioncanarianet.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/la7murcia.png" group-title="LOCAL_ES;ESPAÑOL;DYNAMIC",|ES| LA 7 [REGIÓN DE MURCIA]
+https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/streams/yt-la7murcia.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/france24.png" group-title="FRANCE 24;FRANÇAIS;NEWS;DYNAMIC",|FR| FRANCE 24 FR
+https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/streams/yt-france24fr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/france24.png" group-title="FRANCE 24;ENGLISH;NEWS;DYNAMIC",|FR_EN| FRANCE 24 EN
+https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/streams/yt-france24en.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/france24.png" group-title="FRANCE 24;ESPAÑOL;NEWS;DYNAMIC",|FR_ES| FRANCE 24 ES
+https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/streams/yt-france24es.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/france24.png" group-title="FRANCE 24;ARABIC;NEWS;DYNAMIC",|FR_AR| FRANCE 24 AR
+https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/streams/yt-france24ar.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/euronews.png" group-title="EURONEWS;FRANÇAIS;NEWS;DYNAMIC",|FR| EURONEWS FR
+https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/streams/yt-euronewsfr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/euronews.png" group-title="EURONEWS;ENGLISH;NEWS;DYNAMIC",|FR_EN| EURONEWS EN
+https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/streams/yt-euronewsen.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/euronews.png" group-title="EURONEWS;DEUTSCH;NEWS;DYNAMIC",|FR_DE| EURONEWS DE
+https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/streams/yt-euronewsde.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/euronews.png" group-title="EURONEWS;ESPAÑOL;NEWS;DYNAMIC",|FR_ES| EURONEWS ES
+https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/streams/yt-euronewses.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/euronews.png" group-title="EURONEWS;ITALIANO;NEWS;DYNAMIC",|FR_IT| EURONEWS IT
+https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/streams/yt-euronewsit.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/euronews.png" group-title="EURONEWS;PORTUGÊS;NEWS;DYNAMIC",|FR_PT| EURONEWS PT
+https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/streams/yt-euronewspt.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/euronews.png" group-title="EURONEWS;INTERNATIONAL;NEWS;DYNAMIC",|FR_PT| EURONEWS PL
+https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/streams/yt-euronewspl.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/africanews.png" group-title="EURONEWS;FRANÇAIS;NEWS;DYNAMIC",|FR| AFRICANEWS FR
+https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/streams/yt-africanewsfr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/africanews.png" group-title="EURONEWS;ENGLISH;NEWS;DYNAMIC",|FR_EN| AFRICANEWS EN
+https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/streams/yt-africanewsen.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/dwtv.png" group-title="DW;ENGLISH;NEWS;DYNAMIC",|DE_EN| DW-TV EN
+https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/streams/yt-dwtven.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/dwtv.png" group-title="DW;ESPAÑOL;NEWS;DYNAMIC",|DE_ES| DW-TV ES
+https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/streams/yt-dwtves.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/dwtv.png" group-title="DW;INTERNATIONAL;NEWS;DYNAMIC",|DE_RU| DW-TV RU
+https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/streams/yt-dwtvru.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/skynews.png" group-title="PRIVATE;ENGLISH;NEWS;DYNAMIC",|GB| SKY NEWS
+https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/streams/yt-skynews.m3u8
 
 # BBC
 

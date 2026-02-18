@@ -4,159 +4,159 @@
 
 # FRANCE.TV
 
-#EXTINF:-1 tvg-id="France3Alpes.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3alpes.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 ALPES [GEOBLOCKED]
+#EXTINF:-1 tvg-id="France3Alpes.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/france3alpes.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 ALPES [GEOBLOCKED]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.ffmpeg
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-alpes.m3u8
-#EXTINF:-1 tvg-id="France3Alsace.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3alsace.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 ALSACE [GEOBLOCKED]
+#EXTINF:-1 tvg-id="France3Alsace.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/france3alsace.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 ALSACE [GEOBLOCKED]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.ffmpeg
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-alsace.m3u8
-#EXTINF:-1 tvg-id="France3Aquitaine.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3aquitaine.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 AQUITAINE [GEOBLOCKED]
+#EXTINF:-1 tvg-id="France3Aquitaine.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/france3aquitaine.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 AQUITAINE [GEOBLOCKED]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.ffmpeg
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-aquitaine.m3u8
-#EXTINF:-1 tvg-id="France3Auvergne.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3auvergne.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 AUVERGNE [GEOBLOCKED]
+#EXTINF:-1 tvg-id="France3Auvergne.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/france3auvergne.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 AUVERGNE [GEOBLOCKED]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.ffmpeg
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-auvergne.m3u8
-#EXTINF:-1 tvg-id="France3BasseNormandie.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3normandie.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 BASSE-NORMANDIE [GEOBLOCKED]
+#EXTINF:-1 tvg-id="France3BasseNormandie.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/france3normandie.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 BASSE-NORMANDIE [GEOBLOCKED]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.ffmpeg
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-basse-normandie.m3u8
-#EXTINF:-1 tvg-id="France3Bourgogne.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3bourgogne.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 BOURGOGNE [GEOBLOCKED]
+#EXTINF:-1 tvg-id="France3Bourgogne.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/france3bourgogne.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 BOURGOGNE [GEOBLOCKED]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.ffmpeg
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-bourgogne.m3u8
-#EXTINF:-1 tvg-id="France3Bretagne.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3bretagne.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 BRETAGNE [GEOBLOCKED]
+#EXTINF:-1 tvg-id="France3Bretagne.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/france3bretagne.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 BRETAGNE [GEOBLOCKED]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.ffmpeg
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-bretagne.m3u8
-#EXTINF:-1 tvg-id="France3Centre.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3centrevaldeloire.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 CENTRE-VAL DE LOIRE [GEOBLOCKED]
+#EXTINF:-1 tvg-id="France3Centre.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/france3centrevaldeloire.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 CENTRE-VAL DE LOIRE [GEOBLOCKED]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.ffmpeg
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-centre-val-de-loire.m3u8
-#EXTINF:-1 tvg-id="France3ChampagneArdenne.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3champagneardenne.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 CHAMPAGNE-ARDENNE [GEOBLOCKED]
+#EXTINF:-1 tvg-id="France3ChampagneArdenne.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/france3champagneardenne.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 CHAMPAGNE-ARDENNE [GEOBLOCKED]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.ffmpeg
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-champagne-ardenne.m3u8
-#EXTINF:-1 tvg-id="France3CorseViaStella.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3corse.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 CORSE VIA STELLA [GEOBLOCKED]
+#EXTINF:-1 tvg-id="France3CorseViaStella.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/france3corse.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 CORSE VIA STELLA [GEOBLOCKED]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.ffmpeg
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-corse-via-stella.m3u8
-#EXTINF:-1 tvg-id="France3CotedAzur.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3cotedazur.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 CÔTE D’AZUR [GEOBLOCKED]
+#EXTINF:-1 tvg-id="France3CotedAzur.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/france3cotedazur.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 CÔTE D’AZUR [GEOBLOCKED]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.ffmpeg
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-cote-d-azur.m3u8
-#EXTINF:-1 tvg-id="France3FrancheComte.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3franchecomte.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 FRANCHE-COMTÉ [GEOBLOCKED]
+#EXTINF:-1 tvg-id="France3FrancheComte.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/france3franchecomte.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 FRANCHE-COMTÉ [GEOBLOCKED]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.ffmpeg
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-franche-comte.m3u8
-#EXTINF:-1 tvg-id="France3HauteNormandie.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3normandie.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 HAUTE-NORMANDIE [GEOBLOCKED]
+#EXTINF:-1 tvg-id="France3HauteNormandie.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/france3normandie.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 HAUTE-NORMANDIE [GEOBLOCKED]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.ffmpeg
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-haute-normandie.m3u8
-#EXTINF:-1 tvg-id="France3Languedoc.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3languedocroussillon.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 LANGUEDOC-ROUSSILLON [GEOBLOCKED]
+#EXTINF:-1 tvg-id="France3Languedoc.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/france3languedocroussillon.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 LANGUEDOC-ROUSSILLON [GEOBLOCKED]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.ffmpeg
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-languedoc-roussillon.m3u8
-#EXTINF:-1 tvg-id="France3Limousin.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3limousin.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 LIMOUSIN [GEOBLOCKED]
+#EXTINF:-1 tvg-id="France3Limousin.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/france3limousin.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 LIMOUSIN [GEOBLOCKED]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.ffmpeg
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-limousin.m3u8
-#EXTINF:-1 tvg-id="France3Lorraine.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3lorraine.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 LORRAINE [GEOBLOCKED]
+#EXTINF:-1 tvg-id="France3Lorraine.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/france3lorraine.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 LORRAINE [GEOBLOCKED]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.ffmpeg
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-lorraine.m3u8
-#EXTINF:-1 tvg-id="France3MidiPyrenees.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3midipyrenees.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 MIDI-PYRÉNÉES [GEOBLOCKED]
+#EXTINF:-1 tvg-id="France3MidiPyrenees.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/france3midipyrenees.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 MIDI-PYRÉNÉES [GEOBLOCKED]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.ffmpeg
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-midi-pyrenees.m3u8
-#EXTINF:-1 tvg-id="France3NouvelleAquitaine.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3noa.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 NOA [GEOBLOCKED]
+#EXTINF:-1 tvg-id="France3NouvelleAquitaine.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/france3noa.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 NOA [GEOBLOCKED]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.ffmpeg
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-noa.m3u8
-#EXTINF:-1 tvg-id="France3NordPasDeCalais.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3nordpasdecalais.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 NORD PAS-DE-CALAIS [GEOBLOCKED]
+#EXTINF:-1 tvg-id="France3NordPasDeCalais.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/france3nordpasdecalais.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 NORD PAS-DE-CALAIS [GEOBLOCKED]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.ffmpeg
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-nord-pas-de-calais.m3u8
-#EXTINF:-1 tvg-id="France3ParisIdF.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3parisiledefrance.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 PARIS ÎLE-DE-FRANCE [GEOBLOCKED]
+#EXTINF:-1 tvg-id="France3ParisIdF.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/france3parisiledefrance.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 PARIS ÎLE-DE-FRANCE [GEOBLOCKED]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.ffmpeg
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-paris-ile-de-france.m3u8
-#EXTINF:-1 tvg-id="France3PaysDeLaLoire.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3paysdelaloire.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 PAYS DE LA LOIRE [GEOBLOCKED]
+#EXTINF:-1 tvg-id="France3PaysDeLaLoire.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/france3paysdelaloire.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 PAYS DE LA LOIRE [GEOBLOCKED]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.ffmpeg
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-pays-de-la-loire.m3u8
-#EXTINF:-1 tvg-id="France3Picardie.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3picardie.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 PICARDIE [GEOBLOCKED]
+#EXTINF:-1 tvg-id="France3Picardie.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/france3picardie.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 PICARDIE [GEOBLOCKED]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.ffmpeg
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-picardie.m3u8
-#EXTINF:-1 tvg-id="France3PoitouCharentes.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3poitoucharentes.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 POITOU-CHARENTES [GEOBLOCKED]
+#EXTINF:-1 tvg-id="France3PoitouCharentes.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/france3poitoucharentes.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 POITOU-CHARENTES [GEOBLOCKED]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.ffmpeg
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-poitou-charentes.m3u8
-#EXTINF:-1 tvg-id="France3ProvenceAlpes.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3provencealpes.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 PROVENCE ALPES [GEOBLOCKED]
+#EXTINF:-1 tvg-id="France3ProvenceAlpes.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/france3provencealpes.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 PROVENCE ALPES [GEOBLOCKED]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.ffmpeg
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-provence-alpes.m3u8
-#EXTINF:-1 tvg-id="France3RhoneAlpes.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/france3rhonealpes.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 RHÔNE-ALPES [GEOBLOCKED]
+#EXTINF:-1 tvg-id="France3RhoneAlpes.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/france3rhonealpes.png" group-title="FRANCE.TV;FRANÇAIS",|FR| FRANCE 3 RHÔNE-ALPES [GEOBLOCKED]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.ffmpeg
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-rhone-alpes.m3u8
-#EXTINF:-1 tvg-id="Guadeloupe1.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/ftv1gua.png" group-title="FRANCE.TV;FRANÇAIS",|FR| GUADELOUPE LA PREMIÈRE [NOT 24/7]
+#EXTINF:-1 tvg-id="Guadeloupe1.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/ftv1gua.png" group-title="FRANCE.TV;FRANÇAIS",|FR| GUADELOUPE LA PREMIÈRE [NOT 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/guadeloupe-1ere.m3u8
-#EXTINF:-1 tvg-id="Guyane1.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/ftv1guy.png" group-title="FRANCE.TV;FRANÇAIS",|FR| GUYANE LA PREMIÈRE [NOT 24/7]
+#EXTINF:-1 tvg-id="Guyane1.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/ftv1guy.png" group-title="FRANCE.TV;FRANÇAIS",|FR| GUYANE LA PREMIÈRE [NOT 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/guyane-1ere.m3u8
-#EXTINF:-1 tvg-id="Martinique1.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/ftv1mar.png" group-title="FRANCE.TV;FRANÇAIS",|FR| MARTINIQUE LA PREMIÈRE [NOT 24/7]
+#EXTINF:-1 tvg-id="Martinique1.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/ftv1mar.png" group-title="FRANCE.TV;FRANÇAIS",|FR| MARTINIQUE LA PREMIÈRE [NOT 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/martinique-1ere.m3u8
-#EXTINF:-1 tvg-id="Mayotte1.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/ftv1may.png" group-title="FRANCE.TV;FRANÇAIS",|FR| MAYOTTE LA PREMIÈRE [NOT 24/7]
+#EXTINF:-1 tvg-id="Mayotte1.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/ftv1may.png" group-title="FRANCE.TV;FRANÇAIS",|FR| MAYOTTE LA PREMIÈRE [NOT 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/mayotte-1ere.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/ftv1nc.png" group-title="FRANCE.TV;FRANÇAIS",|FR| NOUVELLE-CALÉDONIE LA PREMIÈRE [NOT 24/7]
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/ftv1nc.png" group-title="FRANCE.TV;FRANÇAIS",|FR| NOUVELLE-CALÉDONIE LA PREMIÈRE [NOT 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/nouvelle-calédonie-1ere.m3u8
-#EXTINF:-1 tvg-id="Polynesie1.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/ftv1p.png" group-title="FRANCE.TV;FRANÇAIS",|FR| POLYNÉSIE LA PREMIÈRE [NOT 24/7]
+#EXTINF:-1 tvg-id="Polynesie1.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/ftv1p.png" group-title="FRANCE.TV;FRANÇAIS",|FR| POLYNÉSIE LA PREMIÈRE [NOT 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/polynesie-1ere.m3u8
-#EXTINF:-1 tvg-id="Reunion1.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/ftv1r.png" group-title="FRANCE.TV;FRANÇAIS",|FR| RÉUNION LA PREMIÈRE [NOT 24/7]
+#EXTINF:-1 tvg-id="Reunion1.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/ftv1r.png" group-title="FRANCE.TV;FRANÇAIS",|FR| RÉUNION LA PREMIÈRE [NOT 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/reunion-1ere.m3u8
-#EXTINF:-1 tvg-id="StPierreEtMiquelon1.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/ftv1spm.png" group-title="FRANCE.TV;FRANÇAIS",|FR| SAINT-PIERRE ET MIQUELON LA PREMIÈRE [NOT 24/7]
+#EXTINF:-1 tvg-id="StPierreEtMiquelon1.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/ftv1spm.png" group-title="FRANCE.TV;FRANÇAIS",|FR| SAINT-PIERRE ET MIQUELON LA PREMIÈRE [NOT 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/saint-pierre-et-miquelon-1ere.m3u8
-#EXTINF:-1 tvg-id="WallisEtFutuna1.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/ftv1wf.png" group-title="FRANCE.TV;FRANÇAIS",|FR| WALLIS ET FUTUNA LA PREMIÈRE [NOT 24/7]
+#EXTINF:-1 tvg-id="WallisEtFutuna1.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/ftv1wf.png" group-title="FRANCE.TV;FRANÇAIS",|FR| WALLIS ET FUTUNA LA PREMIÈRE [NOT 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/wallis-et-futuna-1ere.m3u8
 
 # ICI
 
-#EXTINF:-1 tvg-id="CBAFT.ca" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/icitele.png" group-title="ICI;FRANÇAIS",|CA_FR| ICI TÉLÉ [ACADIE] (CBAFT-DT) [GEOBLOCKED]
+#EXTINF:-1 tvg-id="CBAFT.ca" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/icitele.png" group-title="ICI;FRANÇAIS",|CA_FR| ICI TÉLÉ [ACADIE] (CBAFT-DT) [GEOBLOCKED]
 https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8
-#EXTINF:-1 tvg-id="CBXFT.ca" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/icitele.png" group-title="ICI;FRANÇAIS",|CA_FR| ICI TÉLÉ [ALBERTA] (CBXFT-DT) [GEOBLOCKED]
+#EXTINF:-1 tvg-id="CBXFT.ca" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/icitele.png" group-title="ICI;FRANÇAIS",|CA_FR| ICI TÉLÉ [ALBERTA] (CBXFT-DT) [GEOBLOCKED]
 https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8
-#EXTINF:-1 tvg-id="CBUFT.ca" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/icitele.png" group-title="ICI;FRANÇAIS",|CA_FR| ICI TÉLÉ [COLOMBIE BRITANIQUE] (CBUFT-DT) [GEOBLOCKED]
+#EXTINF:-1 tvg-id="CBUFT.ca" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/icitele.png" group-title="ICI;FRANÇAIS",|CA_FR| ICI TÉLÉ [COLOMBIE BRITANIQUE] (CBUFT-DT) [GEOBLOCKED]
 https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8
-#EXTINF:-1 tvg-id="CJBR.ca" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/icitele.png" group-title="ICI;FRANÇAIS",|CA_FR| ICI TÉLÉ [EST DU QUÉBEC] (CJBR-DT) [GEOBLOCKED]
+#EXTINF:-1 tvg-id="CJBR.ca" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/icitele.png" group-title="ICI;FRANÇAIS",|CA_FR| ICI TÉLÉ [EST DU QUÉBEC] (CJBR-DT) [GEOBLOCKED]
 https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8
-#EXTINF:-1 tvg-id="CKSH.ca" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/icitele.png" group-title="ICI;FRANÇAIS",|CA_FR| ICI TÉLÉ [ESTRIE] (CKSH-DT) [GEOBLOCKED]
+#EXTINF:-1 tvg-id="CKSH.ca" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/icitele.png" group-title="ICI;FRANÇAIS",|CA_FR| ICI TÉLÉ [ESTRIE] (CKSH-DT) [GEOBLOCKED]
 https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8
-#EXTINF:-1 tvg-id="CBWFT.ca" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/icitele.png" group-title="ICI;FRANÇAIS",|CA_FR| ICI TÉLÉ [MANITOBA] (CBWFT-DT) [GEOBLOCKED]
+#EXTINF:-1 tvg-id="CBWFT.ca" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/icitele.png" group-title="ICI;FRANÇAIS",|CA_FR| ICI TÉLÉ [MANITOBA] (CBWFT-DT) [GEOBLOCKED]
 https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master.m3u8
-#EXTINF:-1 tvg-id="CKTM.ca" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/icitele.png" group-title="ICI;FRANÇAIS",|CA_FR| ICI TÉLÉ [MAURICIE–CENTRE-DU-QUÉBEC] (CKTM-DT) [GEOBLOCKED]
+#EXTINF:-1 tvg-id="CKTM.ca" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/icitele.png" group-title="ICI;FRANÇAIS",|CA_FR| ICI TÉLÉ [MAURICIE–CENTRE-DU-QUÉBEC] (CKTM-DT) [GEOBLOCKED]
 https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8
-#EXTINF:-1 tvg-id="CBLFT.ca" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/icitele.png" group-title="ICI;FRANÇAIS",|CA_FR| ICI TÉLÉ [ONTARIO] (CBLFT-DT) [GEOBLOCKED]
+#EXTINF:-1 tvg-id="CBLFT.ca" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/icitele.png" group-title="ICI;FRANÇAIS",|CA_FR| ICI TÉLÉ [ONTARIO] (CBLFT-DT) [GEOBLOCKED]
 https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8
-#EXTINF:-1 tvg-id="CBOFT.ca" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/icitele.png" group-title="ICI;FRANÇAIS",|CA_FR| ICI TÉLÉ [OTTAWA–GATINEAU] (CBOFT-DT) [GEOBLOCKED]
+#EXTINF:-1 tvg-id="CBOFT.ca" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/icitele.png" group-title="ICI;FRANÇAIS",|CA_FR| ICI TÉLÉ [OTTAWA–GATINEAU] (CBOFT-DT) [GEOBLOCKED]
 https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8
-#EXTINF:-1 tvg-id="CBVT.ca" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/icitele.png" group-title="ICI;FRANÇAIS",|CA_FR| ICI TÉLÉ [QUÉBEC] (CBVT-DT) [GEOBLOCKED]
+#EXTINF:-1 tvg-id="CBVT.ca" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/icitele.png" group-title="ICI;FRANÇAIS",|CA_FR| ICI TÉLÉ [QUÉBEC] (CBVT-DT) [GEOBLOCKED]
 https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8
-#EXTINF:-1 tvg-id="CKTV.ca" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/icitele.png" group-title="ICI;FRANÇAIS",|CA_FR| ICI TÉLÉ [SAGUENAY–LAC-ST-JEAN] (CKTV-DT) [GEOBLOCKED]
+#EXTINF:-1 tvg-id="CKTV.ca" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/icitele.png" group-title="ICI;FRANÇAIS",|CA_FR| ICI TÉLÉ [SAGUENAY–LAC-ST-JEAN] (CKTV-DT) [GEOBLOCKED]
 https://rcavlive.akamaized.net/hls/live/704023/cancktv/master.m3u8
-#EXTINF:-1 tvg-id="CBKFT.ca" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/icitele.png" group-title="ICI;FRANÇAIS",|CA_FR| ICI TÉLÉ [SASKATCHEWAN] (CBKFT-DT) [GEOBLOCKED]
+#EXTINF:-1 tvg-id="CBKFT.ca" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/icitele.png" group-title="ICI;FRANÇAIS",|CA_FR| ICI TÉLÉ [SASKATCHEWAN] (CBKFT-DT) [GEOBLOCKED]
 https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8
 
 # WARNER BROS. DISCOVERY
@@ -305,7 +305,7 @@ https://directes-tv-cat.3catdirectes.cat/live-content/oca3-hls/master.m3u8
 https://directes-tv-cat.3catdirectes.cat/live-content/bondia-hls/master.m3u8
 #EXTINF:-1 tvg-id="Telemadrid.es" tvg-logo="https://www.telemadrid.es/2025/10/20/emisiones-en-directo/_2826937288_50831311_400x225.jpg" group-title="LOCAL_ES;ESPAÑOL",|ES| TELEMADRID INT [COMUNIDAD DE MADRID]
 https://live.telemadrid.cross-media.es/6380725747112/eu-central-1/6416060453001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiajI5YjgyLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNjA2MDQ1MzAwMSIsImVobiI6ImxpdmUudGVsZW1hZHJpZC5jcm9zcy1tZWRpYS5lcyIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiNjQxNjA2MDQ1MzAwMSJdLCJqdGkiOiI2MzgwNzI1NzQ3MTEyIn0.rI_y3mt_IbyyP0AaoTZF6F6i1eDJ52RVfs0pC6_vwkM/playlist-hls.m3u8
-#EXTINF:-1 tvg-id="TelevisiónCanaria.es" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/tvcan.png" group-title="LOCAL_ES;ESPAÑOL",|ES| TELEVISIÓN CANARIA NET [ISLAS CANARIAS]
+#EXTINF:-1 tvg-id="TelevisiónCanaria.es" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/tvcan.png" group-title="LOCAL_ES;ESPAÑOL",|ES| TELEVISIÓN CANARIA NET [ISLAS CANARIAS]
 https://d2q93scm3qt8zp.cloudfront.net/index-events.m3u8
 #EXTINF:-1 tvg-id="Aragón.TV.es" tvg-logo="https://cdn.sincroguia.tv/uploads/images/a/r/a/xaragon-internacional.jpg.pagespeed.ic.z9aeLSyEl9.jpg" group-title="LOCAL_ES;ESPAÑOL",|ES| ARAGÓN TV INT [ARAGÓN]
 https://cartv-streaming.aranova.es/hls/live/aragontv_canal1.m3u8
@@ -405,82 +405,82 @@ https://stream.rtl.lu/data/live/tele/media4/index.m3u8
 
 # TV5MONDE
 
-#EXTINF:-1 tvg-id="TV5Monde.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/tv5mondefbsm.png" group-title="TV5MONDE;FRANÇAIS",|FR| TV5MONDE FBSM [GEOBLOCKED]
+#EXTINF:-1 tvg-id="TV5Monde.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/tv5mondefbsm.png" group-title="TV5MONDE;FRANÇAIS",|FR| TV5MONDE FBSM [GEOBLOCKED]
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
-#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/tv5mondeeurope.png" group-title="TV5MONDE;FRANÇAIS",|FR| TV5MONDE EUROPE [GEOBLOCKED]
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/tv5mondeeurope.png" group-title="TV5MONDE;FRANÇAIS",|FR| TV5MONDE EUROPE [GEOBLOCKED]
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
-#EXTINF:-1 tvg-id="TV5MondeMaghrebOrient.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/tv5mondemaor.png" group-title="TV5MONDE;FRANÇAIS",|FR| TV5MONDE MAGHREB-ORIENT [GEOBLOCKED]
+#EXTINF:-1 tvg-id="TV5MondeMaghrebOrient.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/tv5mondemaor.png" group-title="TV5MONDE;FRANÇAIS",|FR| TV5MONDE MAGHREB-ORIENT [GEOBLOCKED]
 https://ott.tv5monde.com/Content/HLS/Live/channel(orient)/variant.m3u8
-#EXTINF:-1 tvg-id="TV5MondeAfrique.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/tv5mondeafrique.png" group-title="TV5MONDE;FRANÇAIS",|FR| TV5MONDE AFRIQUE [GEOBLOCKED]
+#EXTINF:-1 tvg-id="TV5MondeAfrique.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/tv5mondeafrique.png" group-title="TV5MONDE;FRANÇAIS",|FR| TV5MONDE AFRIQUE [GEOBLOCKED]
 https://ott.tv5monde.com/Content/HLS/Live/channel(afrique)/variant.m3u8
-#EXTINF:-1 tvg-id="TV5MondeAsie.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/tv5mondeasie.png" group-title="TV5MONDE;FRANÇAIS",|FR| TV5MONDE ASIE [GEOBLOCKED]
+#EXTINF:-1 tvg-id="TV5MondeAsie.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/tv5mondeasie.png" group-title="TV5MONDE;FRANÇAIS",|FR| TV5MONDE ASIE [GEOBLOCKED]
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
-#EXTINF:-1 tvg-id="TV5MondePacifique.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/tv5mondepacifique.png" group-title="TV5MONDE;FRANÇAIS",|FR| TV5MONDE PACIFIQUE [GEOBLOCKED]
+#EXTINF:-1 tvg-id="TV5MondePacifique.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/tv5mondepacifique.png" group-title="TV5MONDE;FRANÇAIS",|FR| TV5MONDE PACIFIQUE [GEOBLOCKED]
 https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
-#EXTINF:-1 tvg-id="TV5Style.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/tv5mondestyle.png" group-title="TV5MONDE;FRANÇAIS",|FR| TV5MONDE STYLE #1 [GEOBLOCKED]
+#EXTINF:-1 tvg-id="TV5Style.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/tv5mondestyle.png" group-title="TV5MONDE;FRANÇAIS",|FR| TV5MONDE STYLE #1 [GEOBLOCKED]
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
-#EXTINF:-1 tvg-id="TV5Style.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/tv5mondestyle.png" group-title="TV5MONDE;FRANÇAIS",|FR| TV5MONDE STYLE #2 [GEOBLOCKED]
+#EXTINF:-1 tvg-id="TV5Style.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/tv5mondestyle.png" group-title="TV5MONDE;FRANÇAIS",|FR| TV5MONDE STYLE #2 [GEOBLOCKED]
 https://ott.tv5monde.com/Content/HLS/Live/channel(style2)/variant.m3u8
-#EXTINF:-1 tvg-id="Tivi5.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/tivi5monde.png" group-title="TV5MONDE;FRANÇAIS",|FR| TiVi5MONDE [GEOBLOCKED]
+#EXTINF:-1 tvg-id="Tivi5.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/tivi5monde.png" group-title="TV5MONDE;FRANÇAIS",|FR| TiVi5MONDE [GEOBLOCKED]
 https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8
-#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/tv5mondeinfo.png" group-title="TV5MONDE;FRANÇAIS;NEWS",|FR| TV5MONDE INFO [FAST]
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/tv5mondeinfo.png" group-title="TV5MONDE;FRANÇAIS;NEWS",|FR| TV5MONDE INFO [FAST]
 https://d161b1o6wfc5a3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u7sgewc3l8ri/tvfm.m3u8
 
 # CBC
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbc.png" group-title="CBC;ENGLISH",|CA_EN| CBC CALGARY (CBRT-DT) [GEOBLOCKED]
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/cbc.png" group-title="CBC;ENGLISH",|CA_EN| CBC CALGARY (CBRT-DT) [GEOBLOCKED]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbc.png" group-title="CBC;ENGLISH",|CA_EN| CBC EDMONTON (CBXT-DT) [GEOBLOCKED]
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/cbc.png" group-title="CBC;ENGLISH",|CA_EN| CBC EDMONTON (CBXT-DT) [GEOBLOCKED]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbc.png" group-title="CBC;ENGLISH",|CA_EN| CBC MANITOBA (CBWT-DT) [GEOBLOCKED]
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/cbc.png" group-title="CBC;ENGLISH",|CA_EN| CBC MANITOBA (CBWT-DT) [GEOBLOCKED]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042767/CBCRCLINEAR_TOR_13/master5.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbc.png" group-title="CBC;ENGLISH",|CA_EN| CBC MONTRÉAL (CBMT-DT) [GEOBLOCKED]
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/cbc.png" group-title="CBC;ENGLISH",|CA_EN| CBC MONTRÉAL (CBMT-DT) [GEOBLOCKED]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbc.png" group-title="CBC;ENGLISH",|CA_EN| CBC NEW BRUNSWICK (CBAT-DT) [GEOBLOCKED]
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/cbc.png" group-title="CBC;ENGLISH",|CA_EN| CBC NEW BRUNSWICK (CBAT-DT) [GEOBLOCKED]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbc.png" group-title="CBC;ENGLISH",|CA_EN| CBC NEWFOUNDLAND AND LABRADOR (CBNT-DT) [GEOBLOCKED]
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/cbc.png" group-title="CBC;ENGLISH",|CA_EN| CBC NEWFOUNDLAND AND LABRADOR (CBNT-DT) [GEOBLOCKED]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbc.png" group-title="CBC;ENGLISH",|CA_EN| CBC NORTH (CFYK-DT) [GEOBLOCKED]
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/cbc.png" group-title="CBC;ENGLISH",|CA_EN| CBC NORTH (CFYK-DT) [GEOBLOCKED]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042766/CBCRCLINEAR_TOR_12/master5.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbc.png" group-title="CBC;ENGLISH",|CA_EN| CBC NOVA SCOTIA (CBHT-DT) [GEOBLOCKED]
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/cbc.png" group-title="CBC;ENGLISH",|CA_EN| CBC NOVA SCOTIA (CBHT-DT) [GEOBLOCKED]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbc.png" group-title="CBC;ENGLISH",|CA_EN| CBC PRINCE EDWARD ISLAND (CBCT-DT) [GEOBLOCKED]
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/cbc.png" group-title="CBC;ENGLISH",|CA_EN| CBC PRINCE EDWARD ISLAND (CBCT-DT) [GEOBLOCKED]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbc.png" group-title="CBC;ENGLISH",|CA_EN| CBC SASKATCHEWAN (CBKT-DT) [GEOBLOCKED]
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/cbc.png" group-title="CBC;ENGLISH",|CA_EN| CBC SASKATCHEWAN (CBKT-DT) [GEOBLOCKED]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master5.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbc.png" group-title="CBC;ENGLISH",|CA_EN| CBC TORONTO (CBLT-DT) [GEOBLOCKED]
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/cbc.png" group-title="CBC;ENGLISH",|CA_EN| CBC TORONTO (CBLT-DT) [GEOBLOCKED]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbc.png" group-title="CBC;ENGLISH",|CA_EN| CBC VANCOUVER (CBUT-DT) [GEOBLOCKED]
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/cbc.png" group-title="CBC;ENGLISH",|CA_EN| CBC VANCOUVER (CBUT-DT) [GEOBLOCKED]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbc.png" group-title="CBC;ENGLISH",|CA_EN| CBC WINDSOR (CBET-DT) [GEOBLOCKED]
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/cbc.png" group-title="CBC;ENGLISH",|CA_EN| CBC WINDSOR (CBET-DT) [GEOBLOCKED]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbcnews.png" group-title="CBC;ENGLISH;NEWS",|CA_EN| CBC NEWS BRITISH COLUMBIA [FAST] [GEOBLOCKED]
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/cbcnews.png" group-title="CBC;ENGLISH;NEWS",|CA_EN| CBC NEWS BRITISH COLUMBIA [FAST] [GEOBLOCKED]
 https://amagi-streams.akamaized.net/hls/live/2110960/cbcnewsbc/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbcnews.png" group-title="CBC;ENGLISH;NEWS",|CA_EN| CBC NEWS CALGARY [FAST] [GEOBLOCKED]
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/cbcnews.png" group-title="CBC;ENGLISH;NEWS",|CA_EN| CBC NEWS CALGARY [FAST] [GEOBLOCKED]
 https://amagi-streams.akamaized.net/hls/live/2113388/cbccalgary/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbcnews.png" group-title="CBC;ENGLISH;NEWS",|CA_EN| CBC NEWS EDMONTON [FAST] [GEOBLOCKED]
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/cbcnews.png" group-title="CBC;ENGLISH;NEWS",|CA_EN| CBC NEWS EDMONTON [FAST] [GEOBLOCKED]
 https://amagi-streams.akamaized.net/hls/live/2113387/cbcedmonton/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbcnews.png" group-title="CBC;ENGLISH;NEWS",|CA_EN| CBC NEWS MANITOBA [FAST] [GEOBLOCKED]
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/cbcnews.png" group-title="CBC;ENGLISH;NEWS",|CA_EN| CBC NEWS MANITOBA [FAST] [GEOBLOCKED]
 https://amagi-streams.akamaized.net/hls/live/2113385/cbcmanitoba/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbcnews.png" group-title="CBC;ENGLISH;NEWS",|CA_EN| CBC NEWS NEW BRUNSWICK [FAST] [GEOBLOCKED]
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/cbcnews.png" group-title="CBC;ENGLISH;NEWS",|CA_EN| CBC NEWS NEW BRUNSWICK [FAST] [GEOBLOCKED]
 https://amagi-streams.akamaized.net/hls/live/2113379/cbcnb/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbcnews.png" group-title="CBC;ENGLISH;NEWS",|CA_EN| CBC NEWS NEWFOUNDLAND AND LABRADOR [FAST] [GEOBLOCKED]
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/cbcnews.png" group-title="CBC;ENGLISH;NEWS",|CA_EN| CBC NEWS NEWFOUNDLAND AND LABRADOR [FAST] [GEOBLOCKED]
 https://amagi-streams.akamaized.net/hls/live/2113381/cbcnl/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbcnews.png" group-title="CBC;ENGLISH;NEWS",|CA_EN| CBC NEWS NORTH [FAST] [GEOBLOCKED]
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/cbcnews.png" group-title="CBC;ENGLISH;NEWS",|CA_EN| CBC NEWS NORTH [FAST] [GEOBLOCKED]
 https://amagi-streams.akamaized.net/hls/live/2113389/cbcnorth/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbcnews.png" group-title="CBC;ENGLISH;NEWS",|CA_EN| CBC NEWS NOVA SCOTIA [FAST] [GEOBLOCKED]
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/cbcnews.png" group-title="CBC;ENGLISH;NEWS",|CA_EN| CBC NEWS NOVA SCOTIA [FAST] [GEOBLOCKED]
 https://amagi-streams.akamaized.net/hls/live/2113378/cbcnovascotia/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbcnews.png" group-title="CBC;ENGLISH;NEWS",|CA_EN| CBC NEWS OTTAWA [FAST] [GEOBLOCKED]
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/cbcnews.png" group-title="CBC;ENGLISH;NEWS",|CA_EN| CBC NEWS OTTAWA [FAST] [GEOBLOCKED]
 https://amagi-streams.akamaized.net/hls/live/2113383/cbcottawa/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbcnews.png" group-title="CBC;ENGLISH;NEWS",|CA_EN| CBC NEWS PRINCE EDWARD ISLAND [FAST] [GEOBLOCKED]
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/cbcnews.png" group-title="CBC;ENGLISH;NEWS",|CA_EN| CBC NEWS PRINCE EDWARD ISLAND [FAST] [GEOBLOCKED]
 https://amagi-streams.akamaized.net/hls/live/2113380/cbcpei/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbcnews.png" group-title="CBC;ENGLISH;NEWS",|CA_EN| CBC NEWS QUEBEC [FAST] [GEOBLOCKED]
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/cbcnews.png" group-title="CBC;ENGLISH;NEWS",|CA_EN| CBC NEWS QUEBEC [FAST] [GEOBLOCKED]
 https://amagi-streams.akamaized.net/hls/live/2113382/cbcquebec/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbcnews.png" group-title="CBC;ENGLISH;NEWS",|CA_EN| CBC NEWS SASKATCHEWAN [FAST] [GEOBLOCKED]
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/cbcnews.png" group-title="CBC;ENGLISH;NEWS",|CA_EN| CBC NEWS SASKATCHEWAN [FAST] [GEOBLOCKED]
 https://amagi-streams.akamaized.net/hls/live/2113386/cbcsask/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbcnews.png" group-title="CBC;ENGLISH;NEWS",|CA_EN| CBC NEWS TORONTO [FAST] [GEOBLOCKED]
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/cbcnews.png" group-title="CBC;ENGLISH;NEWS",|CA_EN| CBC NEWS TORONTO [FAST] [GEOBLOCKED]
 https://amagi-streams.akamaized.net/hls/live/2110961/cbctoronto/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://gitlab.com/uwzyt/4n/-/raw/main/assets/icons/tv/cbcnews.png" group-title="CBC;ENGLISH;NEWS",|CA_EN| CBC NEWS WINDSOR [FAST] [GEOBLOCKED]
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/cbcnews.png" group-title="CBC;ENGLISH;NEWS",|CA_EN| CBC NEWS WINDSOR [FAST] [GEOBLOCKED]
 https://amagi-streams.akamaized.net/hls/live/2113384/cbcwindsor/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CBC;ENGLISH",|CA_EN| CBC COMEDY [FAST] [GEOBLOCKED]
 https://amagi-streams.akamaized.net/hls/live/2110963/cbccomedy/master.m3u8
