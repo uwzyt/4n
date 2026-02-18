@@ -170,39 +170,6 @@ https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_356
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/500px-TruTV_2014.svg.png" group-title="WARNER;ENGLISH",|US| TRUTV WEST [GEOBLOCKED]
 https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
 
-# RTVE VARIACIONES REGIONALES
-
-#EXTINF:-1 tvg-id="La.1.es" tvg-logo="https://jungle-team.com/wp-content/uploads/2024/02/Logo_La_1_UHD_2024-original.png" group-title="RTVE;ESPAÑOL",|ES| RTVE LA 1 UHD
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-http://176.65.146.237:8401/play/a09u/index.m3u8
-#EXTINF:-1 tvg-id="La.1.Catalunya.es" tvg-logo="https://css2.rtve.es/css/rtve.directos/logos_cadenas/tv-la1.png" group-title="RTVE;ESPAÑOL",|ES| RTVE LA 1 CAT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/cat/la1_cat_main_dvr.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://css2.rtve.es/css/rtve.directos/logos_cadenas/tv-la2_cat.png" group-title="RTVE;ESPAÑOL",|ES| RTVE LA 2 CAT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/cat/la2_cat_main_dvr.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://css.rtve.es/css/rtve.directos/logos_cadenas/tv-24-horas_nac.png" group-title="RTVE;ESPAÑOL;NEWS",|ES| RTVE 24 HORAS CAT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/cat/24h_cat_main.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://css2.rtve.es/css/rtve.directos/logos_cadenas/tv-la1.png" group-title="RTVE;ESPAÑOL",|ES| RTVE LA 1 CANARIAS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/can/la1_can_main.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://css2.rtve.es/css/rtve.directos/logos_cadenas/tv-la2.png" group-title="RTVE;ESPAÑOL",|ES| RTVE LA 2 CANARIAS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/can/la2_can_main.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://css.rtve.es/css/rtve.directos/logos_cadenas/tv-24-horas_nac.png" group-title="RTVE;ESPAÑOL;NEWS",|ES| RTVE 24 HORAS CANARIAS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/can/24h_can_main.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/DEFAULT/t_0034_000.png" group-title="RTVE;ESPAÑOL",|ES| RTVE TVE INTERNACIONAL AMÉRICA [GEOBLOCKED]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
-#EXTINF:-1 tvg-id="TVE.Internacional.Asia.es" tvg-logo="https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/DEFAULT/t_0034_000.png" group-title="RTVE;ESPAÑOL",|ES| RTVE TVE INTERNACIONAL ASIA [GEOBLOCKED]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_1080.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://css2.rtve.es/css/rtve.directos/logos_cadenas/tv-clan.png" group-title="RTVE;ESPAÑOL",|ES| RTVE CLAN INTERNACIONAL [GEOBLOCKED]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
-
 # RTVE CANALES TEMÁTICOS Y OCASIONALES
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://css.rtve.es/css/rtveplay.2021/i/compartir_rtve_play.jpg" group-title="RTVE;ESPAÑOL",|ES| RTVE PLAY CANAL TEMÁTICO 1 [GEOBLOCKED]
@@ -286,29 +253,6 @@ https://rtvelivestream-rtveplayplus.rtve.es/eventual/oca/irtve23_main.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://css.rtve.es/css/rtveplay.2021/i/compartir_rtve_play.jpg" group-title="RTVE;ESPAÑOL",|ES| RTVE PLAY CANAL OCASIONAL 24 [GEOBLOCKED]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://rtvelivestream-rtveplayplus.rtve.es/eventual/oca/irtve24_main.m3u8
-
-# ESPAÑA_REGIONAL
-
-#EXTINF:-1 tvg-id="TV3.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/960px-TV3.svg.png" group-title="LOCAL_ES;ESPAÑOL",|ES_CA| TV3 [CATALUÑA] [GEOBLOCKED]
-https://directes3-tv-cat.3catdirectes.cat/live-content/tv3-hls/master.m3u8
-#EXTINF:-1 tvg-id="TV3.CAT.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/960px-TV3CAT.svg.png" group-title="LOCAL_ES;CATALÀ",|ES_CA| TV3 CAT [CATALUÑA] [GEOBLOCKED]
-https://directes3-tv-es.3catdirectes.cat/live-content/tvc-hls/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/3CatInfo_logo.svg/960px-3CatInfo_logo.svg.png" group-title="LOCAL_ES;ESPAÑOL",|ES_CA| 3CATINFO [CATALUÑA] [GEOBLOCKED]
-https://directes-tv-cat.3catdirectes.cat/live-content/canal324-hls/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Logotip_de_3Cat.svg/960px-Logotip_de_3Cat.svg.png" group-title="LOCAL_ES;CATALÀ",|ES_CA| 3CAT EXCLUSIU 1 [GEOBLOCKED]
-https://directes-tv-cat.3catdirectes.cat/live-content/oca1-hls/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Logotip_de_3Cat.svg/960px-Logotip_de_3Cat.svg.png" group-title="LOCAL_ES;CATALÀ",|ES_CA| 3CAT EXCLUSIU 2 [GEOBLOCKED]
-https://directes-tv-cat.3catdirectes.cat/live-content/oca2-hls/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Logotip_de_3Cat.svg/960px-Logotip_de_3Cat.svg.png" group-title="LOCAL_ES;CATALÀ",|ES_CA| 3CAT EXCLUSIU 3 [GEOBLOCKED]
-https://directes-tv-cat.3catdirectes.cat/live-content/oca3-hls/master.m3u8
-#EXTINF:-1 tvg-id="Bon.Dia.TV.es" tvg-logo="https://www.bondiatv.org/img/og/bondiatv.png" group-title="LOCAL_ES;ESPAÑOL",|ES_CA| BON DIA TV [PAÍSES CATALANES] [GEOBLOCKED]
-https://directes-tv-cat.3catdirectes.cat/live-content/bondia-hls/master.m3u8
-#EXTINF:-1 tvg-id="Telemadrid.es" tvg-logo="https://www.telemadrid.es/2025/10/20/emisiones-en-directo/_2826937288_50831311_400x225.jpg" group-title="LOCAL_ES;ESPAÑOL",|ES| TELEMADRID INT [COMUNIDAD DE MADRID]
-https://live.telemadrid.cross-media.es/6380725747112/eu-central-1/6416060453001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiajI5YjgyLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNjA2MDQ1MzAwMSIsImVobiI6ImxpdmUudGVsZW1hZHJpZC5jcm9zcy1tZWRpYS5lcyIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiNjQxNjA2MDQ1MzAwMSJdLCJqdGkiOiI2MzgwNzI1NzQ3MTEyIn0.rI_y3mt_IbyyP0AaoTZF6F6i1eDJ52RVfs0pC6_vwkM/playlist-hls.m3u8
-#EXTINF:-1 tvg-id="TelevisiónCanaria.es" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/tvcan.png" group-title="LOCAL_ES;ESPAÑOL",|ES| TELEVISIÓN CANARIA NET [ISLAS CANARIAS]
-https://d2q93scm3qt8zp.cloudfront.net/index-events.m3u8
-#EXTINF:-1 tvg-id="Aragón.TV.es" tvg-logo="https://cdn.sincroguia.tv/uploads/images/a/r/a/xaragon-internacional.jpg.pagespeed.ic.z9aeLSyEl9.jpg" group-title="LOCAL_ES;ESPAÑOL",|ES| ARAGÓN TV INT [ARAGÓN]
-https://cartv-streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
 # ARD-ZDF
 
