@@ -776,13 +776,13 @@ https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8
 
 #EXTINF:-1 tvg-id="La.1.es" tvg-logo="https://css2.rtve.es/css/rtve.directos/logos_cadenas/tv-la1.png" group-title="RTVE;ESPAÑOL",|ES| RTVE LA 1
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|2a65a80955e550039651caae1b32ee9a:91532fd3f963cfca61d2753af1b84136,3a217613ab4c5d8399434d679bb43ca5:d1d41a48e85ed378cfc7de72f19edd1f,6293f906b9f65e7783125513d313a3f9:cbdd50a59a9eea3ecd1b3b95c56940c0
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|562f81a1d0c3508a92272bb2d1a1ff68:689317e107f46e168c72a495203eefec,282ada04f991565d9eea39e675d843ef:fdeb35eaa846c3b4ecacb86547045c25,e080cf6f71365721a531637e02231a7a:461cf77fac8985df81510ab8dbf5f81e
 https://live.tvup.edge2befaster.io/la1-neutral/la1-neutral.mpd
-#EXTINF:-1 tvg-id="La.2.es" tvg-logo="https://css2.rtve.es/css/rtve.directos/logos_cadenas/tv-la2.png" group-title="RTVE;ESPAÑOL",|ES| RTVE LA 2 [PARTIALLY GEOBLOCKED]
+#EXTINF:-1 tvg-id="La.2.es" tvg-logo="https://css2.rtve.es/css/rtve.directos/logos_cadenas/tv-la2.png" group-title="RTVE;ESPAÑOL",|ES| RTVE LA 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|2a65a80955e550039651caae1b32ee9a:91532fd3f963cfca61d2753af1b84136,3a217613ab4c5d8399434d679bb43ca5:d1d41a48e85ed378cfc7de72f19edd1f,6293f906b9f65e7783125513d313a3f9:cbdd50a59a9eea3ecd1b3b95c56940c0
 https://live.tvup.edge2befaster.io/la2l/la2l.mpd
-#EXTINF:-1 tvg-id="Canal.24.h.es" tvg-logo="https://picserve.netplus.ch/channels/canal24horas.png" group-title="RTVE;ESPAÑOL;NEWS",|ES| RTVE 24 HORAS
+#EXTINF:-1 tvg-id="Canal.24.h.es" tvg-logo="https://css.rtve.es/css/rtve.directos/logos_cadenas/tv-24-horas_nac.png" group-title="RTVE;ESPAÑOL;NEWS",|ES| RTVE 24 HORAS
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f7e4a8328a025f94b5e3ceded06fbc44:a509616e15b66ecb5177bc2705956557,2b5b0a182ca554e5a7158f813fb1d1b1:4a13373195f24dcc8094d834785f41e9,10462201a43251a6b843e96dae5a0774:715027c2c06be2d12995386ce64862a1
 https://live.tvup.edge2befaster.io/canal24hhd/canal24hhd.mpd
