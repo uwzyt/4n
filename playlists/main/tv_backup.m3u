@@ -175,6 +175,23 @@ https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/streams/dm-t18.m3u8
 
 # ESPAÑA
 
+#EXTINF:-1 tvg-id="La.1.es" tvg-logo="https://css2.rtve.es/css/rtve.directos/logos_cadenas/tv-la1.png" group-title="RTVE;ESPAÑOL",|ES| RTVE LA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
+#EXTINF:-1 tvg-id="La.2.es" tvg-logo="https://css2.rtve.es/css/rtve.directos/logos_cadenas/tv-la2.png" group-title="RTVE;ESPAÑOL",|ES| RTVE LA 2 [PARTIALLY GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
+#EXTINF:-1 tvg-id="Canal.24.h.es" tvg-logo="https://picserve.netplus.ch/channels/canal24horas.png" group-title="RTVE;ESPAÑOL;NEWS",|ES| RTVE 24 HORAS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-logo="https://css.rtve.es/css/rtve.directos/logos_cadenas/tv-teledeporte_nac.png" group-title="RTVE;ESPAÑOL;SPORTS",|ES| RTVE TELEDEPORTE [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/tdp/tdp_main_dvr.m3u8
+#EXTINF:-1 tvg-id="Clan.es" tvg-logo="https://css2.rtve.es/css/rtve.directos/logos_cadenas/tv-clan.png" group-title="RTVE;ESPAÑOL",|ES| RTVE CLAN [ESPAÑA] [GEOBLOCKED]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/clan/clan_main_dvr.m3u8
+#EXTINF:-1 tvg-id="TRECE.es" tvg-logo="https://www.bca-music.com/wp-content/uploads/2022/11/TRECE-en-directo.png" group-title="PRIVATE_ES;ESPAÑOL",|ES| COPE TRECE [WEB]
+https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ETB1_2022_logo.svg/960px-ETB1_2022_logo.svg.png" group-title="LOCAL_ES;EUSKARA",|ES_EU| ETB1 [PAÍS VASCO]
 #EXTVLCOPT:http-referrer=https://www.eitb.eus
 https://multimedia.eitb.eus/live-content/etb1eus-hls/master.m3u8
