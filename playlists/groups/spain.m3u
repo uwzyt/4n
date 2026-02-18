@@ -4,13 +4,13 @@
 
 #EXTINF:-1 tvg-id="La.1.es" tvg-logo="https://css2.rtve.es/css/rtve.directos/logos_cadenas/tv-la1.png" group-title="RTVE;ESPAÑOL",|ES| RTVE LA 1
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|2a65a80955e550039651caae1b32ee9a:91532fd3f963cfca61d2753af1b84136,3a217613ab4c5d8399434d679bb43ca5:d1d41a48e85ed378cfc7de72f19edd1f,6293f906b9f65e7783125513d313a3f9:cbdd50a59a9eea3ecd1b3b95c56940c0
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|562f81a1d0c3508a92272bb2d1a1ff68:689317e107f46e168c72a495203eefec,282ada04f991565d9eea39e675d843ef:fdeb35eaa846c3b4ecacb86547045c25,e080cf6f71365721a531637e02231a7a:461cf77fac8985df81510ab8dbf5f81e
 https://live.tvup.edge2befaster.io/la1-neutral/la1-neutral.mpd
-#EXTINF:-1 tvg-id="La.2.es" tvg-logo="https://css2.rtve.es/css/rtve.directos/logos_cadenas/tv-la2.png" group-title="RTVE;ESPAÑOL",|ES| RTVE LA 2 [PARTIALLY GEOBLOCKED]
+#EXTINF:-1 tvg-id="La.2.es" tvg-logo="https://css2.rtve.es/css/rtve.directos/logos_cadenas/tv-la2.png" group-title="RTVE;ESPAÑOL",|ES| RTVE LA 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|2a65a80955e550039651caae1b32ee9a:91532fd3f963cfca61d2753af1b84136,3a217613ab4c5d8399434d679bb43ca5:d1d41a48e85ed378cfc7de72f19edd1f,6293f906b9f65e7783125513d313a3f9:cbdd50a59a9eea3ecd1b3b95c56940c0
 https://live.tvup.edge2befaster.io/la2l/la2l.mpd
-#EXTINF:-1 tvg-id="Canal.24.h.es" tvg-logo="https://picserve.netplus.ch/channels/canal24horas.png" group-title="RTVE;ESPAÑOL;NEWS",|ES| RTVE 24 HORAS
+#EXTINF:-1 tvg-id="Canal.24.h.es" tvg-logo="https://css.rtve.es/css/rtve.directos/logos_cadenas/tv-24-horas_nac.png" group-title="RTVE;ESPAÑOL;NEWS",|ES| RTVE 24 HORAS
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f7e4a8328a025f94b5e3ceded06fbc44:a509616e15b66ecb5177bc2705956557,2b5b0a182ca554e5a7158f813fb1d1b1:4a13373195f24dcc8094d834785f41e9,10462201a43251a6b843e96dae5a0774:715027c2c06be2d12995386ce64862a1
 https://live.tvup.edge2befaster.io/canal24hhd/canal24hhd.mpd
@@ -28,20 +28,13 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8
 #EXTINF:-1 tvg-id="Star.es" tvg-logo="https://c4d.com.mx/canalesrtve/wp-content/uploads/2021/04/star-tve_head-simple.png" group-title="RTVE;ESPAÑOL",|ES| RTVE STAR TVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
-#EXTINF:-1 tvg-id="France.24.es" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/france24.png" group-title="FMM;ESPAÑOL;NEWS",|FR_ES| FRANCE 24 ES
-https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="Euronews.es" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/euronews.png" group-title="EURONEWS;ESPAÑOL;NEWS",|FR_ES| EURONEWS ES
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8
-#EXTINF:-1 tvg-id="Deutsche.Welle.es" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/dwtv.png" group-title="DW;ESPAÑOL;NEWS",|DE_ES| DW-TV ES
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:-1 tvg-id="Antena.3.es" tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_2025/sombreado/Antena3.png" group-title="ATRESMEDIA;ESPAÑOL",|ES| ANTENA 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|173bcb78d33a5ae7ba7357ad94723f28:1e69f953c8974cacf85e9c29c6a0f2cc,b5aefe37a38c5642876e992ab484e1fa:9740dbf62ae7811d17d87d3a8ef0c442,c648943f6c405d9189a1b4bc518838b0:6b495ac32285d600d3334dd9bed52d59
 https://live.tvup.edge2befaster.io/antena3hd/antena3hd.mpd
 #EXTINF:-1 tvg-id="laSexta.es" tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/LaSexta.png" group-title="ATRESMEDIA;ESPAÑOL",|ES| LASEXTA
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|8a56a25be1ed5c6a946edc8493d42d1d:0332ad7b0a05c7ff5854cfb0cf8737fe,1179fa165d8354a58a02377eb9e9ad52:05d8d60b479a1bbf2b9b21765dfe63e6,a192ebf13e05c528459dc66031e2da2:8179c86be8e1f3ad9053aa8ccd977408
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|8a56a25be1ed5c6a946edc8493d42d1d:0332ad7b0a05c7ff5854cfb0cf8737fe,1179fa165d8354a58a02377eb9e9ad52:05d8d60b479a1bbf2b9b21765dfe63e6,3a192ebf13e05c528459dc66031e2da2:8179c86be8e1f3ad9053aa8ccd977408
 https://live.tvup.edge2befaster.io/lasexta/lasexta.mpd
 #EXTINF:-1 tvg-id="Neox.es" tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/Neox.png" group-title="ATRESMEDIA;ESPAÑOL",|ES| NEOX
 #KODIPROP:inputstream=inputstream.adaptive
@@ -56,6 +49,9 @@ https://live.tvup.edge2befaster.io/nova6/nova6.mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|17c96fff5b3656e3973b2431d54740e3:4ea5aa764f7806b1bc9d5d70dc30f953,d7929e94a9035f8eb174edcd585e33da:843ae6087cb1c7897107ed477f12ad07,a5bcd9e88a9f56c198ffbdd1057a701d:bdffe57e1abd9ce12c400da3b2e5d3ae
 https://live.tvup.edge2befaster.io/mega6/mega6.mpd
 #EXTINF:-1 tvg-id="Atreseries.es" tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/A3S.png" group-title="ATRESMEDIA;ESPAÑOL",|ES| ATRESERIES
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
+https://live.tvup.edge2befaster.io/a3s/a3s.mpd
 #EXTINF:-1 tvg-id="Telecinco.es" tvg-logo="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNzhhZjI1Yjg5N2IwNDg3MS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tVGVsZWNpbmNvLnBuZw/single/256/256?r=" group-title="MEDIASET_ES;ESPAÑOL",|ES| TELECINCO
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|def5769eed6152d2b32aa1c75a624764:ed06df900e0b84549a834c49997dc8ad,7ca93b77733454d3830c60996ad8929b:8ab9809fc799015a41c39b8b9d6ab9a5,faebbb9b817459d2965625708666a114:9a1aa94adb0b15b523836c6f41843726
@@ -65,10 +61,32 @@ https://live.tvup.edge2befaster.io/telecincohd/telecincohd.mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|78fecad5e0145b71916e132f1bc293b2:24f2ca53927a5134fb702e6121f1aea3,8708aa66d18858fbb0a9876bf0cc7878:9148f9a909f41429e7f3070913e8fa8d,38483b5bc206535c94dbd29d73a2a90b:c7024c92716b0a7ea853a0881ce01315
 https://live.tvup.edge2befaster.io/cuatro/cuatro.mpd
 #EXTINF:-1 tvg-id="Divinity.es" tvg-logo="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMmQxNzFhZjMyMTk4YTI4Yi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tRGl2aW5pdHkucG5n/single/256/256?r=" group-title="MEDIASET_ES;ESPAÑOL",|ES| DIVINITY
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
+https://live.tvup.edge2befaster.io/divinity6/divinity6.mpd
 #EXTINF:-1 tvg-id="FDF.Telecinco.es" tvg-logo="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2UwZGFlYWVhMjNjZTg3NC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tRkRGLnBuZw/single/256/256?r=" group-title="MEDIASET_ES;ESPAÑOL",|ES| FACTORÍA DE FICCIÓN
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
+https://live.tvup.edge2befaster.io/fdf6/fdf6.mpd
 #EXTINF:-1 tvg-id="Energy.es" tvg-logo="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNmZhNDRmMzhhODViNTY5Ny9vcmlnaW5hbC9DaGFubmVsX2xvZ28tRW5lcmd5LnBuZw/single/256/256?r=" group-title="MEDIASET_ES;ESPAÑOL",|ES| ENERGY
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
+https://live.tvup.edge2befaster.io/energy6/energy6.mpd
 #EXTINF:-1 tvg-id="Be.Mad.es" tvg-logo="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2JjMTQ3MjI1OTk1NThmMC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tQmVtYWQucG5n/single/256/256?r=" group-title="MEDIASET_ES;ESPAÑOL",|ES| BE MAD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
+https://live.tvup.edge2befaster.io/bemad6/bemad6.mpd
 #EXTINF:-1 tvg-id="Boing.es" tvg-logo="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNmZhNmE0YzcyZWQ1ZmQwYi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tQm9pbmcucG5n/single/256/256?r=" group-title="MEDIASET_ES;ESPAÑOL",|ES| BOING
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|
+https://live.tvup.edge2befaster.io/boing/boing.mpd
+#EXTINF:-1 tvg-id="France.24.es" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/france24.png" group-title="FMM;ESPAÑOL;NEWS",|FR_ES| FRANCE 24 ES
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="Euronews.es" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/euronews.png" group-title="EURONEWS;ESPAÑOL;NEWS",|FR_ES| EURONEWS ES
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8
+#EXTINF:-1 tvg-id="Deutsche.Welle.es" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/dwtv.png" group-title="DW;ESPAÑOL;NEWS",|DE_ES| DW-TV ES
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:-1 tvg-id="Dkiss.es" tvg-logo="https://www.dkiss.es/wp-content/uploads/logo-DKISS-prince.jpg" group-title="PRIVATE_ES;ESPAÑOL",|ES| DKISS
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|1aad8fd29b135292b17aa447b6d7404b:dae98355ea683fc3bef5666b979f1706,8250cd7831de5590bf1861e30c430532:cb22262cf79565fad60839e4a98e24e6,bc7d91d0dc10545385791d1877118825:06f49a982f2e6bfc26116b130de894ba
@@ -119,7 +137,7 @@ https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-HLS8/aragontv.m3u8
 https://cartv-streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 tvg-id="TPA_7.es" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/tpasturias.png" group-title="LOCAL_ES;ESPAÑOL;DYNAMIC",|ES| TPA [ASTURIAS]
 #EXTVLCOPT:http-referrer=https://www.rtpa.es
-https://cdn-rtpa.watchity.net/wct-3545e416-1a16-44b5-b0db-481136ecacc9/token/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzE0NDQ4MDEsImNvdW50cnlfYWxsb3ciOltdLCJyZWdpb25fYWxsb3ciOltdLCJob3N0X2FsbG93IjpbIioucnRwYS5lcyIsInJ0cGEuZXMiXSwidXJsX2FsbG93IjpbIi9jb250aW51b3VzLyJdfQ.dgZGc8aIS1MFbkIwhAqfAgFCsM82tQXlLR-w2aJvIHA/continuous/7be5c015-1da2-4927-a49b-8d232faa69be/index.m3u8
+https://cdn-rtpa.watchity.net/wct-3545e416-1a16-44b5-b0db-481136ecacc9/token/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzE0NTU2MDEsImNvdW50cnlfYWxsb3ciOltdLCJyZWdpb25fYWxsb3ciOltdLCJob3N0X2FsbG93IjpbIioucnRwYS5lcyIsInJ0cGEuZXMiXSwidXJsX2FsbG93IjpbIi9jb250aW51b3VzLyJdfQ.yOtVKnhtAY5M_WRAP4beVJ1tx_WDo5HtQjKkk2c5iMc/continuous/7be5c015-1da2-4927-a49b-8d232faa69be/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ib3.org/wp-content/themes/IB3/footer/B.webp" group-title="LOCAL_ES;ESPAÑOL;DYNAMIC",|ES_CA| IB3 GLOBAL [ISLAS BALEARES]
 https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/streams/yt-ib3global.m3u8
 #EXTINF:-1 tvg-id="TelevisiónCanaria.es" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/tvcan.png" group-title="LOCAL_ES;ESPAÑOL",|ES| TELEVISIÓN CANARIA [ISLAS CANARIAS]
@@ -195,7 +213,7 @@ https://la8zamoralive.flumotion.cloud/la8zamoralive/smil:channel1PRG.smil/fmt_to
 #EXTINF:-1 tvg-id="Castilla.-.La.Mancha.TV.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CMMedia.svg/960px-CMMedia.svg.png" group-title="LOCAL_ES;ESPAÑOL",|ES| CMM TV [CASTILLA-LA MANCHA]
 https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/flavorIds/1_a9gxgxzy,1_v71ryg4b,1_vbfvtjw6,1_obo1bqsx,1_3shk3s5d/a.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/rtvce.png" group-title="LOCAL_ES;ESPAÑOL;DYNAMIC",|ES| RTVCE [CEUTA]
-https:\/\/cdndirector.dailymotion.com\/cdn\/live\/video\/x9f7miq.m3u8?sec=wFN2bu6Qv8D95JryBeU1xJofiWMjlLhZVb7Nrltd5QWA_UkXyegooHTdQm_TslN-Moqr98rEpVnpBsssTTMbyOcerMCArWTwpvsQFGYMgZc
+https:\/\/cdndirector.dailymotion.com\/cdn\/live\/video\/x9f7miq.m3u8?sec=ZCmfp4rwTGQ8y_KHDPsexRGOR3cidX1cKLBVuAcmoWsY7Vi3GPSyTdzefUzvxjoxJWhN9lRcJSk3oKE8mkGMpTzBcl8mfeq6UR5nh4rasjM
 #EXTINF:-1 tvg-id="Canal.Extremadura.Sat.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/960px-CEXMA_new.png" group-title="LOCAL_ES;ESPAÑOL",|ES| CANAL EXTREMADURA SAT [EXTREMADURA]
 https://d2ymuyhevki1a1.cloudfront.net/wct-ddd2992e-86fc-4611-a491-7f392259e9ba/continuous/9be76611-d2cd-474d-bf19-ef702ba31b02/index.m3u8
 #EXTINF:-1 tvg-id="TVG.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/500px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="LOCAL_ES;GALEGO",|ES_GL| TVG [GALICIA]
@@ -211,19 +229,19 @@ https://live.telemadrid.cross-media.es/6380725747112/eu-central-1/6416060453001/
 #EXTINF:-1 tvg-id="La.Otra.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/La_Otra_logo_%282017%29.svg/960px-La_Otra_logo_%282017%29.svg.png" group-title="LOCAL_ES;ESPAÑOL",|ES| LA OTRA [COMUNIDAD DE MADRID]
 https://live.telemadrid.cross-media.es/6380724047112/eu-central-1/6416060453001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiajI5YjgyLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNjA2MDQ1MzAwMSIsImVobiI6ImxpdmUudGVsZW1hZHJpZC5jcm9zcy1tZWRpYS5lcyIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiNjQxNjA2MDQ1MzAwMSJdLCJqdGkiOiI2MzgwNzI0MDQ3MTEyIn0.78IS2SaIo-E3sYFtSzGpWIM-dPKXvpT10XyCZODkqoE/playlist-hls.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/tvmel.png" group-title="LOCAL_ES;ESPAÑOL;DYNAMIC",|ES| TELEVISIÓN MELILLA [MELILLA]
-https:\/\/cdndirector.dailymotion.com\/cdn\/live\/video\/x9jhjqk.m3u8?sec=ZZHxxRvvfYz6hkTRgzPAa4ZN4a-J-gNHh7BWHL1FpylgVTblw13HPtmF_4nk-Kp5-jGLRL3VqxMvW4KF5rpWaUKGMUPdhbTAfWdXnG-m9mg
+https:\/\/cdndirector.dailymotion.com\/cdn\/live\/video\/x9jhjqk.m3u8?sec=BIwQV8jfQBi4mbeITJP04htF6KsuFuaYAuUESklB-7AJxVEU_hbaH-08MuDtzdM5upfmCJgtpI9wzxgJnizMYi2HvgDNJdFerDaqEdjjjqs
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/populartvmel.png" group-title="LOCAL_ES;ESPAÑOL",|ES| POPULAR TV MELILLA [MELILLA]
 https://5940924978228.streamlock.net/8009/ngrp:8009_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/la7murcia.png" group-title="LOCAL_ES;ESPAÑOL;DYNAMIC",|ES| LA 7 [REGIÓN DE MURCIA]
-https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8?auth_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfa2V5Ijoia2V5MyIsImV4cCI6MTc3MTQyODIxM30.hQtiQfXDEwCpD2KwwcHCOrTbWcsJpfYyN5nlDiVZtVE
+https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8?auth_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfa2V5Ijoia2V5MyIsImV4cCI6MTc3MTQzOTUzM30.U83b4xlTP6x-OcxxvXP2nkFtyEcAJaEjDlNuCxzw8TQ
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/la7murcia.png" group-title="LOCAL_ES;ESPAÑOL;DYNAMIC",|ES| LA 7+ [REGIÓN DE MURCIA]
-https://rtv-murcia-live.globalmest.com/secundario/smil:secundario.smil/playlist.m3u8?auth_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfa2V5Ijoia2V5MyIsImV4cCI6MTc3MTQyODQ4Nn0.dD7FwVTo9ECh0dckc_1_04dXtdu3Uz0tcgiZ5TJHOSY
+https://rtv-murcia-live.globalmest.com/secundario/smil:secundario.smil/playlist.m3u8?auth_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfa2V5Ijoia2V5MyIsImV4cCI6MTc3MTQ0NDg2M30.P9Cuyx_OKR_8j2NzZA7QKiQV6bWnulSNine5yU1U5ks
 #EXTINF:-1 tvg-id="Popular.TV.Murcia.es" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/populartvmur.png" group-title="LOCAL_ES;ESPAÑOL",|ES| POPULAR TV MURCIA [REGIÓN DE MURCIA]
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12690
 #EXTINF:-1 tvg-id="NATV.1.es" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/natv.png" group-title="LOCAL_ES;ESPAÑOL;DYNAMIC",|ES_EU+ES| NAVARRA TELEVISIÓN [NAVARRA]
-https://cdndirector.dailymotion.com/cdn/live/video/x8dhap9.m3u8?sec=ooDAK49Vo45a0lLEwdPmUQEnoVIpTKiCU1HDTG0yaQFmAqUwW8VRI7Y0PU-XrtqQyD60b4zwVI8-5uGw9Fy_zv9HNHIVCgYT1CG5g5Ds8wd5XXS8bpGEqk58FDdrqfgU&dmTs=832038&dmV1st=6957b6c3-a32a-43b6-b4a3-6fe1b2ccf794
+https://cdndirector.dailymotion.com/cdn/live/video/x8dhap9.m3u8?sec=4uL0qRDOKpxmpTmjuQNMq1J8OAHE872SL8M1I6dkgMs1utcbLZQBpn5AvAv2Bb9vBYn7FEK-AOYPXDS4Mpl68wDOCcoxaQBY97_kduDKuVFEmhtvUCznOhLGnKDvlSWW&dmTs=984274&dmV1st=6f712522-ff0a-4df7-a068-c6425a2b0af3
 #EXTINF:-1 tvg-id="La.7.Rioja.es" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/7rioja.png" group-title="LOCAL_ES;ESPAÑOL;DYNAMIC",|ES| 7 LA RIOJA [LA RIOJA]
-https://cdndirector.dailymotion.com/cdn/live/video/x8dhao1.m3u8?sec=QJ70b9oOhh6H6E8naU8kPV2TU7fyarn4bGYxb77nd55K09oRSXpbcUx_8mf-x_Gjk281LgPzqxVN5DYk1eGCTU04KVtYRl5Hbiw8XVtBEvV_2UZJPu-B6FVWx3LUjcb4&dmTs=832038&dmV1st=6957b6c3-a32a-43b6-b4a3-6fe1b2ccf794
+https://cdndirector.dailymotion.com/cdn/live/video/x8dhao1.m3u8?sec=Zq4aS6yi6SSGNbOBbI9Tdi1TSL5OoN39oCt11a5sxse7XhYuj6eQCcUuLNvIKJBRyhECO8CLRovI96s15pqDt7glRn4TVM1DLYVgc-mWadk3MS1-n6JuRquWcaH8PQOS&dmTs=984274&dmV1st=6f712522-ff0a-4df7-a068-c6425a2b0af3
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/tvrioja.png" group-title="LOCAL_ES;ESPAÑOL",|ES| TVR [LA RIOJA]
 https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8
 #EXTINF:-1 tvg-id="À.Punt.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logotip_d%27%C3%80_Punt_%282017-%29.svg/960px-Logotip_d%27%C3%80_Punt_%282017-%29.svg.png" group-title="LOCAL_ES;CATALÀ",|ES_CA| À PUNT [COMUNIDAD VALENCIANA]
