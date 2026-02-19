@@ -471,7 +471,7 @@ https://strhls.streamakaci.tv/tv78/tv78-multi/playlist.m3u8
 https://viamotionhsi.netplus.ch/live/eds/tv8montblanc/browser-HLS8/tv8montblanc.m3u8
 #EXTINF:-1 tvg-id="LyonTV.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/lyoncapitaletv.png" group-title="LOCAL_FR;FRANÇAIS;DYNAMIC",|FR| LYON CAPITALE TV [AUVERGNE-RHÔNE-ALPES]
 #KODIPROP:inputstream=inputstream.ffmpeg
-https://cdndirector.dailymotion.com/cdn/live/video/x7z3zqa.m3u8?sec=-kEon1BqwoDHHQpsGeDhJP2jnDTtYW9uxlXSOTy1iWzou6XwIxzUdmZrjSzJTZKxSlRJ0_EjHOZq-Xn6N4L3YQ
+https://cdndirector.dailymotion.com/cdn/live/video/x7z3zqa.m3u8?sec=abB1VyRyZ2KZdhH66ZdRuXGOf5KOqfqnLqctuZRkq1RKpqyD-zkdUqBYmf5x9VMbRsaRiMEN7Qdjo0k-5PkcNg
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/alpetv.png" group-title="LOCAL_FR;FRANÇAIS",|FR| ALPE TV [AUVERGNE-RHÔNE-ALPES]
 https://edge14.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
 #EXTINF:-1 tvg-id="TeleGrenobleIsere.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/tgplus.png" group-title="LOCAL_FR;FRANÇAIS;DYNAMIC",|FR| TG+ [AUVERGNE-RHÔNE-ALPES]
@@ -482,7 +482,7 @@ https://live-tvtours.digiteka.com/1982825398/index.m3u8
 https://hls-biptv.archistream.live/hls/master.m3u8
 #EXTINF:-1 tvg-id="MirabelleTV.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/moselletv.png" group-title="LOCAL_FR;FRANÇAIS;DYNAMIC",|FR| MOSELLE TV [GRAND EST]
 #KODIPROP:inputstream=inputstream.ffmpeg
-https://cdndirector.dailymotion.com/cdn/live/video/x9lgbik.m3u8?sec=W0feMPhGYnxp8SIvsz9nspxH4R11rV3DtXA-CDQ2dUvNEO2iad3bLIobjA0DUQxkyOHFnVGtX9HUtIbX7pH-yVe9JGSnco_hKKnDtBKfcF0
+https://cdndirector.dailymotion.com/cdn/live/video/x9lgbik.m3u8?sec=yGFWKOeyiENQCc4Y9Ug5NsMoioVdyOYZHkyvJWhxhVxPo4TWlg3TjBl7vFZDM7qJRgXY7mZrGtHDyHdEXINHoBruDegAfbthDZkJ9fW0otg
 #EXTINF:-1 tvg-id="Canal32.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/canal32.png" group-title="LOCAL_FR;FRANÇAIS",|FR| CANAL 32 [GRAND EST]
 https://edge13.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8
 #EXTINF:-1 tvg-id="MosaikCristal.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/mosaiktv.png" group-title="LOCAL_FR;FRANÇAIS;DYNAMIC",|FR| MOSAÏK CRISTAL [GRAND EST]
@@ -517,10 +517,10 @@ https://cdn.live.easybroadcast.io/abr_corp/54_tvr_vtucuxt/playlist.m3u8
 https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8
 #EXTINF:-1 tvg-id="AngersTele.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/angerstele.png" group-title="LOCAL_FR;FRANÇAIS;DYNAMIC",|FR| ANGERS TÉLÉ [PAYS DE LA LOIRE]
 #KODIPROP:inputstream=inputstream.ffmpeg
-https://cdndirector.dailymotion.com/cdn/live/video/x8r7256.m3u8?sec=OO7SGlvHa12681zVPy6jW4apjZYCYXs2HwHwMaMWaYjlVESXftXoKVoKwsKTSc31qb7hN0Ce8wOCRsj5C6JY5Q
+https://cdndirector.dailymotion.com/cdn/live/video/x8r7256.m3u8?sec=0dVyJ1ycquPkr0uXACjq5dnQuVSa5WAtp_cWMCr89HOLgngsSuEwVrC6ChfOV8MDQ3hwrVY1tgm_AXjm0duipQ
 #EXTINF:-1 tvg-id="Telenantes.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/telenantes.png" group-title="LOCAL_FR;FRANÇAIS;DYNAMIC",|FR| TÉLÉNANTES [PAYS DE LA LOIRE]
 #KODIPROP:inputstream=inputstream.ffmpeg
-https://cdndirector.dailymotion.com/cdn/live/video/x5so98l.m3u8?sec=-qdEQh94XMbof8J81IKGJeoI_83HeCGncPvRbphyvzdXqMzt4rDsNG5p0AixWQ8RXP8Y67Jszc5P9pAuB6InrA
+https://cdndirector.dailymotion.com/cdn/live/video/x5so98l.m3u8?sec=Rk5l8aDvU1dNuD5NtYtrHFVPjm4kWcJzMMXLPuYAxaVcEYBKwCNlZZSvgvOkNHcuqaxIzUWSKgbVkJkTlWoBSg
 #EXTINF:-1 tvg-id="TVVendee.fr" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/tvvendee.png" group-title="LOCAL_FR;FRANÇAIS",|FR| TV VENDÉE [PAYS DE LA LOIRE]
 #EXTVLCOPT:http-referrer=https://player.castr.com/live_811ab8e05c9511f0a342e102693c1a5b
 https://stream.castr.com/65007e17d53b82677257fa93/live_811ab8e05c9511f0a342e102693c1a5b/index.m3u8
@@ -534,15 +534,15 @@ https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/atv.png" group-title="LOCAL_BE;NEDERLANDS",|BE_NL| ATV [ANTWERPEN]
 https://live.zendzend.com/mpegts/29375_107244/master_mpegts.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/rtv.png" group-title="LOCAL_BE;NEDERLANDS;DYNAMIC",|BE_NL| RTV KEMPEN [ANTWERPEN]
-https://stream.a.zndznd.com/stream/4910e521-da2c-4a2c-82d3-324f44d15e40/stream.m3u8
+https://stream.a.zndznd.com/stream/c8024e1f-b779-4d16-99d1-2587eba52288/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/rtv.png" group-title="LOCAL_BE;NEDERLANDS;DYNAMIC",|BE_NL| RTV RIVIERENLAND [ANTWERPEN]
-https://stream.a.zndznd.com/stream/035914ea-53ba-4458-ae22-2c4ad7c661d1/stream.m3u8
+https://stream.a.zndznd.com/stream/e0b3d82c-dc07-4ab1-95de-e9b4abbcab5b/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/avs.png" group-title="LOCAL_BE;NEDERLANDS",|BE_NL| AVS [OOST-VLAANDEREN]
 https://hls-origin01-avs.cdn02.rambla.be/main/adliveorigin-avs/_definst_/2bzwD9.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/focus.png" group-title="LOCAL_BE;NEDERLANDS",|BE_NL| FOCUS [WEST-VLAANDEREN]
 https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/AQ5jzw.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/ring.png" group-title="LOCAL_BE;NEDERLANDS;DYNAMIC",|BE_NL| RING [VLAAMS BRABANT]
-https://stream.a.zndznd.com/stream/665ff3ce-8ac3-4cff-9230-5d8fb31ca5e6/stream.m3u8
+https://stream.a.zndznd.com/stream/34b1325a-eea5-446c-bed2-244c04499e50/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/robtv.png" group-title="LOCAL_BE;NEDERLANDS",|BE_NL| ROBTV [VLAAMS BRABANT]
 https://live.robtv.cdn.zndznd.com/mpegts/29375_395477/master_mpegts.m3u8
 #EXTINF:-1 tvg-id="TVLimburg.be" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/tvl.png" group-title="LOCAL_BE;NEDERLANDS",|BE_NL| TVL [LIMBURG]
@@ -913,7 +913,7 @@ https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-HLS8/aragontv.m3u8
 https://cartv-streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 tvg-id="TPA_7.es" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/tpasturias.png" group-title="LOCAL_ES;ESPAÑOL;DYNAMIC",|ES| TPA [ASTURIAS]
 #EXTVLCOPT:http-referrer=https://www.rtpa.es
-https://cdn-rtpa.watchity.net/wct-3545e416-1a16-44b5-b0db-481136ecacc9/token/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzE0NjY0MDEsImNvdW50cnlfYWxsb3ciOltdLCJyZWdpb25fYWxsb3ciOltdLCJob3N0X2FsbG93IjpbIioucnRwYS5lcyIsInJ0cGEuZXMiXSwidXJsX2FsbG93IjpbIi9jb250aW51b3VzLyJdfQ.5DLievNMOx83QSgGXrCJYRxxwY7RUl44_tk6arFLnyw/continuous/7be5c015-1da2-4927-a49b-8d232faa69be/index.m3u8
+https://cdn-rtpa.watchity.net/wct-3545e416-1a16-44b5-b0db-481136ecacc9/token/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzE1NDkyMDIsImNvdW50cnlfYWxsb3ciOltdLCJyZWdpb25fYWxsb3ciOltdLCJob3N0X2FsbG93IjpbIioucnRwYS5lcyIsInJ0cGEuZXMiXSwidXJsX2FsbG93IjpbIi9jb250aW51b3VzLyJdfQ.sg1hA9YF4n3sSTzws7mxXOxezxWZqbra1c_5ZmL961s/continuous/7be5c015-1da2-4927-a49b-8d232faa69be/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ib3.org/wp-content/themes/IB3/footer/B.webp" group-title="LOCAL_ES;ESPAÑOL;DYNAMIC",|ES_CA| IB3 GLOBAL [ISLAS BALEARES]
 https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/streams/yt-ib3global.m3u8
 #EXTINF:-1 tvg-id="TelevisiónCanaria.es" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/tvcan.png" group-title="LOCAL_ES;ESPAÑOL",|ES| TELEVISIÓN CANARIA [ISLAS CANARIAS]
@@ -965,32 +965,32 @@ https://directes-tv-cat.3catdirectes.cat/live-content/bondia-hls/master.m3u8
 #EXTINF:-1 tvg-id="ATV.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Andorra_Televisió.png" group-title="RTVA;CATALÀ",|AD| ATV [ANDORRA]
 https://livesg1.rtva.hiway.media/65cea6ac-6944-4e45-b661-9dd47ea45c48/manifest.m3u8
 #EXTINF:-1 tvg-id="CyLTV.es" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/cyltvla7.png" group-title="LOCAL_ES;ESPAÑOL;DYNAMIC",|ES| CYLTV LA 7 GLOBAL [CASTILLA Y LEÓN]
-https://la7live.flumotion.cloud/la7live/smil:channel1.smil/fmt_token/0u3rxXnxuU6z4rr851aEwPXjQlcjCjxR4gihR9FHwtk/eyJleHBpcmUiOiIxNzcxNjc0NDI2IiwidXJsX2FsbG93IjpbIi9sYTdsaXZlIiwiL29uZGVtYW5kLzk4MWM0OGU2LWM2M2UtNGQwMC1iMWUxLTc5NzgyMGE2MWM1OSJdfQ/playlist.m3u8
+https://la7live.flumotion.cloud/la7live/smil:channel1.smil/fmt_token/VfIqdrj_vzxXIFGhyHwMVnnloUobu_CphuTewCByTFY/eyJleHBpcmUiOiIxNzcxNzYxMjg5IiwidXJsX2FsbG93IjpbIi9sYTdsaXZlIiwiL29uZGVtYW5kLzk4MWM0OGU2LWM2M2UtNGQwMC1iMWUxLTc5NzgyMGE2MWM1OSJdfQ/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/cyltvla8avila.png" group-title="LOCAL_ES;ESPAÑOL;DYNAMIC",|ES| CYLTV LA 8 ÁVILA [CASTILLA Y LEÓN]
-https://la8avilalive.flumotion.cloud/la8avilalive/smil:channel1PRG.smil/fmt_token/5uPThVWW21Rz0eXx8dh_JVKkD0Is52_gqvgW4AUVt2Q/eyJleHBpcmUiOiIxNzcxNjc3NTU4IiwidXJsX2FsbG93IjpbIi9sYThhdmlsYWxpdmUiLCIvb25kZW1hbmQvMWU4OTQ5MzAtZTJmNi00MTRlLWI4MzgtOTEwNzI2ZTkzMWIyIl19/playlist.m3u8
+https://la8avilalive.flumotion.cloud/la8avilalive/smil:channel1PRG.smil/fmt_token/iT1AFhoZ0jVVH3QE1s-Hv3xjv7p1xFP-I0Ach--T2Jo/eyJleHBpcmUiOiIxNzcxNzY0NDYwIiwidXJsX2FsbG93IjpbIi9sYThhdmlsYWxpdmUiLCIvb25kZW1hbmQvMWU4OTQ5MzAtZTJmNi00MTRlLWI4MzgtOTEwNzI2ZTkzMWIyIl19/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/cyltvla8bierzo.png" group-title="LOCAL_ES;ESPAÑOL;DYNAMIC",|ES| CYLTV LA 8 BIERZO [CASTILLA Y LEÓN]
-https://la8bierzolive.flumotion.cloud/la8bierzolive/smil:channel1PRG.smil/fmt_token/PW1hgDPSZ5HtVCJE5U0WpJHIns_jsnznfOYuwkTAOYU/eyJleHBpcmUiOiIxNzcxNjgxNDI2IiwidXJsX2FsbG93IjpbIi9sYThiaWVyem9saXZlIiwiL29uZGVtYW5kLzg0NGJjZGU5LTAzYmUtNGY3OC1iNzVjLTI1MjM3MjgxZDE4MyJdfQ/playlist.m3u8
+https://la8bierzolive.flumotion.cloud/la8bierzolive/smil:channel1PRG.smil/fmt_token/VbJzAZh0TOUk92qJWBn30Nhe17T9hkCMuw2gfaycgqo/eyJleHBpcmUiOiIxNzcxNzY4Mzg4IiwidXJsX2FsbG93IjpbIi9sYThiaWVyem9saXZlIiwiL29uZGVtYW5kLzg0NGJjZGU5LTAzYmUtNGY3OC1iNzVjLTI1MjM3MjgxZDE4MyJdfQ/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/cyltvla8burgos.png" group-title="LOCAL_ES;ESPAÑOL;DYNAMIC",|ES| CYLTV LA 8 BURGOS [CASTILLA Y LEÓN]
-https://la8burgoslive.flumotion.cloud/la8burgoslive/smil:channel1PRG.smil/fmt_token/T6pGTxtncFg_ymlb3q9d20XRC_YozVNaLDFIHHV7yC0/eyJleHBpcmUiOiIxNzcxNjc3NTU2IiwidXJsX2FsbG93IjpbIi9sYThidXJnb3NsaXZlIiwiL29uZGVtYW5kLzhjMzk1Y2FjLTBkNzQtNDgxOC05ODI1LTg4NWI1Y2IxMDcxNCJdfQ/playlist.m3u8
+https://la8burgoslive.flumotion.cloud/la8burgoslive/smil:channel1PRG.smil/fmt_token/UJzIEebXvTll3RgU5uoZ6tkOAhxLcRKJaWZypnYcI_c/eyJleHBpcmUiOiIxNzcxNzY0NDU4IiwidXJsX2FsbG93IjpbIi9sYThidXJnb3NsaXZlIiwiL29uZGVtYW5kLzhjMzk1Y2FjLTBkNzQtNDgxOC05ODI1LTg4NWI1Y2IxMDcxNCJdfQ/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/cyltvla8leon.png" group-title="LOCAL_ES;ESPAÑOL;DYNAMIC",|ES| CYLTV LA 8 LEÓN [CASTILLA Y LEÓN]
-https://la8leonlive.flumotion.cloud/la8leonlive/smil:channel1PRG.smil/fmt_token/AFmrHHXrzn-uX94Klx3vyMUc7OOSQCArXn50r68HvDs/eyJleHBpcmUiOiIxNzcxNjcxMjE4IiwidXJsX2FsbG93IjpbIi9sYThsZW9ubGl2ZSIsIi9vbmRlbWFuZC81ZWU5YTVkOS02YWYxLTRkOGMtYTUzMS0yMzU5YzViYWQ2MzAiXX0/playlist.m3u8
+https://la8leonlive.flumotion.cloud/la8leonlive/smil:channel1PRG.smil/fmt_token/i3ur9sNVteEAqAZHYNV3wW1t5_RojNFE5k1b3scsHZ8/eyJleHBpcmUiOiIxNzcxNzU4NTAyIiwidXJsX2FsbG93IjpbIi9sYThsZW9ubGl2ZSIsIi9vbmRlbWFuZC81ZWU5YTVkOS02YWYxLTRkOGMtYTUzMS0yMzU5YzViYWQ2MzAiXX0/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/cyltvla8palencia.png" group-title="LOCAL_ES;ESPAÑOL;DYNAMIC",|ES| CYLTV LA 8 PALENCIA [CASTILLA Y LEÓN]
-https://la8palencialive.flumotion.cloud/la8palencialive/smil:channel1PRG.smil/fmt_token/iLBFVBIZcwzLHubNcdougiER4Guasbm2l1GcrA1-aO4/eyJleHBpcmUiOiIxNzcxNjc3NTY3IiwidXJsX2FsbG93IjpbIi9sYThwYWxlbmNpYWxpdmUiLCIvb25kZW1hbmQvNzJkM2Q5NDUtMDRlNS00ZDAzLWI2ODMtMWY1OWE1NWY5YmJkIl19/playlist.m3u8
+https://la8palencialive.flumotion.cloud/la8palencialive/smil:channel1PRG.smil/fmt_token/CBqHXp34wouFjhWWr2sBD1SlH1yZGKmdkyfY5gbovhA/eyJleHBpcmUiOiIxNzcxNzY0NjMyIiwidXJsX2FsbG93IjpbIi9sYThwYWxlbmNpYWxpdmUiLCIvb25kZW1hbmQvNzJkM2Q5NDUtMDRlNS00ZDAzLWI2ODMtMWY1OWE1NWY5YmJkIl19/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/cyltvla8salamanca.png" group-title="LOCAL_ES;ESPAÑOL;DYNAMIC",|ES| CYLTV LA 8 SALAMANCA [CASTILLA Y LEÓN]
-https://la8salamancalive.flumotion.cloud/la8salamancalive/smil:channel1PRG.smil/fmt_token/jVuAbwus7gZ7g1uQMls2oBM8Nf63LSL_3VkQ_JRCY1w/eyJleHBpcmUiOiIxNzcxNjc1NjU3IiwidXJsX2FsbG93IjpbIi9sYThzYWxhbWFuY2FsaXZlIiwiL29uZGVtYW5kLzBjNWIwYWE0LWZhZDAtNGZlZi1iNzAyLWIxMGE0N2ZlNjEzNSJdfQ/playlist.m3u8
+https://la8salamancalive.flumotion.cloud/la8salamancalive/smil:channel1PRG.smil/fmt_token/vrDjbBXWUDfjUaPDWIAl7op8K9lHHzeGodI80Aw5hrg/eyJleHBpcmUiOiIxNzcxNzYzMDQ0IiwidXJsX2FsbG93IjpbIi9sYThzYWxhbWFuY2FsaXZlIiwiL29uZGVtYW5kLzBjNWIwYWE0LWZhZDAtNGZlZi1iNzAyLWIxMGE0N2ZlNjEzNSJdfQ/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/cyltvla8segovia.png" group-title="LOCAL_ES;ESPAÑOL;DYNAMIC",|ES| CYLTV LA 8 SEGOVIA [CASTILLA Y LEÓN]
-https://la8segovialive.flumotion.cloud/la8segovialive/smil:channel1PRG.smil/fmt_token/WSgKETb_uNU3TS62UBVvt6vOXmGXvMu_LK_aRd4FqC0/eyJleHBpcmUiOiIxNzcxNjc4ODQyIiwidXJsX2FsbG93IjpbIi9sYThzZWdvdmlhbGl2ZSIsIi9vbmRlbWFuZC83NTE1ODdkNi03NDVjLTQxYmItYmYwMC0yMDI5ZDAxNDUxODAiXX0/playlist.m3u8
+https://la8segovialive.flumotion.cloud/la8segovialive/smil:channel1PRG.smil/fmt_token/FarC5wKbxBrv6vdjDfZt6vA7FkS5avQf4MJIyPe_4GQ/eyJleHBpcmUiOiIxNzcxNzY1NjcyIiwidXJsX2FsbG93IjpbIi9sYThzZWdvdmlhbGl2ZSIsIi9vbmRlbWFuZC83NTE1ODdkNi03NDVjLTQxYmItYmYwMC0yMDI5ZDAxNDUxODAiXX0/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/cyltvla8soria.png" group-title="LOCAL_ES;ESPAÑOL;DYNAMIC",|ES| CYLTV LA 8 SORIA [CASTILLA Y LEÓN]
-https://la8sorialive.flumotion.cloud/la8sorialive/smil:channel1PRG.smil/fmt_token/8OsmedHEgh4i6AVZ52gPxnFv8FWdEnLrCrNgsRxobO8/eyJleHBpcmUiOiIxNzcxNjc3MzMxIiwidXJsX2FsbG93IjpbIi9sYThzb3JpYWxpdmUiLCIvb25kZW1hbmQvZmRjYjk3MzMtNjU4OC00MmQxLWIwOTctZTZmZGYwNDE3M2UzIl19/playlist.m3u8
+https://la8sorialive.flumotion.cloud/la8sorialive/smil:channel1PRG.smil/fmt_token/WGfNOcoEEolG2lqq90o8toMhNTxZF6nA6mDzEO0Y460/eyJleHBpcmUiOiIxNzcxNzYzODQ0IiwidXJsX2FsbG93IjpbIi9sYThzb3JpYWxpdmUiLCIvb25kZW1hbmQvZmRjYjk3MzMtNjU4OC00MmQxLWIwOTctZTZmZGYwNDE3M2UzIl19/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/cyltvla8valladolid.png" group-title="LOCAL_ES;ESPAÑOL;DYNAMIC",|ES| CYLTV LA 8 VALLADOLID [CASTILLA Y LEÓN]
-https://la8valladolidlive.flumotion.cloud/la8valladolidlive/smil:channel1PRG.smil/fmt_token/PGWY3ae-yDmUzV0qsbOIUHSo6X8j2aMm_aARWdkH8Is/eyJleHBpcmUiOiIxNzcxNjc1Njk1IiwidXJsX2FsbG93IjpbIi9sYTh2YWxsYWRvbGlkbGl2ZSIsIi9vbmRlbWFuZC9kZTU4NTE0MC1lMGIwLTQ2YjEtODE1NC00MmVjMDZkYWM5ZjUiXX0/playlist.m3u8
+https://la8valladolidlive.flumotion.cloud/la8valladolidlive/smil:channel1PRG.smil/fmt_token/J7U9AxXf7tZJg9JqeOXNjT3my_CWjROmb0MlC5f02ao/eyJleHBpcmUiOiIxNzcxNzYyNTU5IiwidXJsX2FsbG93IjpbIi9sYTh2YWxsYWRvbGlkbGl2ZSIsIi9vbmRlbWFuZC9kZTU4NTE0MC1lMGIwLTQ2YjEtODE1NC00MmVjMDZkYWM5ZjUiXX0/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/cyltvla8zamora.png" group-title="LOCAL_ES;ESPAÑOL;DYNAMIC",|ES| CYLTV LA 8 ZAMORA [CASTILLA Y LEÓN]
-https://la8zamoralive.flumotion.cloud/la8zamoralive/smil:channel1PRG.smil/fmt_token/0QCSPJDotJG8nwkzt4N7diBP1aOdhNE4qL6JjQvb-BQ/eyJleHBpcmUiOiIxNzcxNjc2MDMyIiwidXJsX2FsbG93IjpbIi9sYTh6YW1vcmFsaXZlIiwiL29uZGVtYW5kLzRjZDhlYmEwLWY1MzgtNGUwNi1hNWFhLTEwNGJhZDJjMDQwMiJdfQ/playlist.m3u8
+https://la8zamoralive.flumotion.cloud/la8zamoralive/smil:channel1PRG.smil/fmt_token/6OrMtU-pu9Qoxr7JfxUfkcQLSxH-lD_-dZTHlR50kEs/eyJleHBpcmUiOiIxNzcxNzYyNTUzIiwidXJsX2FsbG93IjpbIi9sYTh6YW1vcmFsaXZlIiwiL29uZGVtYW5kLzRjZDhlYmEwLWY1MzgtNGUwNi1hNWFhLTEwNGJhZDJjMDQwMiJdfQ/playlist.m3u8
 #EXTINF:-1 tvg-id="Castilla.-.La.Mancha.TV.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CMMedia.svg/960px-CMMedia.svg.png" group-title="LOCAL_ES;ESPAÑOL",|ES| CMM TV [CASTILLA-LA MANCHA]
 https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/flavorIds/1_a9gxgxzy,1_v71ryg4b,1_vbfvtjw6,1_obo1bqsx,1_3shk3s5d/a.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/rtvce.png" group-title="LOCAL_ES;ESPAÑOL;DYNAMIC",|ES| RTVCE [CEUTA]
 #KODIPROP:inputstream=inputstream.ffmpeg
-https://cdndirector.dailymotion.com/cdn/live/video/x9f7miq.m3u8?sec=dt59vbv-H6RlXHvYKVCISmjXqAHSQo35zcBWI6gJbRGAVbK4ieM82WxacFOwD4jTi5wYOWAlrTQ8zqJbcxksjbbLCdJA4nk-89hCBI3DC3k
+https://cdndirector.dailymotion.com/cdn/live/video/x9f7miq.m3u8?sec=31vZ8ew7DZ9cyBd4GLoZcWJOmlSPvWXXGjEeXI9skg205lTHxpK2SYj7WebIEq4SIqSIQxLQFuUFoGJ3Qn1V15kkuKXxspfG2h9I8pi9-5o
 #EXTINF:-1 tvg-id="Canal.Extremadura.Sat.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/960px-CEXMA_new.png" group-title="LOCAL_ES;ESPAÑOL",|ES| CANAL EXTREMADURA SAT [EXTREMADURA]
 https://d2ymuyhevki1a1.cloudfront.net/wct-ddd2992e-86fc-4611-a491-7f392259e9ba/continuous/9be76611-d2cd-474d-bf19-ef702ba31b02/index.m3u8
 #EXTINF:-1 tvg-id="TVG.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/500px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="LOCAL_ES;GALEGO",|ES_GL| TVG [GALICIA]
@@ -1007,13 +1007,13 @@ https://live.telemadrid.cross-media.es/6380725747112/eu-central-1/6416060453001/
 https://live.telemadrid.cross-media.es/6380724047112/eu-central-1/6416060453001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiajI5YjgyLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNjA2MDQ1MzAwMSIsImVobiI6ImxpdmUudGVsZW1hZHJpZC5jcm9zcy1tZWRpYS5lcyIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiNjQxNjA2MDQ1MzAwMSJdLCJqdGkiOiI2MzgwNzI0MDQ3MTEyIn0.78IS2SaIo-E3sYFtSzGpWIM-dPKXvpT10XyCZODkqoE/playlist-hls.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/tvmel.png" group-title="LOCAL_ES;ESPAÑOL;DYNAMIC",|ES| TELEVISIÓN MELILLA [MELILLA]
 #KODIPROP:inputstream=inputstream.ffmpeg
-https://cdndirector.dailymotion.com/cdn/live/video/x9jhjqk.m3u8?sec=Fva3LPc69P6O5BTcZprkNE5LHCCqkZq87PHYte5t5WBVNLpnBOa9a5cq32TwQpuG39qPfY1DhmuP7MR8ePgDHbHiMT8Lc2Id71nFY-5H4BM
+https://cdndirector.dailymotion.com/cdn/live/video/x9jhjqk.m3u8?sec=NvG0vqg1a6NSxsCa2TsALqwdmZcieSdsyhCEzoiZ8fkX17GOGzegoSKuhtGPUsucQqNZRVZKkHqRA_adPUtQ749RH55ZwA1tADvFbVFrB6Q
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/populartvmel.png" group-title="LOCAL_ES;ESPAÑOL",|ES| POPULAR TV MELILLA [MELILLA]
 https://5940924978228.streamlock.net/8009/ngrp:8009_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/la7murcia.png" group-title="LOCAL_ES;ESPAÑOL;DYNAMIC",|ES| LA 7 [REGIÓN DE MURCIA]
-https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8?auth_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfa2V5Ijoia2V5MyIsImV4cCI6MTc3MTQ1MTI2M30.YeP4b383H7kDitrhE8GgbcCwb3MfRcaEAobkN56wLXw
+https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8?auth_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfa2V5Ijoia2V5MyIsImV4cCI6MTc3MTUzODc1NX0.GotALV7PQZIFU24SZDbhnVD8KBPNZOiiFodSnrFvBkw
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/la7murcia.png" group-title="LOCAL_ES;ESPAÑOL;DYNAMIC",|ES| LA 7+ [REGIÓN DE MURCIA]
-https://rtv-murcia-live.globalmest.com/secundario/smil:secundario.smil/playlist.m3u8?auth_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfa2V5Ijoia2V5MyIsImV4cCI6MTc3MTQ1NDkxM30.4_hw2MnLQteXlbjmjBYvCPSg9Uj-9GKXadpVUdNfLMc
+https://rtv-murcia-live.globalmest.com/secundario/smil:secundario.smil/playlist.m3u8?auth_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfa2V5Ijoia2V5MyIsImV4cCI6MTc3MTUzNzMyMH0.9fosf02ekjbKVupUZ2IH_WniYEK0WjTFCmKBEyy2GFE
 #EXTINF:-1 tvg-id="Popular.TV.Murcia.es" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/populartvmur.png" group-title="LOCAL_ES;ESPAÑOL",|ES| POPULAR TV MURCIA [REGIÓN DE MURCIA]
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12690
 #EXTINF:-1 tvg-id="NATV.1.es" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/natv.png" group-title="LOCAL_ES;ESPAÑOL;DYNAMIC",|ES_EU+ES| NAVARRA TELEVISIÓN [NAVARRA]
@@ -1072,9 +1072,9 @@ https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8
 #EXTINF:-1 tvg-id="RSI2.ch" tvg-logo="https://picserve.netplus.ch/channels/rsila2hd.png" group-title="SRG SSR;ITALIANO",|CH_IT| RSI LA 2
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.sanmarinortv.sm/assets/frontend/img/logo-90.png" group-title="SMRTV;ITALIANO;DYNAMIC",|SM| SAN MARINO RTV HD
-https://smrtvlive.b-cdn.net/bcdn_token=CJpn_4YsImbwPYzRjc2SzqgxD8zTKB_d0mCMRrSBKqg&token_path=%2Flive&expires=1771455657/live/smrtv-ch01/playlist.m3u8
+https://smrtvlive.b-cdn.net/bcdn_token=_to6F0Ci0abkjez1gNf06X7_JwUXUxE4P7ZU-Lb5-rM&token_path=%2Flive&expires=1771538956/live/smrtv-ch01/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.sanmarinortv.sm/assets/frontend/img/footer-logo-sport-bn.png" group-title="SMRTV;ITALIANO;DYNAMIC",|SM| SAN MARINO RTV SPORT
-https://smrtvlive.b-cdn.net/bcdn_token=CJpn_4YsImbwPYzRjc2SzqgxD8zTKB_d0mCMRrSBKqg&token_path=%2Flive&expires=1771455657/live/smrtv-ch02/playlist.m3u8
+https://smrtvlive.b-cdn.net/bcdn_token=pXwNYC_kfo4SdZ8tPLPf7UFLpstl18Rw2MelB8xJ6VQ&token_path=%2Flive&expires=1771538957/live/smrtv-ch02/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://picserve.netplus.ch/channels/canale5.png" group-title="MEDIASET;ITALIANO",|IT| CANALE 5
 https://viamotionhsi.netplus.ch/live/eds/canale5/browser-HLS8/canale5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://picserve.netplus.ch/channels/italia1.png" group-title="MEDIASET;ITALIANO",|IT| ITALIA 1
@@ -1301,7 +1301,7 @@ https://viamotionhsi.netplus.ch/live/eds/dmsat/browser-HLS8/dmsat.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://picserve.netplus.ch/channels/rtcg.png" group-title="PUBLIC;BCMS",|ME| MNE
 https://viamotionhsi.netplus.ch/live/eds/rtcg/browser-HLS8/rtcg.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/euronews.png" group-title="EURONEWS;INTERNATIONAL;NEWS;DYNAMIC",|FR_BG| EURONEWS BG
-https://lb-ts.cdn.bg/euronews/fls/euronews.stream/at=O0M9ODAuMjAwLjE4My45MztFPTE3NzE0NjY0NTg7QT0xO0s9MztQPTAxMTEwO1M9NTk1YTU0YWQ4MTQ2NTJiMWNlMmVkMzg1M2JlYmYzNTZmOTI3MDAzYw==/playlist.m3u8
+https://lb-ts.cdn.bg/euronews/fls/euronews.stream/at=O0M9ODAuMjAwLjE4My45MztFPTE3NzE1NDk3NTc7QT0xO0s9MztQPTAxMTEwO1M9ZDQxZTkwNGE5NWIwMzYxNDUzNjg4ODhmOTI4ZDVhY2NhMWNkODg0OQ==/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/euronews.png" group-title="EURONEWS;INTERNATIONAL;NEWS;DYNAMIC",|FR_RU| EURONEWS RU
 https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/streams/yt-euronewsru.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/dwtv.png" group-title="DW;INTERNATIONAL;NEWS",|DE_RU| DW-TV RU
@@ -1532,7 +1532,7 @@ https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
 https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://nl.radio.net/300/franceinter.png" group-title="RADIO FRANCE;FRANÇAIS;RADIO;DYNAMIC",|FR| FRANCE INTER
 #KODIPROP:inputstream=inputstream.ffmpeg
-https://cdndirector.dailymotion.com/cdn/live/video/x17qw0a.m3u8?sec=kagpAVuWvMkKX86qhkmvlva63QpgyjCYDySQPGhW5vWhHWr1rM4p77gF5qGEGc4WQUS6uKPIIetNkvrl_RE3tQ
+https://cdndirector.dailymotion.com/cdn/live/video/x17qw0a.m3u8?sec=HbCApoY5ZGBbV3ezb-RwkA9yBrwNsol48NXtg_1tc32cFSd-dUe_A6y4jb5Pun-eOB8VV0K89wGbn1cLqqRNmQ
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FMM;FRANÇAIS;RADIO;DYNAMIC",|FR| RFI
 https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/streams/yt-rfi.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/RTL_logo.svg/960px-RTL_logo.svg.png" group-title="RTL.FR;FRANÇAIS;RADIO;DYNAMIC",|FR| RTL RADIO FR
