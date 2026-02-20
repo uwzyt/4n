@@ -4,6 +4,10 @@
 
 # BELGIQUE_FR
 
+#EXTINF:-1,TEST
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|73caf71ca5724023836d740d07e67f4f:372e15f9dc426e3b396d601297877679
+https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/streams/test.m3u8
 #EXTINF:-1 tvg-id="LaUne.be" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/rtbflaune.png" group-title="RTBF;FRANÇAIS",|BE| RTBF LA UNE
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|cbdd636bb2e44f1fa6ebd41f46a3cc52:e6ab6c56a79962dcab612e9dc4fea986
