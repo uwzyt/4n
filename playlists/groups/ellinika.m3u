@@ -60,10 +60,16 @@ https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
 
 # ΕΛΛΗΝΙΚΑ (ΘΕΜΑΤΙΚΑ ΚΑΙ ΤΟΠΙΚΑ)
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/ertseasonal.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ;SPORTS",|GR| ΕΡΤ SEASONAL
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/ertseasonal.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ;SPORTS",|GR| ΕΡΤ SEASONAL 1
 https://ert-live.ascdn.broadpeak.io/bpk-tv/Seasonal/default/hls/master_mpegts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/ertseasonal.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ;SPORTS",|GR| ΕΡΤ SEASONAL 2
+https://ert-live.ascdn.broadpeak.io/bpk-tv/Seasonal2/default/hls/master_mpegts.m3u8
 #EXTINF:-1 tvg-id="vouli" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/voulitvworld.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ",|GR| ΒΟΥΛΗ TV WORLD
 https://ert-live.ascdn.broadpeak.io/bpk-tv/Vouli_World/default/hls/master_mpegts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/ertnews2.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ;NEWS",|GR| ΕΡΤ NEWS 2
+https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTNews2/default/hls/master_mpegts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/ertnews3.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ;NEWS",|GR| ΕΡΤ NEWS 3
+https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTNews3/default/hls/master_mpegts.m3u8
 #EXTINF:-1 tvg-id="ertsports" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/ertsports1.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ;SPORTS",|GR| ΕΡΤ SPORTS 1
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports1/default/hls/master_mpegts.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/uwzyt/4n/refs/heads/main/assets/icons/tv/ertsports2.png" group-title="ΕΡΤ;ΕΛΛΗΝΙΚΑ;SPORTS",|GR| ΕΡΤ SPORTS 2
@@ -142,6 +148,8 @@ https://fr.crystalweb.net:1936/tvrodopi/tvrodopi/playlist.m3u8
 https://fr.crystalweb.net:1936/marontv/marontv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://rodopiflix.gr/wp-content/uploads/2024/09/logo-300x184-1.png" group-title="LOCAL_EL;ΕΛΛΗΝΙΚΑ",|GR| Η ΞΥΛΑΓΑΝΗ ΚΟΝΤΑ ΣΤΗΝ ΠΑΡΑΔΟΣΗ! [ΑΝ. ΜΑΚ. ΚΑΙ ΘΡΑΚΗ]
 https://fr.crystalweb.net:1936/xiylaganiparadosi/xiylaganiparadosi/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvd.gr/wp-content/uploads/2022/02/logo-tvd.jpg" group-title="LOCAL_EL;ΕΛΛΗΝΙΚΑ",|GR| ΕΔ [ΑΝ. ΜΑΚ. ΚΑΙ ΘΡΑΚΗ]
+https://gra1.crystalweb.net:1936/tvdelta/tvdelta/playlist.m3u8
 #EXTINF:-1 tvg-id="berginatv" tvg-logo="https://verginatv.com.cy/wp-content/uploads/2024/11/1732350837-f7c8cd472b0e2608fb4c8d595fea798b.webp" group-title="LOCAL_EL;ΕΛΛΗΝΙΚΑ",|GR| ΒΕΡΓΙΝΑ [ΚΕΝΤΡΙΚΗ ΜΑΚΕΔΟΝΙΑ]
 https://verginanews.gr:8443/hls_live/stream1.m3u8
 #EXTINF:-1 tvg-id="diontv" tvg-logo="https://diontv.gr/wp-content/uploads/2021/01/cropped-dionlogo.png" group-title="LOCAL_EL;ΕΛΛΗΝΙΚΑ",|GR| DION [ΚΕΝΤΡΙΚΗ ΜΑΚΕΔΟΝΙΑ]
@@ -195,6 +203,8 @@ https://thessaliachannel.gr:3339/live/thesstvlive.m3u8
 https://av.hellasnet.tv/rst/trt/index.m3u8
 #EXTINF:-1 tvg-id="astratv" tvg-logo="https://www.astratv.gr/wp-content/uploads/2023/11/mainlogo.png" group-title="LOCAL_EL;ΕΛΛΗΝΙΚΑ",|GR| ASTRA [ΘΕΣΣΑΛΙΑ]
 https://live20.bozztv.com/akamaissh101/ssh101/astratv/playlist.m3u8
+#EXTINF:-1 tvg-id="formediatv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-form-media-tv.jpg" group-title="LOCAL_EL;ΕΛΛΗΝΙΚΑ",|GR| FORMEDIA TV [ΘΕΣΣΑΛΙΑ] 
+https://mercury.32bit.gr:19360/formediatv/formediatv.m3u8
 #EXTINF:-1 tvg-id="starke" tvg-logo="https://i.imgur.com/kI5EYvR.png" group-title="LOCAL_EL;ΕΛΛΗΝΙΚΑ",|GR| STAR KΕΝΤΡΙΚΗΣ ΕΛΛΑΔΑΣ [ΣΤΕΡΕΑ ΕΛΛΑΔΑ]
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 http://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8
