@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subtitles",NAME="slv",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="und",URI="https://cdn-live.rtvslo.si/hls/live/2099493/slo1_ott/hdntl=exp=1787650219~acl=%2f*~data=hdntl~hmac=0b6a59d372b9f50de0cd75b649fbc4a3ef5a23be5c230d26662efe81bd02ce7d/4.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=972136,AVERAGE-BANDWIDTH=972136,CODECS="avc1.4d401e,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000,SUBTITLES="subtitles"
+https://cdn-live.rtvslo.si/hls/live/2099493/slo1_ott/hdntl=exp=1787650219~acl=%2f*~data=hdntl~hmac=0b6a59d372b9f50de0cd75b649fbc4a3ef5a23be5c230d26662efe81bd02ce7d/slo1_360p-new.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2300392,AVERAGE-BANDWIDTH=2300392,CODECS="avc1.4d401f,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000,SUBTITLES="subtitles"
+https://cdn-live.rtvslo.si/hls/live/2099493/slo1_ott/hdntl=exp=1787650219~acl=%2f*~data=hdntl~hmac=0b6a59d372b9f50de0cd75b649fbc4a3ef5a23be5c230d26662efe81bd02ce7d/slo1_720p-new.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5876488,AVERAGE-BANDWIDTH=5876488,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000,SUBTITLES="subtitles"
+https://cdn-live.rtvslo.si/hls/live/2099493/slo1_ott/hdntl=exp=1787650219~acl=%2f*~data=hdntl~hmac=0b6a59d372b9f50de0cd75b649fbc4a3ef5a23be5c230d26662efe81bd02ce7d/slo1_1080p-new.m3u8

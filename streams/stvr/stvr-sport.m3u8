@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1667072,RESOLUTION=854x480
+https://n15.stv.livebox.sk/stv-tv/b3cd1c405b8e66202ea0057b955c8b80/SK-stv4.smil/chunklist_b1667072.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5251072,RESOLUTION=1920x1080
+https://n15.stv.livebox.sk/stv-tv/b3cd1c405b8e66202ea0057b955c8b80/SK-stv4.smil/chunklist_b5251072.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2691072,RESOLUTION=1280x720
+https://n15.stv.livebox.sk/stv-tv/b3cd1c405b8e66202ea0057b955c8b80/SK-stv4.smil/chunklist_b2691072.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=950272,RESOLUTION=640x360
+https://n15.stv.livebox.sk/stv-tv/b3cd1c405b8e66202ea0057b955c8b80/SK-stv4.smil/chunklist_b950272.m3u8

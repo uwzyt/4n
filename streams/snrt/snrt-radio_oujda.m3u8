@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=99020,CODECS="mp4a.40.2"
+https://cdn.live.easybroadcast.io/live/radio_oujda/chunks.m3u8?token=jfvOsiuXqVjsh9WXzeGzanqF4RMNrzvmh_whdp-HlaE&token_path=/live/radio_oujda&expires=1787608830

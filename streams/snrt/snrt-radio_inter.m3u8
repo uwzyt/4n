@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=99530,CODECS="mp4a.40.2"
+https://cdn.live.easybroadcast.io/live/radio_inter/chunks.m3u8?token=IMGRjNsXeKLH0XhRL5PHeGRpK8-GLtvgzKx8OS-eDJE&token_path=/live/radio_inter&expires=1787608827

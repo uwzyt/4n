@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1635627,RESOLUTION=854x480,FRAME-RATE=50,CODECS="avc1.4d401f,mp4a.40.2"
+https://cdn.live.easybroadcast.io/abr_corp/73_assadissa_7b7u5n1/corp/73_assadissa_7b7u5n1_480p/chunks_dvr.m3u8?token=CmMaTp0N9daHqb_b3kdh2-kwTofjT0P4RZFv7y_VwPk&token_path=/abr_corp/73_assadissa_7b7u5n1&expires=1787608826
+#EXT-X-STREAM-INF:BANDWIDTH=778772,RESOLUTION=640x360,FRAME-RATE=50,CODECS="avc1.4d401f,mp4a.40.2"
+https://cdn.live.easybroadcast.io/abr_corp/73_assadissa_7b7u5n1/corp/73_assadissa_7b7u5n1_360p/chunks_dvr.m3u8?token=CmMaTp0N9daHqb_b3kdh2-kwTofjT0P4RZFv7y_VwPk&token_path=/abr_corp/73_assadissa_7b7u5n1&expires=1787608826
+#EXT-X-STREAM-INF:BANDWIDTH=441168,RESOLUTION=426x240,FRAME-RATE=50,CODECS="avc1.4d4016,mp4a.40.2"
+https://cdn.live.easybroadcast.io/abr_corp/73_assadissa_7b7u5n1/corp/73_assadissa_7b7u5n1_240p/chunks_dvr.m3u8?token=CmMaTp0N9daHqb_b3kdh2-kwTofjT0P4RZFv7y_VwPk&token_path=/abr_corp/73_assadissa_7b7u5n1&expires=1787608826
