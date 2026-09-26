@@ -1,0 +1,5 @@
+#EXTM3U
+# Created with Qbit Q8V Codec System v3.42.3
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=192000,CODECS="mp4a.40.2"
+https://cdn-radio.rtvslo.si/hls/live/2101137/qbit_sportval202/hdntl=exp=1790501436~acl=%2f*~data=hdntl~hmac=686acae8fc0146b946c7ba95d0847abff1f3649439b410eb130f4ae6bb0849e9/chunklist-192.m3u8
