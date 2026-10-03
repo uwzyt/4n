@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:6
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="source_audio",NAME="Audio_1",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",URI="https://live.libyaalahrar.tv/live/1791064800/I9_HCTE9/DYsjZ3okpUlqz71UuA37rg/tv/chunklist_4_audio_YcJVEbqN_llhls.m3u8?session=18_NOcDSlu6"
+
+
+#EXT-X-STREAM-INF:BANDWIDTH=1728000,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.64001f,mp4a.40.2",AUDIO="source_audio"
+https://live.libyaalahrar.tv/live/1791064800/I9_HCTE9/DYsjZ3okpUlqz71UuA37rg/tv/chunklist_1_video_YcJVEbqN_llhls.m3u8?session=18_NOcDSlu6
+#EXT-X-STREAM-INF:BANDWIDTH=828000,RESOLUTION=856x480,FRAME-RATE=25.000,CODECS="avc1.64001e,mp4a.40.2",AUDIO="source_audio"
+https://live.libyaalahrar.tv/live/1791064800/I9_HCTE9/DYsjZ3okpUlqz71UuA37rg/tv/chunklist_2_video_YcJVEbqN_llhls.m3u8?session=18_NOcDSlu6
+#EXT-X-STREAM-INF:BANDWIDTH=528000,RESOLUTION=640x360,FRAME-RATE=25.000,CODECS="avc1.64001e,mp4a.40.2",AUDIO="source_audio"
+https://live.libyaalahrar.tv/live/1791064800/I9_HCTE9/DYsjZ3okpUlqz71UuA37rg/tv/chunklist_3_video_YcJVEbqN_llhls.m3u8?session=18_NOcDSlu6

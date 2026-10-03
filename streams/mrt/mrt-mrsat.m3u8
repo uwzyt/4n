@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=128117,CODECS="mp4a.40.2"
+https://vod-c57.interspace.com:443/channel_abr/50/receiver/50_p2/chunks.m3u8?nimblesessionid=117955880&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDI2IDg6MDA6MzAgUE0maGFzaF92YWx1ZT1LYnJ4Rk1wRDduYVVkOWNmWTB6TWpnPT0mdmFsaWRtaW51dGVzPTMwJmlkPTZhYzE1ZWRlOWQ4ODQ=

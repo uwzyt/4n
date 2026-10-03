@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=99210,CODECS="mp4a.40.2"
+https://cdn.live.easybroadcast.io/live/radio_fes/chunks.m3u8?token=qe7g28Z7edjkUETTqCM8VMd0r9DgoJ326l4G-68gY3Y&token_path=/live/radio_fes&expires=1791061226
