@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=31200000,RESOLUTION=1920x1080
+https://rtv-murcia-live.globalmest.com/secundario/smil:secundario.smil/chunklist_w349159701_b31200000.m3u8?auth_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfa2V5Ijoia2V5MyIsImV4cCI6MTc5MTY4MDU0MH0.VDR7AV5btti5EtxQT97_MGuvo1DCh4N8moDwFCy2cjc
+#EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=1280x720
+https://rtv-murcia-live.globalmest.com/secundario/smil:secundario.smil/chunklist_w349159701_b1500000.m3u8?auth_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfa2V5Ijoia2V5MyIsImV4cCI6MTc5MTY4MDU0MH0.VDR7AV5btti5EtxQT97_MGuvo1DCh4N8moDwFCy2cjc
+#EXT-X-STREAM-INF:BANDWIDTH=365000,RESOLUTION=640x480
+https://rtv-murcia-live.globalmest.com/secundario/smil:secundario.smil/chunklist_w349159701_b365000.m3u8?auth_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfa2V5Ijoia2V5MyIsImV4cCI6MTc5MTY4MDU0MH0.VDR7AV5btti5EtxQT97_MGuvo1DCh4N8moDwFCy2cjc
