@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=99281,CODECS="mp4a.40.2"
+https://cdn.live.easybroadcast.io/live/radio_med_VI/chunks.m3u8?token=8qzWPtsiFdrbPuYTwAnJhgwQoTvtYoanrpLHb54wF3w&token_path=/live/radio_med_VI&expires=1792274424

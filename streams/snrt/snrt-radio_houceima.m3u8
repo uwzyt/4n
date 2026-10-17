@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=99371,CODECS="mp4a.40.2"
+https://cdn.live.easybroadcast.io/live/radio_houceima/chunks.m3u8?token=icmfLuTDJsmlVwKd1Cw80BduIRX4NR2Rj8MV75hYx4o&token_path=/live/radio_houceima&expires=1792274425

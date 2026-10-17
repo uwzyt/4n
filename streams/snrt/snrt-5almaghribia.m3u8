@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1635495,RESOLUTION=854x480,FRAME-RATE=50,CODECS="avc1.4d401f,mp4a.40.2"
+https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/corp/73_almaghribia_83tz85q_480p/chunks_dvr.m3u8?token=bBb6lO5gS6xrpTIGiUx3A9LRjQLGDwNN6XIohAEoo-8&token_path=/abr_corp/73_almaghribia_83tz85q&expires=1792274422
+#EXT-X-STREAM-INF:BANDWIDTH=777700,RESOLUTION=640x360,FRAME-RATE=50,CODECS="avc1.4d401f,mp4a.40.2"
+https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/corp/73_almaghribia_83tz85q_360p/chunks_dvr.m3u8?token=bBb6lO5gS6xrpTIGiUx3A9LRjQLGDwNN6XIohAEoo-8&token_path=/abr_corp/73_almaghribia_83tz85q&expires=1792274422
+#EXT-X-STREAM-INF:BANDWIDTH=439777,RESOLUTION=426x240,FRAME-RATE=50,CODECS="avc1.4d4016,mp4a.40.2"
+https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/corp/73_almaghribia_83tz85q_240p/chunks_dvr.m3u8?token=bBb6lO5gS6xrpTIGiUx3A9LRjQLGDwNN6XIohAEoo-8&token_path=/abr_corp/73_almaghribia_83tz85q&expires=1792274422
