@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=544111,FRAME-RATE=20,RESOLUTION=640x360,CODECS="avc1.42001e,mp4a.40.2"
+https://vod-c57.interspace.com:443/channel_abr/45/receiver/45_p2/chunks.m3u8?nimblesessionid=120622825&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNiAxOjAwOjUxIFBNJmhhc2hfdmFsdWU9ajRhanlVLytUUTFOUGswYWg1RmgwUT09JnZhbGlkbWludXRlcz0zMCZpZD02YWRjYWMwMzBjMTQ4
