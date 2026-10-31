@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=99531,CODECS="mp4a.40.2"
+https://cdn.live.easybroadcast.io/live/radio_marrakech/chunks.m3u8?token=DkkmJIzqNv33blzw7UzZlyOVi3NV0kiObj5PMq6qzHI&token_path=/live/radio_marrakech&expires=1793466030

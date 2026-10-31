@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=99218,CODECS="mp4a.40.2"
+https://cdn.live.easybroadcast.io/live/radio_dakhla/chunks.m3u8?token=W9-SnobSyctCem5PRWRUqyAvLygqXOKyT4HpBRY3src&token_path=/live/radio_dakhla&expires=1793466028
