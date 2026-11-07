@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=99313,CODECS="mp4a.40.2"
+https://cdn.live.easybroadcast.io/live/radio_tetouan/chunks.m3u8?token=gNnp_sZHvgRPUovcPkTzLcozsC7eIJfSLEYNR-m_dB0&token_path=/live/radio_tetouan&expires=1794056423
