@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=99327,CODECS="mp4a.40.2"
+https://cdn.live.easybroadcast.io/live/radio_laayoune/chunks.m3u8?token=qtwXrxVCYvFdkP4Wrz4eKH0yOOvZyH1EWsosDN0_LX8&token_path=/live/radio_laayoune&expires=1794675629

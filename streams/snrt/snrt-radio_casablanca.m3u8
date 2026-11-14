@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=99271,CODECS="mp4a.40.2"
+https://cdn.live.easybroadcast.io/live/radio_casablanca/chunks.m3u8?token=J22Lkqu39PBCckWoCXdPVGkP7WABU_qzVRhVyQnv8OI&token_path=/live/radio_casablanca&expires=1794675628

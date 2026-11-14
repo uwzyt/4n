@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=99500,CODECS="mp4a.40.2"
+https://cdn.live.easybroadcast.io/live/radio_agadir/chunks.m3u8?token=jlbkdBGUYu8umbPgdk7Jr4JHW832Cio5v_7Pdd3zM6g&token_path=/live/radio_agadir&expires=1794675626

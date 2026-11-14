@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=99297,CODECS="mp4a.40.2"
+https://cdn.live.easybroadcast.io/live/radio_tanger/chunks.m3u8?token=gR3jPiPSjtFCFRQhFEzyNhOR4vK25oGt8-Kp_a7ZLUQ&token_path=/live/radio_tanger&expires=1794675627

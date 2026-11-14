@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=100270,CODECS="mp4a.40.2"
+https://cdn.live.easybroadcast.io/live/radio_amazigh/chunks.m3u8?token=24fpw9uyNDfWLEGgl1ZBxdPNjdxL-iiF_cbVmnZg_xA&token_path=/live/radio_amazigh&expires=1794675625
