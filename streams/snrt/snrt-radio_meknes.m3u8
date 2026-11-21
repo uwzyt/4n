@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=99170,CODECS="mp4a.40.2"
+https://cdn.live.easybroadcast.io/live/radio_meknes/chunks.m3u8?token=djPRPc_b9XExXL-ZchkU-maxQC2hsVnbAh06UdWUlHw&token_path=/live/radio_meknes&expires=1795194025
