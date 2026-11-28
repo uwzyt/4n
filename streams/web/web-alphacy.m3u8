@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2883852,FRAME-RATE=25,RESOLUTION=1920x1080,CODECS="avc1.640028,mp4a.40.2"
+https://ln11.cloudskep.com/alphacyp/acy/l4/fhd/chunks.m3u8?nimblesessionid=15587904&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyNiAzOjAwOjE4IFBNJmhhc2hfdmFsdWU9ODVLc1VqRDJuRjVEVjJpSE1Kckx6dz09JnZhbGlkbWludXRlcz0zMA==
+#EXT-X-STREAM-INF:BANDWIDTH=1797633,FRAME-RATE=25,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2"
+https://ln11.cloudskep.com/alphacyp/acy/l4/hd/chunks.m3u8?nimblesessionid=15587904&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyNiAzOjAwOjE4IFBNJmhhc2hfdmFsdWU9ODVLc1VqRDJuRjVEVjJpSE1Kckx6dz09JnZhbGlkbWludXRlcz0zMA==
+#EXT-X-STREAM-INF:BANDWIDTH=638095,FRAME-RATE=25,RESOLUTION=512x288,CODECS="avc1.640015,mp4a.40.2"
+https://ln11.cloudskep.com/alphacyp/acy/l4/lsd/chunks.m3u8?nimblesessionid=15587904&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyNiAzOjAwOjE4IFBNJmhhc2hfdmFsdWU9ODVLc1VqRDJuRjVEVjJpSE1Kckx6dz09JnZhbGlkbWludXRlcz0zMA==

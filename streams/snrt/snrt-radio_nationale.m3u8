@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=98976,CODECS="mp4a.40.2"
+https://cdn.live.easybroadcast.io/live/radio_nationale/chunks.m3u8?token=_g54l8OOspU7ilmsMh-2o8SmWSh40H8YOdNLjMjPrt0&token_path=/live/radio_nationale&expires=1795881622
